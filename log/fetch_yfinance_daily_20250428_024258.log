@@ -1,0 +1,2 @@
+2025-04-28 02:42:58,321 - INFO - Creating new output file data/daily_stock_price/sp500_daily_data_yfinance.csv
+2025-04-28 02:42:58,323 - ERROR - Constituents file data/index/sp500_constituents.csv not found

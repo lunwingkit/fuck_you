@@ -1,0 +1,1011 @@
+2025-04-28 02:44:07,068 - INFO - Loading existing data from data/daily_stock_price/sp500_daily_data_yfinance.csv
+2025-04-28 02:44:07,079 - INFO - Running job on 2025-04-28, fetching missing data up to 2025-04-27
+2025-04-28 02:44:07,079 - INFO - Fetching daily data for MMM
+2025-04-28 02:44:08,310 - INFO - Added 15936 new rows for MMM up to 2025-04-27
+2025-04-28 02:44:08,832 - INFO - Fetching daily data for AOS
+2025-04-28 02:44:09,456 - INFO - Added 10475 new rows for AOS up to 2025-04-27
+2025-04-28 02:44:09,969 - INFO - Fetching daily data for ABT
+2025-04-28 02:44:10,733 - INFO - Added 11371 new rows for ABT up to 2025-04-27
+2025-04-28 02:44:11,249 - INFO - Fetching daily data for ABBV
+2025-04-28 02:44:11,525 - INFO - Added 3098 new rows for ABBV up to 2025-04-27
+2025-04-28 02:44:12,029 - INFO - Fetching daily data for ACN
+2025-04-28 02:44:12,383 - INFO - Added 5978 new rows for ACN up to 2025-04-27
+2025-04-28 02:44:12,899 - INFO - Fetching daily data for ADBE
+2025-04-28 02:44:13,398 - INFO - Added 9751 new rows for ADBE up to 2025-04-27
+2025-04-28 02:44:13,910 - INFO - Fetching daily data for AMD
+2025-04-28 02:44:14,298 - INFO - Added 11371 new rows for AMD up to 2025-04-27
+2025-04-28 02:44:14,812 - INFO - Fetching daily data for AES
+2025-04-28 02:44:15,356 - INFO - Added 8520 new rows for AES up to 2025-04-27
+2025-04-28 02:44:15,888 - INFO - Fetching daily data for AFL
+2025-04-28 02:44:16,643 - INFO - Added 11371 new rows for AFL up to 2025-04-27
+2025-04-28 02:44:17,157 - INFO - Fetching daily data for A
+2025-04-28 02:44:17,536 - INFO - Added 6397 new rows for A up to 2025-04-27
+2025-04-28 02:44:18,051 - INFO - Fetching daily data for APD
+2025-04-28 02:44:18,790 - INFO - Added 11371 new rows for APD up to 2025-04-27
+2025-04-28 02:44:19,305 - INFO - Fetching daily data for ABNB
+2025-04-28 02:44:19,396 - INFO - Added 1098 new rows for ABNB up to 2025-04-27
+2025-04-28 02:44:19,898 - INFO - Fetching daily data for AKAM
+2025-04-28 02:44:20,149 - INFO - Added 6411 new rows for AKAM up to 2025-04-27
+2025-04-28 02:44:20,657 - INFO - Fetching daily data for ALB
+2025-04-28 02:44:21,060 - INFO - Added 7847 new rows for ALB up to 2025-04-27
+2025-04-28 02:44:21,573 - INFO - Fetching daily data for ARE
+2025-04-28 02:44:22,033 - INFO - Added 7023 new rows for ARE up to 2025-04-27
+2025-04-28 02:44:22,544 - INFO - Fetching daily data for ALGN
+2025-04-28 02:44:22,847 - INFO - Added 6096 new rows for ALGN up to 2025-04-27
+2025-04-28 02:44:23,356 - INFO - Fetching daily data for ALLE
+2025-04-28 02:44:23,582 - INFO - Added 2876 new rows for ALLE up to 2025-04-27
+2025-04-28 02:44:24,086 - INFO - Fetching daily data for LNT
+2025-04-28 02:44:24,703 - INFO - Added 13157 new rows for LNT up to 2025-04-27
+2025-04-28 02:44:25,232 - INFO - Fetching daily data for ALL
+2025-04-28 02:44:25,704 - INFO - Added 8030 new rows for ALL up to 2025-04-27
+2025-04-28 02:44:26,217 - INFO - Fetching daily data for GOOGL
+2025-04-28 02:44:26,560 - INFO - Added 5205 new rows for GOOGL up to 2025-04-27
+2025-04-28 02:44:27,072 - INFO - Fetching daily data for GOOG
+2025-04-28 02:44:27,322 - INFO - Added 5205 new rows for GOOG up to 2025-04-27
+2025-04-28 02:44:27,828 - INFO - Fetching daily data for MO
+2025-04-28 02:44:28,784 - INFO - Added 15936 new rows for MO up to 2025-04-27
+2025-04-28 02:44:29,322 - INFO - Fetching daily data for AMZN
+2025-04-28 02:44:29,663 - INFO - Added 7031 new rows for AMZN up to 2025-04-27
+2025-04-28 02:44:30,172 - INFO - Fetching daily data for AMCR
+2025-04-28 02:44:30,363 - INFO - Added 3256 new rows for AMCR up to 2025-04-27
+2025-04-28 02:44:30,869 - INFO - Fetching daily data for AEE
+2025-04-28 02:44:31,313 - INFO - Added 6871 new rows for AEE up to 2025-04-27
+2025-04-28 02:44:31,821 - INFO - Fetching daily data for AEP
+2025-04-28 02:44:32,951 - INFO - Added 15936 new rows for AEP up to 2025-04-27
+2025-04-28 02:44:33,503 - INFO - Fetching daily data for AXP
+2025-04-28 02:44:34,325 - INFO - Added 13337 new rows for AXP up to 2025-04-27
+2025-04-28 02:44:34,856 - INFO - Fetching daily data for AIG
+2025-04-28 02:44:35,490 - INFO - Added 13191 new rows for AIG up to 2025-04-27
+2025-04-28 02:44:36,023 - INFO - Fetching daily data for AMT
+2025-04-28 02:44:36,369 - INFO - Added 6833 new rows for AMT up to 2025-04-27
+2025-04-28 02:44:36,878 - INFO - Fetching daily data for AWK
+2025-04-28 02:44:37,142 - INFO - Added 4280 new rows for AWK up to 2025-04-27
+2025-04-28 02:44:37,647 - INFO - Fetching daily data for AMP
+2025-04-28 02:44:37,964 - INFO - Added 4934 new rows for AMP up to 2025-04-27
+2025-04-28 02:44:38,470 - INFO - Fetching daily data for AME
+2025-04-28 02:44:39,170 - INFO - Added 10273 new rows for AME up to 2025-04-27
+2025-04-28 02:44:39,690 - INFO - Fetching daily data for AMGN
+2025-04-28 02:44:40,245 - INFO - Added 10548 new rows for AMGN up to 2025-04-27
+2025-04-28 02:44:40,757 - INFO - Fetching daily data for APH
+2025-04-28 02:44:41,203 - INFO - Added 8425 new rows for APH up to 2025-04-27
+2025-04-28 02:44:41,713 - INFO - Fetching daily data for ADI
+2025-04-28 02:44:42,213 - INFO - Added 11371 new rows for ADI up to 2025-04-27
+2025-04-28 02:44:42,727 - INFO - Fetching daily data for ANSS
+2025-04-28 02:44:43,043 - INFO - Added 7259 new rows for ANSS up to 2025-04-27
+2025-04-28 02:44:43,552 - INFO - Fetching daily data for AON
+2025-04-28 02:44:44,321 - INFO - Added 11318 new rows for AON up to 2025-04-27
+2025-04-28 02:44:44,835 - INFO - Fetching daily data for APA
+2025-04-28 02:44:45,503 - INFO - Added 11583 new rows for APA up to 2025-04-27
+2025-04-28 02:44:46,031 - INFO - Fetching daily data for APO
+2025-04-28 02:44:46,263 - INFO - Added 3540 new rows for APO up to 2025-04-27
+2025-04-28 02:44:46,768 - INFO - Fetching daily data for AAPL
+2025-04-28 02:44:47,381 - INFO - Added 11183 new rows for AAPL up to 2025-04-27
+2025-04-28 02:44:47,900 - INFO - Fetching daily data for AMAT
+2025-04-28 02:44:48,430 - INFO - Added 11371 new rows for AMAT up to 2025-04-27
+2025-04-28 02:44:48,948 - INFO - Fetching daily data for APTV
+2025-04-28 02:44:49,151 - INFO - Added 3378 new rows for APTV up to 2025-04-27
+2025-04-28 02:44:49,656 - INFO - Fetching daily data for ACGL
+2025-04-28 02:44:50,010 - INFO - Added 7453 new rows for ACGL up to 2025-04-27
+2025-04-28 02:44:50,523 - INFO - Fetching daily data for ADM
+2025-04-28 02:44:51,151 - INFO - Added 11371 new rows for ADM up to 2025-04-27
+2025-04-28 02:44:51,676 - INFO - Fetching daily data for ANET
+2025-04-28 02:44:52,212 - INFO - Added 2739 new rows for ANET up to 2025-04-27
+2025-04-28 02:44:52,716 - INFO - Fetching daily data for AJG
+2025-04-28 02:44:53,284 - INFO - Added 10293 new rows for AJG up to 2025-04-27
+2025-04-28 02:44:53,911 - INFO - Fetching daily data for AIZ
+2025-04-28 02:44:54,211 - INFO - Added 5340 new rows for AIZ up to 2025-04-27
+2025-04-28 02:44:54,718 - INFO - Fetching daily data for T
+2025-04-28 02:44:55,374 - INFO - Added 10439 new rows for T up to 2025-04-27
+2025-04-28 02:44:55,887 - INFO - Fetching daily data for ATO
+2025-04-28 02:44:56,788 - INFO - Added 10414 new rows for ATO up to 2025-04-27
+2025-04-28 02:44:57,300 - INFO - Fetching daily data for ADSK
+2025-04-28 02:44:57,802 - INFO - Added 10034 new rows for ADSK up to 2025-04-27
+2025-04-28 02:44:58,314 - INFO - Fetching daily data for ADP
+2025-04-28 02:44:58,928 - INFO - Added 11371 new rows for ADP up to 2025-04-27
+2025-04-28 02:44:59,443 - INFO - Fetching daily data for AZO
+2025-04-28 02:44:59,794 - INFO - Added 8580 new rows for AZO up to 2025-04-27
+2025-04-28 02:45:00,304 - INFO - Fetching daily data for AVB
+2025-04-28 02:45:00,767 - INFO - Added 7834 new rows for AVB up to 2025-04-27
+2025-04-28 02:45:01,286 - INFO - Fetching daily data for AVY
+2025-04-28 02:45:02,039 - INFO - Added 13157 new rows for AVY up to 2025-04-27
+2025-04-28 02:45:02,556 - INFO - Fetching daily data for AXON
+2025-04-28 02:45:02,831 - INFO - Added 5999 new rows for AXON up to 2025-04-27
+2025-04-28 02:45:03,338 - INFO - Fetching daily data for BKR
+2025-04-28 02:45:03,893 - INFO - Added 9588 new rows for BKR up to 2025-04-27
+2025-04-28 02:45:04,405 - INFO - Fetching daily data for BALL
+2025-04-28 02:45:05,098 - INFO - Added 13157 new rows for BALL up to 2025-04-27
+2025-04-28 02:45:05,614 - INFO - Fetching daily data for BAC
+2025-04-28 02:45:06,386 - INFO - Added 13157 new rows for BAC up to 2025-04-27
+2025-04-28 02:45:06,915 - INFO - Fetching daily data for BAX
+2025-04-28 02:45:07,545 - INFO - Added 10963 new rows for BAX up to 2025-04-27
+2025-04-28 02:45:08,059 - INFO - Fetching daily data for BDX
+2025-04-28 02:45:08,853 - INFO - Added 13157 new rows for BDX up to 2025-04-27
+2025-04-28 02:45:09,369 - INFO - Fetching daily data for BRK.B
+2025-04-28 02:45:10,215 - ERROR - $BRK.B: possibly delisted; no timezone found
+2025-04-28 02:45:10,218 - INFO - No new data for BRK.B up to 2025-04-27
+2025-04-28 02:45:10,718 - INFO - Fetching daily data for BBY
+2025-04-28 02:45:11,198 - INFO - Added 10084 new rows for BBY up to 2025-04-27
+2025-04-28 02:45:11,710 - INFO - Fetching daily data for TECH
+2025-04-28 02:45:12,161 - INFO - Added 9120 new rows for TECH up to 2025-04-27
+2025-04-28 02:45:12,676 - INFO - Fetching daily data for BIIB
+2025-04-28 02:45:13,117 - INFO - Added 8463 new rows for BIIB up to 2025-04-27
+2025-04-28 02:45:13,633 - INFO - Fetching daily data for BLK
+2025-04-28 02:45:13,970 - INFO - Added 6431 new rows for BLK up to 2025-04-27
+2025-04-28 02:45:14,478 - INFO - Fetching daily data for BX
+2025-04-28 02:45:14,749 - INFO - Added 4490 new rows for BX up to 2025-04-27
+2025-04-28 02:45:15,257 - INFO - Fetching daily data for BK
+2025-04-28 02:45:16,085 - INFO - Added 13107 new rows for BK up to 2025-04-27
+2025-04-28 02:45:16,601 - INFO - Fetching daily data for BA
+2025-04-28 02:45:17,620 - INFO - Added 15936 new rows for BA up to 2025-04-27
+2025-04-28 02:45:18,158 - INFO - Fetching daily data for BKNG
+2025-04-28 02:45:18,498 - INFO - Added 6559 new rows for BKNG up to 2025-04-27
+2025-04-28 02:45:19,006 - INFO - Fetching daily data for BSX
+2025-04-28 02:45:19,344 - INFO - Added 8293 new rows for BSX up to 2025-04-27
+2025-04-28 02:45:19,854 - INFO - Fetching daily data for BMY
+2025-04-28 02:45:20,665 - INFO - Added 13337 new rows for BMY up to 2025-04-27
+2025-04-28 02:45:21,180 - INFO - Fetching daily data for AVGO
+2025-04-28 02:45:21,429 - INFO - Added 3955 new rows for AVGO up to 2025-04-27
+2025-04-28 02:45:21,934 - INFO - Fetching daily data for BR
+2025-04-28 02:45:22,559 - INFO - Added 4554 new rows for BR up to 2025-04-27
+2025-04-28 02:45:23,065 - INFO - Fetching daily data for BRO
+2025-04-28 02:45:23,800 - INFO - Added 11142 new rows for BRO up to 2025-04-27
+2025-04-28 02:45:24,321 - INFO - Fetching daily data for BF.B
+2025-04-28 02:45:24,360 - ERROR - $BF.B: possibly delisted; no price data found  (1d 1926-05-22 -> 2025-04-27)
+2025-04-28 02:45:24,361 - INFO - No new data for BF.B up to 2025-04-27
+2025-04-28 02:45:24,862 - INFO - Fetching daily data for BLDR
+2025-04-28 02:45:25,169 - INFO - Added 4989 new rows for BLDR up to 2025-04-27
+2025-04-28 02:45:25,676 - INFO - Fetching daily data for BG
+2025-04-28 02:45:26,123 - INFO - Added 5968 new rows for BG up to 2025-04-27
+2025-04-28 02:45:26,630 - INFO - Fetching daily data for BXP
+2025-04-28 02:45:27,072 - INFO - Added 7008 new rows for BXP up to 2025-04-27
+2025-04-28 02:45:27,581 - INFO - Fetching daily data for CHRW
+2025-04-28 02:45:28,011 - INFO - Added 6924 new rows for CHRW up to 2025-04-27
+2025-04-28 02:45:28,526 - INFO - Fetching daily data for CDNS
+2025-04-28 02:45:28,903 - INFO - Added 9543 new rows for CDNS up to 2025-04-27
+2025-04-28 02:45:29,415 - INFO - Fetching daily data for CZR
+2025-04-28 02:45:29,567 - INFO - Added 2665 new rows for CZR up to 2025-04-27
+2025-04-28 02:45:30,071 - INFO - Fetching daily data for CPT
+2025-04-28 02:45:30,537 - INFO - Added 7996 new rows for CPT up to 2025-04-27
+2025-04-28 02:45:31,047 - INFO - Fetching daily data for CPB
+2025-04-28 02:45:31,794 - INFO - Added 13157 new rows for CPB up to 2025-04-27
+2025-04-28 02:45:32,310 - INFO - Fetching daily data for COF
+2025-04-28 02:45:32,727 - INFO - Added 7661 new rows for COF up to 2025-04-27
+2025-04-28 02:45:33,238 - INFO - Fetching daily data for CAH
+2025-04-28 02:45:33,837 - INFO - Added 10515 new rows for CAH up to 2025-04-27
+2025-04-28 02:45:34,350 - INFO - Fetching daily data for KMX
+2025-04-28 02:45:34,642 - INFO - Added 7101 new rows for KMX up to 2025-04-27
+2025-04-28 02:45:35,150 - INFO - Fetching daily data for CCL
+2025-04-28 02:45:35,711 - INFO - Added 9512 new rows for CCL up to 2025-04-27
+2025-04-28 02:45:36,222 - INFO - Fetching daily data for CARR
+2025-04-28 02:45:36,364 - INFO - Added 1283 new rows for CARR up to 2025-04-27
+2025-04-28 02:45:36,867 - INFO - Fetching daily data for CAT
+2025-04-28 02:45:37,721 - INFO - Added 15936 new rows for CAT up to 2025-04-27
+2025-04-28 02:45:38,253 - INFO - Fetching daily data for CBOE
+2025-04-28 02:45:38,513 - INFO - Added 3740 new rows for CBOE up to 2025-04-27
+2025-04-28 02:45:39,019 - INFO - Fetching daily data for CBRE
+2025-04-28 02:45:39,254 - INFO - Added 5253 new rows for CBRE up to 2025-04-27
+2025-04-28 02:45:39,761 - INFO - Fetching daily data for CDW
+2025-04-28 02:45:39,984 - INFO - Added 2976 new rows for CDW up to 2025-04-27
+2025-04-28 02:45:40,488 - INFO - Fetching daily data for COR
+2025-04-28 02:45:40,933 - INFO - Added 7566 new rows for COR up to 2025-04-27
+2025-04-28 02:45:41,442 - INFO - Fetching daily data for CNC
+2025-04-28 02:45:41,869 - INFO - Added 5879 new rows for CNC up to 2025-04-27
+2025-04-28 02:45:42,376 - INFO - Fetching daily data for CNP
+2025-04-28 02:45:43,256 - INFO - Added 15936 new rows for CNP up to 2025-04-27
+2025-04-28 02:45:43,775 - INFO - Fetching daily data for CF
+2025-04-28 02:45:44,143 - INFO - Added 4958 new rows for CF up to 2025-04-27
+2025-04-28 02:45:44,651 - INFO - Fetching daily data for CRL
+2025-04-28 02:45:44,920 - INFO - Added 6247 new rows for CRL up to 2025-04-27
+2025-04-28 02:45:45,428 - INFO - Fetching daily data for SCHW
+2025-04-28 02:45:46,025 - INFO - Added 9471 new rows for SCHW up to 2025-04-27
+2025-04-28 02:45:46,536 - INFO - Fetching daily data for CHTR
+2025-04-28 02:45:46,757 - INFO - Added 3851 new rows for CHTR up to 2025-04-27
+2025-04-28 02:45:47,262 - INFO - Fetching daily data for CVX
+2025-04-28 02:45:48,226 - INFO - Added 15936 new rows for CVX up to 2025-04-27
+2025-04-28 02:45:48,745 - INFO - Fetching daily data for CMG
+2025-04-28 02:45:48,989 - INFO - Added 4843 new rows for CMG up to 2025-04-27
+2025-04-28 02:45:49,495 - INFO - Fetching daily data for CB
+2025-04-28 02:45:49,971 - INFO - Added 8078 new rows for CB up to 2025-04-27
+2025-04-28 02:45:50,481 - INFO - Fetching daily data for CHD
+2025-04-28 02:45:51,209 - INFO - Added 11371 new rows for CHD up to 2025-04-27
+2025-04-28 02:45:51,722 - INFO - Fetching daily data for CI
+2025-04-28 02:45:52,304 - INFO - Added 10856 new rows for CI up to 2025-04-27
+2025-04-28 02:45:52,819 - INFO - Fetching daily data for CINF
+2025-04-28 02:45:53,842 - INFO - Added 11371 new rows for CINF up to 2025-04-27
+2025-04-28 02:45:54,356 - INFO - Fetching daily data for CTAS
+2025-04-28 02:45:54,984 - INFO - Added 10504 new rows for CTAS up to 2025-04-27
+2025-04-28 02:45:55,496 - INFO - Fetching daily data for CSCO
+2025-04-28 02:45:56,064 - INFO - Added 8862 new rows for CSCO up to 2025-04-27
+2025-04-28 02:45:56,574 - INFO - Fetching daily data for C
+2025-04-28 02:45:57,318 - INFO - Added 12180 new rows for C up to 2025-04-27
+2025-04-28 02:45:57,833 - INFO - Fetching daily data for CFG
+2025-04-28 02:45:58,032 - INFO - Added 2663 new rows for CFG up to 2025-04-27
+2025-04-28 02:45:58,535 - INFO - Fetching daily data for CLX
+2025-04-28 02:45:59,264 - INFO - Added 13157 new rows for CLX up to 2025-04-27
+2025-04-28 02:45:59,791 - INFO - Fetching daily data for CME
+2025-04-28 02:46:00,177 - INFO - Added 5632 new rows for CME up to 2025-04-27
+2025-04-28 02:46:00,686 - INFO - Fetching daily data for CMS
+2025-04-28 02:46:01,475 - INFO - Added 13157 new rows for CMS up to 2025-04-27
+2025-04-28 02:46:01,991 - INFO - Fetching daily data for KO
+2025-04-28 02:46:03,016 - INFO - Added 15936 new rows for KO up to 2025-04-27
+2025-04-28 02:46:03,537 - INFO - Fetching daily data for CTSH
+2025-04-28 02:46:03,867 - INFO - Added 6755 new rows for CTSH up to 2025-04-27
+2025-04-28 02:46:04,375 - INFO - Fetching daily data for CL
+2025-04-28 02:46:05,112 - INFO - Added 13108 new rows for CL up to 2025-04-27
+2025-04-28 02:46:05,628 - INFO - Fetching daily data for CMCSA
+2025-04-28 02:46:06,405 - INFO - Added 11371 new rows for CMCSA up to 2025-04-27
+2025-04-28 02:46:06,921 - INFO - Fetching daily data for CAG
+2025-04-28 02:46:07,651 - INFO - Added 11371 new rows for CAG up to 2025-04-27
+2025-04-28 02:46:08,165 - INFO - Fetching daily data for COP
+2025-04-28 02:46:08,772 - INFO - Added 10918 new rows for COP up to 2025-04-27
+2025-04-28 02:46:09,290 - INFO - Fetching daily data for ED
+2025-04-28 02:46:10,201 - INFO - Added 15936 new rows for ED up to 2025-04-27
+2025-04-28 02:46:10,720 - INFO - Fetching daily data for STZ
+2025-04-28 02:46:11,164 - INFO - Added 8337 new rows for STZ up to 2025-04-27
+2025-04-28 02:46:11,674 - INFO - Fetching daily data for CEG
+2025-04-28 02:46:11,834 - INFO - Added 820 new rows for CEG up to 2025-04-27
+2025-04-28 02:46:12,335 - INFO - Fetching daily data for COO
+2025-04-28 02:46:12,914 - INFO - Added 10650 new rows for COO up to 2025-04-27
+2025-04-28 02:46:13,428 - INFO - Fetching daily data for CPRT
+2025-04-28 02:46:13,875 - INFO - Added 7830 new rows for CPRT up to 2025-04-27
+2025-04-28 02:46:14,385 - INFO - Fetching daily data for GLW
+2025-04-28 02:46:15,013 - INFO - Added 10918 new rows for GLW up to 2025-04-27
+2025-04-28 02:46:15,527 - INFO - Fetching daily data for CPAY
+2025-04-28 02:46:15,720 - INFO - Added 3612 new rows for CPAY up to 2025-04-27
+2025-04-28 02:46:16,225 - INFO - Fetching daily data for CTVA
+2025-04-28 02:46:16,354 - INFO - Added 1489 new rows for CTVA up to 2025-04-27
+2025-04-28 02:46:16,856 - INFO - Fetching daily data for CSGP
+2025-04-28 02:46:17,252 - INFO - Added 6747 new rows for CSGP up to 2025-04-27
+2025-04-28 02:46:17,761 - INFO - Fetching daily data for COST
+2025-04-28 02:46:18,262 - INFO - Added 9776 new rows for COST up to 2025-04-27
+2025-04-28 02:46:18,773 - INFO - Fetching daily data for CTRA
+2025-04-28 02:46:19,395 - INFO - Added 8868 new rows for CTRA up to 2025-04-27
+2025-04-28 02:46:19,915 - INFO - Fetching daily data for CRWD
+2025-04-28 02:46:20,018 - INFO - Added 1477 new rows for CRWD up to 2025-04-27
+2025-04-28 02:46:20,521 - INFO - Fetching daily data for CCI
+2025-04-28 02:46:20,872 - INFO - Added 6714 new rows for CCI up to 2025-04-27
+2025-04-28 02:46:21,381 - INFO - Fetching daily data for CSX
+2025-04-28 02:46:22,017 - INFO - Added 11210 new rows for CSX up to 2025-04-27
+2025-04-28 02:46:22,531 - INFO - Fetching daily data for CMI
+2025-04-28 02:46:23,181 - INFO - Added 13157 new rows for CMI up to 2025-04-27
+2025-04-28 02:46:23,879 - INFO - Fetching daily data for CVS
+2025-04-28 02:46:24,544 - INFO - Added 13157 new rows for CVS up to 2025-04-27
+2025-04-28 02:46:25,061 - INFO - Fetching daily data for DHR
+2025-04-28 02:46:25,683 - INFO - Added 11677 new rows for DHR up to 2025-04-27
+2025-04-28 02:46:26,198 - INFO - Fetching daily data for DRI
+2025-04-28 02:46:26,626 - INFO - Added 7542 new rows for DRI up to 2025-04-27
+2025-04-28 02:46:27,138 - INFO - Fetching daily data for DVA
+2025-04-28 02:46:27,551 - INFO - Added 7420 new rows for DVA up to 2025-04-27
+2025-04-28 02:46:28,061 - INFO - Fetching daily data for DAY
+2025-04-28 02:46:28,162 - INFO - Added 1760 new rows for DAY up to 2025-04-27
+2025-04-28 02:46:28,666 - INFO - Fetching daily data for DECK
+2025-04-28 02:46:29,752 - INFO - Added 7936 new rows for DECK up to 2025-04-27
+2025-04-28 02:46:30,262 - INFO - Fetching daily data for DE
+2025-04-28 02:46:30,991 - INFO - Added 13337 new rows for DE up to 2025-04-27
+2025-04-28 02:46:31,507 - INFO - Fetching daily data for DELL
+2025-04-28 02:46:31,672 - INFO - Added 2185 new rows for DELL up to 2025-04-27
+2025-04-28 02:46:32,175 - INFO - Fetching daily data for DAL
+2025-04-28 02:46:32,492 - INFO - Added 4525 new rows for DAL up to 2025-04-27
+2025-04-28 02:46:33,000 - INFO - Fetching daily data for DVN
+2025-04-28 02:46:33,528 - INFO - Added 10019 new rows for DVN up to 2025-04-27
+2025-04-28 02:46:34,040 - INFO - Fetching daily data for DXCM
+2025-04-28 02:46:34,379 - INFO - Added 5041 new rows for DXCM up to 2025-04-27
+2025-04-28 02:46:34,886 - INFO - Fetching daily data for FANG
+2025-04-28 02:46:35,144 - INFO - Added 3151 new rows for FANG up to 2025-04-27
+2025-04-28 02:46:35,649 - INFO - Fetching daily data for DLR
+2025-04-28 02:46:35,967 - INFO - Added 5155 new rows for DLR up to 2025-04-27
+2025-04-28 02:46:36,473 - INFO - Fetching daily data for DFS
+2025-04-28 02:46:36,774 - INFO - Added 4496 new rows for DFS up to 2025-04-27
+2025-04-28 02:46:37,280 - INFO - Fetching daily data for DG
+2025-04-28 02:46:37,563 - INFO - Added 3885 new rows for DG up to 2025-04-27
+2025-04-28 02:46:38,077 - INFO - Fetching daily data for DLTR
+2025-04-28 02:46:38,424 - INFO - Added 7586 new rows for DLTR up to 2025-04-27
+2025-04-28 02:46:38,942 - INFO - Fetching daily data for D
+2025-04-28 02:46:39,544 - INFO - Added 11371 new rows for D up to 2025-04-27
+2025-04-28 02:46:40,063 - INFO - Fetching daily data for DPZ
+2025-04-28 02:46:40,402 - INFO - Added 5232 new rows for DPZ up to 2025-04-27
+2025-04-28 02:46:40,909 - INFO - Fetching daily data for DASH
+2025-04-28 02:46:41,002 - INFO - Added 1099 new rows for DASH up to 2025-04-27
+2025-04-28 02:46:41,503 - INFO - Fetching daily data for DOV
+2025-04-28 02:46:42,308 - INFO - Added 11371 new rows for DOV up to 2025-04-27
+2025-04-28 02:46:42,822 - INFO - Fetching daily data for DOW
+2025-04-28 02:46:42,969 - INFO - Added 1535 new rows for DOW up to 2025-04-27
+2025-04-28 02:46:43,471 - INFO - Fetching daily data for DHI
+2025-04-28 02:46:43,997 - INFO - Added 8281 new rows for DHI up to 2025-04-27
+2025-04-28 02:46:44,508 - INFO - Fetching daily data for DTE
+2025-04-28 02:46:45,474 - INFO - Added 15936 new rows for DTE up to 2025-04-27
+2025-04-28 02:46:45,994 - INFO - Fetching daily data for DUK
+2025-04-28 02:46:46,647 - INFO - Added 11371 new rows for DUK up to 2025-04-27
+2025-04-28 02:46:47,161 - INFO - Fetching daily data for DD
+2025-04-28 02:46:47,962 - INFO - Added 13337 new rows for DD up to 2025-04-27
+2025-04-28 02:46:48,479 - INFO - Fetching daily data for EMN
+2025-04-28 02:46:49,167 - INFO - Added 7895 new rows for EMN up to 2025-04-27
+2025-04-28 02:46:49,679 - INFO - Fetching daily data for ETN
+2025-04-28 02:46:50,402 - INFO - Added 13337 new rows for ETN up to 2025-04-27
+2025-04-28 02:46:50,919 - INFO - Fetching daily data for EBAY
+2025-04-28 02:46:51,289 - INFO - Added 6688 new rows for EBAY up to 2025-04-27
+2025-04-28 02:46:51,798 - INFO - Fetching daily data for ECL
+2025-04-28 02:46:52,474 - INFO - Added 13157 new rows for ECL up to 2025-04-27
+2025-04-28 02:46:52,991 - INFO - Fetching daily data for EIX
+2025-04-28 02:46:53,750 - INFO - Added 13107 new rows for EIX up to 2025-04-27
+2025-04-28 02:46:54,270 - INFO - Fetching daily data for EW
+2025-04-28 02:46:54,696 - INFO - Added 6309 new rows for EW up to 2025-04-27
+2025-04-28 02:46:55,204 - INFO - Fetching daily data for EA
+2025-04-28 02:46:55,599 - INFO - Added 8966 new rows for EA up to 2025-04-27
+2025-04-28 02:46:56,112 - INFO - Fetching daily data for ELV
+2025-04-28 02:46:56,430 - INFO - Added 5910 new rows for ELV up to 2025-04-27
+2025-04-28 02:46:56,937 - INFO - Fetching daily data for EMR
+2025-04-28 02:46:57,790 - INFO - Added 13337 new rows for EMR up to 2025-04-27
+2025-04-28 02:46:58,582 - INFO - Fetching daily data for ENPH
+2025-04-28 02:46:58,810 - INFO - Added 3287 new rows for ENPH up to 2025-04-27
+2025-04-28 02:46:59,315 - INFO - Fetching daily data for ETR
+2025-04-28 02:47:00,370 - INFO - Added 13337 new rows for ETR up to 2025-04-27
+2025-04-28 02:47:00,888 - INFO - Fetching daily data for EOG
+2025-04-28 02:47:01,381 - INFO - Added 8956 new rows for EOG up to 2025-04-27
+2025-04-28 02:47:01,891 - INFO - Fetching daily data for EPAM
+2025-04-28 02:47:02,052 - INFO - Added 3323 new rows for EPAM up to 2025-04-27
+2025-04-28 02:47:02,557 - INFO - Fetching daily data for EQT
+2025-04-28 02:47:03,229 - INFO - Added 11371 new rows for EQT up to 2025-04-27
+2025-04-28 02:47:03,743 - INFO - Fetching daily data for EFX
+2025-04-28 02:47:04,412 - INFO - Added 11371 new rows for EFX up to 2025-04-27
+2025-04-28 02:47:04,926 - INFO - Fetching daily data for EQIX
+2025-04-28 02:47:05,318 - INFO - Added 6213 new rows for EQIX up to 2025-04-27
+2025-04-28 02:47:05,826 - INFO - Fetching daily data for EQR
+2025-04-28 02:47:06,245 - INFO - Added 7981 new rows for EQR up to 2025-04-27
+2025-04-28 02:47:06,755 - INFO - Fetching daily data for ERIE
+2025-04-28 02:47:07,218 - INFO - Added 7441 new rows for ERIE up to 2025-04-27
+2025-04-28 02:47:07,727 - INFO - Fetching daily data for ESS
+2025-04-28 02:47:08,170 - INFO - Added 7775 new rows for ESS up to 2025-04-27
+2025-04-28 02:47:08,688 - INFO - Fetching daily data for EL
+2025-04-28 02:47:09,118 - INFO - Added 7407 new rows for EL up to 2025-04-27
+2025-04-28 02:47:09,629 - INFO - Fetching daily data for EG
+2025-04-28 02:47:10,130 - INFO - Added 7440 new rows for EG up to 2025-04-27
+2025-04-28 02:47:10,649 - INFO - Fetching daily data for EVRG
+2025-04-28 02:47:11,444 - INFO - Added 13157 new rows for EVRG up to 2025-04-27
+2025-04-28 02:47:11,960 - INFO - Fetching daily data for ES
+2025-04-28 02:47:12,657 - INFO - Added 13157 new rows for ES up to 2025-04-27
+2025-04-28 02:47:13,191 - INFO - Fetching daily data for EXC
+2025-04-28 02:47:14,017 - INFO - Added 13108 new rows for EXC up to 2025-04-27
+2025-04-28 02:47:14,534 - INFO - Fetching daily data for EXE
+2025-04-28 02:47:14,693 - INFO - Added 1057 new rows for EXE up to 2025-04-27
+2025-04-28 02:47:15,196 - INFO - Fetching daily data for EXPE
+2025-04-28 02:47:15,485 - INFO - Added 4973 new rows for EXPE up to 2025-04-27
+2025-04-28 02:47:15,992 - INFO - Fetching daily data for EXPD
+2025-04-28 02:47:16,634 - INFO - Added 10225 new rows for EXPD up to 2025-04-27
+2025-04-28 02:47:17,178 - INFO - Fetching daily data for EXR
+2025-04-28 02:47:17,504 - INFO - Added 5208 new rows for EXR up to 2025-04-27
+2025-04-28 02:47:18,019 - INFO - Fetching daily data for XOM
+2025-04-28 02:47:18,978 - INFO - Added 15936 new rows for XOM up to 2025-04-27
+2025-04-28 02:47:19,497 - INFO - Fetching daily data for FFIV
+2025-04-28 02:47:20,185 - INFO - Added 6514 new rows for FFIV up to 2025-04-27
+2025-04-28 02:47:20,717 - INFO - Fetching daily data for FDS
+2025-04-28 02:47:21,115 - INFO - Added 7253 new rows for FDS up to 2025-04-27
+2025-04-28 02:47:21,624 - INFO - Fetching daily data for FICO
+2025-04-28 02:47:22,290 - INFO - Added 9514 new rows for FICO up to 2025-04-27
+2025-04-28 02:47:22,814 - INFO - Fetching daily data for FAST
+2025-04-28 02:47:23,489 - INFO - Added 9493 new rows for FAST up to 2025-04-27
+2025-04-28 02:47:24,001 - INFO - Fetching daily data for FRT
+2025-04-28 02:47:24,670 - INFO - Added 13107 new rows for FRT up to 2025-04-27
+2025-04-28 02:47:25,186 - INFO - Fetching daily data for FDX
+2025-04-28 02:47:25,858 - INFO - Added 11859 new rows for FDX up to 2025-04-27
+2025-04-28 02:47:26,373 - INFO - Fetching daily data for FIS
+2025-04-28 02:47:26,730 - INFO - Added 5998 new rows for FIS up to 2025-04-27
+2025-04-28 02:47:27,238 - INFO - Fetching daily data for FITB
+2025-04-28 02:47:27,971 - INFO - Added 11371 new rows for FITB up to 2025-04-27
+2025-04-28 02:47:28,496 - INFO - Fetching daily data for FSLR
+2025-04-28 02:47:28,715 - INFO - Added 4637 new rows for FSLR up to 2025-04-27
+2025-04-28 02:47:29,223 - INFO - Fetching daily data for FE
+2025-04-28 02:47:29,860 - INFO - Added 6907 new rows for FE up to 2025-04-27
+2025-04-28 02:47:30,369 - INFO - Fetching daily data for FI
+2025-04-28 02:47:30,768 - INFO - Added 9721 new rows for FI up to 2025-04-27
+2025-04-28 02:47:31,280 - INFO - Fetching daily data for F
+2025-04-28 02:47:32,144 - INFO - Added 13337 new rows for F up to 2025-04-27
+2025-04-28 02:47:32,662 - INFO - Fetching daily data for FTNT
+2025-04-28 02:47:32,948 - INFO - Added 3882 new rows for FTNT up to 2025-04-27
+2025-04-28 02:47:33,455 - INFO - Fetching daily data for FTV
+2025-04-28 02:47:33,619 - INFO - Added 2216 new rows for FTV up to 2025-04-27
+2025-04-28 02:47:34,122 - INFO - Fetching daily data for FOXA
+2025-04-28 02:47:34,295 - INFO - Added 1541 new rows for FOXA up to 2025-04-27
+2025-04-28 02:47:34,797 - INFO - Fetching daily data for FOX
+2025-04-28 02:47:34,987 - INFO - Added 1540 new rows for FOX up to 2025-04-27
+2025-04-28 02:47:35,493 - INFO - Fetching daily data for BEN
+2025-04-28 02:47:36,419 - INFO - Added 10480 new rows for BEN up to 2025-04-27
+2025-04-28 02:47:36,932 - INFO - Fetching daily data for FCX
+2025-04-28 02:47:37,385 - INFO - Added 7500 new rows for FCX up to 2025-04-27
+2025-04-28 02:47:37,894 - INFO - Fetching daily data for GRMN
+2025-04-28 02:47:38,556 - INFO - Added 6130 new rows for GRMN up to 2025-04-27
+2025-04-28 02:47:39,064 - INFO - Fetching daily data for IT
+2025-04-28 02:47:39,407 - INFO - Added 7944 new rows for IT up to 2025-04-27
+2025-04-28 02:47:39,917 - INFO - Fetching daily data for GE
+2025-04-28 02:47:40,894 - INFO - Added 15936 new rows for GE up to 2025-04-27
+2025-04-28 02:47:41,413 - INFO - Fetching daily data for GEHC
+2025-04-28 02:47:41,493 - INFO - Added 591 new rows for GEHC up to 2025-04-27
+2025-04-28 02:47:41,994 - INFO - Fetching daily data for GEV
+2025-04-28 02:47:42,097 - INFO - Added 269 new rows for GEV up to 2025-04-27
+2025-04-28 02:47:42,598 - INFO - Fetching daily data for GEN
+2025-04-28 02:47:43,030 - INFO - Added 9027 new rows for GEN up to 2025-04-27
+2025-04-28 02:47:43,542 - INFO - Fetching daily data for GNRC
+2025-04-28 02:47:43,749 - INFO - Added 3825 new rows for GNRC up to 2025-04-27
+2025-04-28 02:47:44,254 - INFO - Fetching daily data for GD
+2025-04-28 02:47:45,172 - INFO - Added 15936 new rows for GD up to 2025-04-27
+2025-04-28 02:47:45,691 - INFO - Fetching daily data for GIS
+2025-04-28 02:47:46,274 - INFO - Added 11371 new rows for GIS up to 2025-04-27
+2025-04-28 02:47:46,789 - INFO - Fetching daily data for GM
+2025-04-28 02:47:47,007 - INFO - Added 3630 new rows for GM up to 2025-04-27
+2025-04-28 02:47:47,511 - INFO - Fetching daily data for GPC
+2025-04-28 02:47:48,113 - INFO - Added 11371 new rows for GPC up to 2025-04-27
+2025-04-28 02:47:48,627 - INFO - Fetching daily data for GILD
+2025-04-28 02:47:49,051 - INFO - Added 8375 new rows for GILD up to 2025-04-27
+2025-04-28 02:47:49,562 - INFO - Fetching daily data for GPN
+2025-04-28 02:47:49,936 - INFO - Added 6106 new rows for GPN up to 2025-04-27
+2025-04-28 02:47:50,443 - INFO - Fetching daily data for GL
+2025-04-28 02:47:51,030 - INFO - Added 11233 new rows for GL up to 2025-04-27
+2025-04-28 02:47:51,544 - INFO - Fetching daily data for GDDY
+2025-04-28 02:47:51,713 - INFO - Added 2534 new rows for GDDY up to 2025-04-27
+2025-04-28 02:47:52,216 - INFO - Fetching daily data for GS
+2025-04-28 02:47:52,591 - INFO - Added 6536 new rows for GS up to 2025-04-27
+2025-04-28 02:47:53,099 - INFO - Fetching daily data for HAL
+2025-04-28 02:47:53,921 - INFO - Added 13337 new rows for HAL up to 2025-04-27
+2025-04-28 02:47:54,438 - INFO - Fetching daily data for HIG
+2025-04-28 02:47:54,895 - INFO - Added 7388 new rows for HIG up to 2025-04-27
+2025-04-28 02:47:55,409 - INFO - Fetching daily data for HAS
+2025-04-28 02:47:55,984 - INFO - Added 11371 new rows for HAS up to 2025-04-27
+2025-04-28 02:47:56,499 - INFO - Fetching daily data for HCA
+2025-04-28 02:47:56,727 - INFO - Added 3554 new rows for HCA up to 2025-04-27
+2025-04-28 02:47:57,232 - INFO - Fetching daily data for DOC
+2025-04-28 02:47:57,817 - INFO - Added 10059 new rows for DOC up to 2025-04-27
+2025-04-28 02:47:58,329 - INFO - Fetching daily data for HSIC
+2025-04-28 02:47:58,705 - INFO - Added 7417 new rows for HSIC up to 2025-04-27
+2025-04-28 02:47:59,215 - INFO - Fetching daily data for HSY
+2025-04-28 02:47:59,878 - INFO - Added 11371 new rows for HSY up to 2025-04-27
+2025-04-28 02:48:00,391 - INFO - Fetching daily data for HES
+2025-04-28 02:48:01,060 - INFO - Added 11371 new rows for HES up to 2025-04-27
+2025-04-28 02:48:01,588 - INFO - Fetching daily data for HPE
+2025-04-28 02:48:01,785 - INFO - Added 2394 new rows for HPE up to 2025-04-27
+2025-04-28 02:48:02,288 - INFO - Fetching daily data for HLT
+2025-04-28 02:48:02,502 - INFO - Added 2859 new rows for HLT up to 2025-04-27
+2025-04-28 02:48:03,006 - INFO - Fetching daily data for HOLX
+2025-04-28 02:48:03,425 - INFO - Added 8854 new rows for HOLX up to 2025-04-27
+2025-04-28 02:48:03,954 - INFO - Fetching daily data for HD
+2025-04-28 02:48:04,641 - INFO - Added 10988 new rows for HD up to 2025-04-27
+2025-04-28 02:48:05,154 - INFO - Fetching daily data for HON
+2025-04-28 02:48:06,102 - INFO - Added 15936 new rows for HON up to 2025-04-27
+2025-04-28 02:48:06,621 - INFO - Fetching daily data for HRL
+2025-04-28 02:48:07,302 - INFO - Added 11371 new rows for HRL up to 2025-04-27
+2025-04-28 02:48:07,817 - INFO - Fetching daily data for HST
+2025-04-28 02:48:08,427 - INFO - Added 11371 new rows for HST up to 2025-04-27
+2025-04-28 02:48:08,945 - INFO - Fetching daily data for HWM
+2025-04-28 02:48:09,170 - INFO - Added 2132 new rows for HWM up to 2025-04-27
+2025-04-28 02:48:09,673 - INFO - Fetching daily data for HPQ
+2025-04-28 02:48:10,689 - INFO - Added 15936 new rows for HPQ up to 2025-04-27
+2025-04-28 02:48:11,230 - INFO - Fetching daily data for HUBB
+2025-04-28 02:48:12,244 - INFO - Added 13215 new rows for HUBB up to 2025-04-27
+2025-04-28 02:48:12,760 - INFO - Fetching daily data for HUM
+2025-04-28 02:48:13,466 - INFO - Added 10918 new rows for HUM up to 2025-04-27
+2025-04-28 02:48:13,979 - INFO - Fetching daily data for HBAN
+2025-04-28 02:48:14,691 - INFO - Added 11371 new rows for HBAN up to 2025-04-27
+2025-04-28 02:48:15,218 - INFO - Fetching daily data for HII
+2025-04-28 02:48:15,502 - INFO - Added 3546 new rows for HII up to 2025-04-27
+2025-04-28 02:48:16,011 - INFO - Fetching daily data for IBM
+2025-04-28 02:48:16,938 - INFO - Added 15936 new rows for IBM up to 2025-04-27
+2025-04-28 02:48:17,458 - INFO - Fetching daily data for IEX
+2025-04-28 02:48:17,969 - INFO - Added 9042 new rows for IEX up to 2025-04-27
+2025-04-28 02:48:18,481 - INFO - Fetching daily data for IDXX
+2025-04-28 02:48:18,857 - INFO - Added 8523 new rows for IDXX up to 2025-04-27
+2025-04-28 02:48:19,367 - INFO - Fetching daily data for ITW
+2025-04-28 02:48:20,765 - INFO - Added 13143 new rows for ITW up to 2025-04-27
+2025-04-28 02:48:21,280 - INFO - Fetching daily data for INCY
+2025-04-28 02:48:21,638 - INFO - Added 7922 new rows for INCY up to 2025-04-27
+2025-04-28 02:48:22,148 - INFO - Fetching daily data for IR
+2025-04-28 02:48:22,285 - INFO - Added 2000 new rows for IR up to 2025-04-27
+2025-04-28 02:48:22,788 - INFO - Fetching daily data for PODD
+2025-04-28 02:48:23,011 - INFO - Added 4517 new rows for PODD up to 2025-04-27
+2025-04-28 02:48:23,516 - INFO - Fetching daily data for INTC
+2025-04-28 02:48:24,193 - INFO - Added 11371 new rows for INTC up to 2025-04-27
+2025-04-28 02:48:25,043 - INFO - Fetching daily data for ICE
+2025-04-28 02:48:25,321 - INFO - Added 4890 new rows for ICE up to 2025-04-27
+2025-04-28 02:48:25,827 - INFO - Fetching daily data for IFF
+2025-04-28 02:48:26,479 - INFO - Added 12696 new rows for IFF up to 2025-04-27
+2025-04-28 02:48:26,994 - INFO - Fetching daily data for IP
+2025-04-28 02:48:27,960 - INFO - Added 15936 new rows for IP up to 2025-04-27
+2025-04-28 02:48:28,483 - INFO - Fetching daily data for IPG
+2025-04-28 02:48:29,106 - INFO - Added 11371 new rows for IPG up to 2025-04-27
+2025-04-28 02:48:29,621 - INFO - Fetching daily data for INTU
+2025-04-28 02:48:29,987 - INFO - Added 8087 new rows for INTU up to 2025-04-27
+2025-04-28 02:48:30,497 - INFO - Fetching daily data for ISRG
+2025-04-28 02:48:30,824 - INFO - Added 6252 new rows for ISRG up to 2025-04-27
+2025-04-28 02:48:31,331 - INFO - Fetching daily data for IVZ
+2025-04-28 02:48:31,791 - INFO - Added 7466 new rows for IVZ up to 2025-04-27
+2025-04-28 02:48:32,301 - INFO - Fetching daily data for INVH
+2025-04-28 02:48:32,482 - INFO - Added 2070 new rows for INVH up to 2025-04-27
+2025-04-28 02:48:32,984 - INFO - Fetching daily data for IQV
+2025-04-28 02:48:33,150 - INFO - Added 3010 new rows for IQV up to 2025-04-27
+2025-04-28 02:48:33,654 - INFO - Fetching daily data for IRM
+2025-04-28 02:48:34,045 - INFO - Added 7356 new rows for IRM up to 2025-04-27
+2025-04-28 02:48:34,554 - INFO - Fetching daily data for JBHT
+2025-04-28 02:48:35,050 - INFO - Added 10438 new rows for JBHT up to 2025-04-27
+2025-04-28 02:48:35,564 - INFO - Fetching daily data for JBL
+2025-04-28 02:48:35,986 - INFO - Added 8052 new rows for JBL up to 2025-04-27
+2025-04-28 02:48:36,497 - INFO - Fetching daily data for JKHY
+2025-04-28 02:48:37,057 - INFO - Added 9934 new rows for JKHY up to 2025-04-27
+2025-04-28 02:48:37,569 - INFO - Fetching daily data for J
+2025-04-28 02:48:38,123 - INFO - Added 11371 new rows for J up to 2025-04-27
+2025-04-28 02:48:38,637 - INFO - Fetching daily data for JNJ
+2025-04-28 02:48:39,520 - INFO - Added 15936 new rows for JNJ up to 2025-04-27
+2025-04-28 02:48:40,039 - INFO - Fetching daily data for JCI
+2025-04-28 02:48:40,609 - INFO - Added 9467 new rows for JCI up to 2025-04-27
+2025-04-28 02:48:41,120 - INFO - Fetching daily data for JPM
+2025-04-28 02:48:41,714 - INFO - Added 11371 new rows for JPM up to 2025-04-27
+2025-04-28 02:48:42,231 - INFO - Fetching daily data for JNPR
+2025-04-28 02:48:42,615 - INFO - Added 6499 new rows for JNPR up to 2025-04-27
+2025-04-28 02:48:43,130 - INFO - Fetching daily data for K
+2025-04-28 02:48:44,076 - INFO - Added 13157 new rows for K up to 2025-04-27
+2025-04-28 02:48:44,592 - INFO - Fetching daily data for KVUE
+2025-04-28 02:48:44,669 - INFO - Added 496 new rows for KVUE up to 2025-04-27
+2025-04-28 02:48:45,170 - INFO - Fetching daily data for KDP
+2025-04-28 02:48:45,483 - INFO - Added 4270 new rows for KDP up to 2025-04-27
+2025-04-28 02:48:45,994 - INFO - Fetching daily data for KEY
+2025-04-28 02:48:46,605 - INFO - Added 9439 new rows for KEY up to 2025-04-27
+2025-04-28 02:48:47,116 - INFO - Fetching daily data for KEYS
+2025-04-28 02:48:47,608 - INFO - Added 2645 new rows for KEYS up to 2025-04-27
+2025-04-28 02:48:48,111 - INFO - Fetching daily data for KMB
+2025-04-28 02:48:48,768 - INFO - Added 11371 new rows for KMB up to 2025-04-27
+2025-04-28 02:48:49,281 - INFO - Fetching daily data for KIM
+2025-04-28 02:48:49,751 - INFO - Added 8415 new rows for KIM up to 2025-04-27
+2025-04-28 02:48:50,262 - INFO - Fetching daily data for KMI
+2025-04-28 02:48:50,507 - INFO - Added 3572 new rows for KMI up to 2025-04-27
+2025-04-28 02:48:51,011 - INFO - Fetching daily data for KKR
+2025-04-28 02:48:51,229 - INFO - Added 3719 new rows for KKR up to 2025-04-27
+2025-04-28 02:48:51,737 - INFO - Fetching daily data for KLAC
+2025-04-28 02:48:52,250 - INFO - Added 11228 new rows for KLAC up to 2025-04-27
+2025-04-28 02:48:52,763 - INFO - Fetching daily data for KHC
+2025-04-28 02:48:52,932 - INFO - Added 2468 new rows for KHC up to 2025-04-27
+2025-04-28 02:48:53,435 - INFO - Fetching daily data for KR
+2025-04-28 02:48:54,340 - INFO - Added 15936 new rows for KR up to 2025-04-27
+2025-04-28 02:48:54,859 - INFO - Fetching daily data for LHX
+2025-04-28 02:48:55,541 - INFO - Added 10918 new rows for LHX up to 2025-04-27
+2025-04-28 02:48:56,055 - INFO - Fetching daily data for LH
+2025-04-28 02:48:56,515 - INFO - Added 8834 new rows for LH up to 2025-04-27
+2025-04-28 02:48:57,026 - INFO - Fetching daily data for LRCX
+2025-04-28 02:48:57,576 - INFO - Added 10325 new rows for LRCX up to 2025-04-27
+2025-04-28 02:48:58,089 - INFO - Fetching daily data for LW
+2025-04-28 02:48:58,246 - INFO - Added 2125 new rows for LW up to 2025-04-27
+2025-04-28 02:48:58,748 - INFO - Fetching daily data for LVS
+2025-04-28 02:48:59,033 - INFO - Added 5123 new rows for LVS up to 2025-04-27
+2025-04-28 02:48:59,540 - INFO - Fetching daily data for LDOS
+2025-04-28 02:48:59,838 - INFO - Added 4660 new rows for LDOS up to 2025-04-27
+2025-04-28 02:49:00,344 - INFO - Fetching daily data for LEN
+2025-04-28 02:49:00,987 - INFO - Added 11371 new rows for LEN up to 2025-04-27
+2025-04-28 02:49:01,501 - INFO - Fetching daily data for LII
+2025-04-28 02:49:01,880 - INFO - Added 6476 new rows for LII up to 2025-04-27
+2025-04-28 02:49:02,388 - INFO - Fetching daily data for LLY
+2025-04-28 02:49:03,150 - INFO - Added 13337 new rows for LLY up to 2025-04-27
+2025-04-28 02:49:03,666 - INFO - Fetching daily data for LIN
+2025-04-28 02:49:04,205 - INFO - Added 8273 new rows for LIN up to 2025-04-27
+2025-04-28 02:49:04,716 - INFO - Fetching daily data for LYV
+2025-04-28 02:49:04,952 - INFO - Added 4866 new rows for LYV up to 2025-04-27
+2025-04-28 02:49:05,458 - INFO - Fetching daily data for LKQ
+2025-04-28 02:49:05,728 - INFO - Added 5424 new rows for LKQ up to 2025-04-27
+2025-04-28 02:49:06,235 - INFO - Fetching daily data for LMT
+2025-04-28 02:49:06,938 - INFO - Added 12180 new rows for LMT up to 2025-04-27
+2025-04-28 02:49:07,456 - INFO - Fetching daily data for L
+2025-04-28 02:49:08,134 - INFO - Added 11371 new rows for L up to 2025-04-27
+2025-04-28 02:49:08,662 - INFO - Fetching daily data for LOW
+2025-04-28 02:49:09,402 - INFO - Added 11371 new rows for LOW up to 2025-04-27
+2025-04-28 02:49:09,915 - INFO - Fetching daily data for LULU
+2025-04-28 02:49:10,125 - INFO - Added 4466 new rows for LULU up to 2025-04-27
+2025-04-28 02:49:10,636 - INFO - Fetching daily data for LYB
+2025-04-28 02:49:10,914 - INFO - Added 3773 new rows for LYB up to 2025-04-27
+2025-04-28 02:49:11,421 - INFO - Fetching daily data for MTB
+2025-04-28 02:49:12,040 - INFO - Added 11371 new rows for MTB up to 2025-04-27
+2025-04-28 02:49:12,554 - INFO - Fetching daily data for MPC
+2025-04-28 02:49:12,766 - INFO - Added 3480 new rows for MPC up to 2025-04-27
+2025-04-28 02:49:13,270 - INFO - Fetching daily data for MKTX
+2025-04-28 02:49:13,567 - INFO - Added 5150 new rows for MKTX up to 2025-04-27
+2025-04-28 02:49:14,074 - INFO - Fetching daily data for MAR
+2025-04-28 02:49:14,569 - INFO - Added 6817 new rows for MAR up to 2025-04-27
+2025-04-28 02:49:15,078 - INFO - Fetching daily data for MMC
+2025-04-28 02:49:15,825 - INFO - Added 13157 new rows for MMC up to 2025-04-27
+2025-04-28 02:49:16,386 - INFO - Fetching daily data for MLM
+2025-04-28 02:49:16,778 - INFO - Added 7849 new rows for MLM up to 2025-04-27
+2025-04-28 02:49:17,288 - INFO - Fetching daily data for MAS
+2025-04-28 02:49:17,947 - INFO - Added 11371 new rows for MAS up to 2025-04-27
+2025-04-28 02:49:18,461 - INFO - Fetching daily data for MA
+2025-04-28 02:49:19,087 - INFO - Added 4760 new rows for MA up to 2025-04-27
+2025-04-28 02:49:19,594 - INFO - Fetching daily data for MTCH
+2025-04-28 02:49:19,989 - INFO - Added 8124 new rows for MTCH up to 2025-04-27
+2025-04-28 02:49:20,499 - INFO - Fetching daily data for MKC
+2025-04-28 02:49:21,357 - INFO - Added 13157 new rows for MKC up to 2025-04-27
+2025-04-28 02:49:21,874 - INFO - Fetching daily data for MCD
+2025-04-28 02:49:22,824 - INFO - Added 14801 new rows for MCD up to 2025-04-27
+2025-04-28 02:49:23,342 - INFO - Fetching daily data for MCK
+2025-04-28 02:49:24,240 - INFO - Added 7665 new rows for MCK up to 2025-04-27
+2025-04-28 02:49:24,751 - INFO - Fetching daily data for MDT
+2025-04-28 02:49:25,429 - INFO - Added 13108 new rows for MDT up to 2025-04-27
+2025-04-28 02:49:25,945 - INFO - Fetching daily data for MRK
+2025-04-28 02:49:26,920 - INFO - Added 15936 new rows for MRK up to 2025-04-27
+2025-04-28 02:49:27,456 - INFO - Fetching daily data for META
+2025-04-28 02:49:27,628 - INFO - Added 3253 new rows for META up to 2025-04-27
+2025-04-28 02:49:28,132 - INFO - Fetching daily data for MET
+2025-04-28 02:49:28,608 - INFO - Added 6302 new rows for MET up to 2025-04-27
+2025-04-28 02:49:29,116 - INFO - Fetching daily data for MTD
+2025-04-28 02:49:29,489 - INFO - Added 6903 new rows for MTD up to 2025-04-27
+2025-04-28 02:49:30,005 - INFO - Fetching daily data for MGM
+2025-04-28 02:49:30,516 - INFO - Added 9317 new rows for MGM up to 2025-04-27
+2025-04-28 02:49:31,028 - INFO - Fetching daily data for MCHP
+2025-04-28 02:49:31,520 - INFO - Added 8082 new rows for MCHP up to 2025-04-27
+2025-04-28 02:49:32,030 - INFO - Fetching daily data for MU
+2025-04-28 02:49:32,555 - INFO - Added 10306 new rows for MU up to 2025-04-27
+2025-04-28 02:49:33,068 - INFO - Fetching daily data for MSFT
+2025-04-28 02:49:33,597 - INFO - Added 9857 new rows for MSFT up to 2025-04-27
+2025-04-28 02:49:34,109 - INFO - Fetching daily data for MAA
+2025-04-28 02:49:34,567 - INFO - Added 7863 new rows for MAA up to 2025-04-27
+2025-04-28 02:49:35,085 - INFO - Fetching daily data for MRNA
+2025-04-28 02:49:35,212 - INFO - Added 1604 new rows for MRNA up to 2025-04-27
+2025-04-28 02:49:35,715 - INFO - Fetching daily data for MHK
+2025-04-28 02:49:36,117 - INFO - Added 8326 new rows for MHK up to 2025-04-27
+2025-04-28 02:49:36,628 - INFO - Fetching daily data for MOH
+2025-04-28 02:49:36,943 - INFO - Added 5490 new rows for MOH up to 2025-04-27
+2025-04-28 02:49:37,450 - INFO - Fetching daily data for TAP
+2025-04-28 02:49:38,103 - INFO - Added 12574 new rows for TAP up to 2025-04-27
+2025-04-28 02:49:38,619 - INFO - Fetching daily data for MDLZ
+2025-04-28 02:49:38,928 - INFO - Added 6003 new rows for MDLZ up to 2025-04-27
+2025-04-28 02:49:39,436 - INFO - Fetching daily data for MPWR
+2025-04-28 02:49:39,753 - INFO - Added 5140 new rows for MPWR up to 2025-04-27
+2025-04-28 02:49:40,260 - INFO - Fetching daily data for MNST
+2025-04-28 02:49:40,686 - INFO - Added 9922 new rows for MNST up to 2025-04-27
+2025-04-28 02:49:41,199 - INFO - Fetching daily data for MCO
+2025-04-28 02:49:41,703 - INFO - Added 7673 new rows for MCO up to 2025-04-27
+2025-04-28 02:49:42,212 - INFO - Fetching daily data for MS
+2025-04-28 02:49:42,693 - INFO - Added 8100 new rows for MS up to 2025-04-27
+2025-04-28 02:49:43,202 - INFO - Fetching daily data for MOS
+2025-04-28 02:49:43,773 - INFO - Added 9384 new rows for MOS up to 2025-04-27
+2025-04-28 02:49:44,285 - INFO - Fetching daily data for MSI
+2025-04-28 02:49:45,310 - INFO - Added 15936 new rows for MSI up to 2025-04-27
+2025-04-28 02:49:45,828 - INFO - Fetching daily data for MSCI
+2025-04-28 02:49:46,110 - INFO - Added 4388 new rows for MSCI up to 2025-04-27
+2025-04-28 02:49:46,615 - INFO - Fetching daily data for NDAQ
+2025-04-28 02:49:46,938 - INFO - Added 5743 new rows for NDAQ up to 2025-04-27
+2025-04-28 02:49:47,445 - INFO - Fetching daily data for NTAP
+2025-04-28 02:49:47,834 - INFO - Added 7405 new rows for NTAP up to 2025-04-27
+2025-04-28 02:49:48,344 - INFO - Fetching daily data for NFLX
+2025-04-28 02:49:48,644 - INFO - Added 5769 new rows for NFLX up to 2025-04-27
+2025-04-28 02:49:49,151 - INFO - Fetching daily data for NEM
+2025-04-28 02:49:49,748 - INFO - Added 11371 new rows for NEM up to 2025-04-27
+2025-04-28 02:49:50,290 - INFO - Fetching daily data for NWSA
+2025-04-28 02:49:50,513 - INFO - Added 2982 new rows for NWSA up to 2025-04-27
+2025-04-28 02:49:51,017 - INFO - Fetching daily data for NWS
+2025-04-28 02:49:51,211 - INFO - Added 2982 new rows for NWS up to 2025-04-27
+2025-04-28 02:49:51,715 - INFO - Fetching daily data for NEE
+2025-04-28 02:49:52,532 - INFO - Added 13157 new rows for NEE up to 2025-04-27
+2025-04-28 02:49:53,063 - INFO - Fetching daily data for NKE
+2025-04-28 02:49:53,763 - INFO - Added 11191 new rows for NKE up to 2025-04-27
+2025-04-28 02:49:54,289 - INFO - Fetching daily data for NI
+2025-04-28 02:49:55,254 - INFO - Added 13157 new rows for NI up to 2025-04-27
+2025-04-28 02:49:55,770 - INFO - Fetching daily data for NDSN
+2025-04-28 02:49:56,451 - INFO - Added 11370 new rows for NDSN up to 2025-04-27
+2025-04-28 02:49:56,976 - INFO - Fetching daily data for NSC
+2025-04-28 02:49:57,623 - INFO - Added 10813 new rows for NSC up to 2025-04-27
+2025-04-28 02:49:58,136 - INFO - Fetching daily data for NTRS
+2025-04-28 02:49:58,799 - INFO - Added 11371 new rows for NTRS up to 2025-04-27
+2025-04-28 02:49:59,313 - INFO - Fetching daily data for NOC
+2025-04-28 02:50:00,155 - INFO - Added 10918 new rows for NOC up to 2025-04-27
+2025-04-28 02:50:00,669 - INFO - Fetching daily data for NCLH
+2025-04-28 02:50:00,827 - INFO - Added 3086 new rows for NCLH up to 2025-04-27
+2025-04-28 02:50:01,331 - INFO - Fetching daily data for NRG
+2025-04-28 02:50:01,649 - INFO - Added 5384 new rows for NRG up to 2025-04-27
+2025-04-28 02:50:02,157 - INFO - Fetching daily data for NUE
+2025-04-28 02:50:02,921 - INFO - Added 11371 new rows for NUE up to 2025-04-27
+2025-04-28 02:50:03,435 - INFO - Fetching daily data for NVDA
+2025-04-28 02:50:03,813 - INFO - Added 6606 new rows for NVDA up to 2025-04-27
+2025-04-28 02:50:04,321 - INFO - Fetching daily data for NVR
+2025-04-28 02:50:04,784 - INFO - Added 10019 new rows for NVR up to 2025-04-27
+2025-04-28 02:50:05,296 - INFO - Fetching daily data for NXPI
+2025-04-28 02:50:05,575 - INFO - Added 3703 new rows for NXPI up to 2025-04-27
+2025-04-28 02:50:06,079 - INFO - Fetching daily data for ORLY
+2025-04-28 02:50:06,473 - INFO - Added 8058 new rows for ORLY up to 2025-04-27
+2025-04-28 02:50:06,983 - INFO - Fetching daily data for OXY
+2025-04-28 02:50:07,665 - INFO - Added 10918 new rows for OXY up to 2025-04-27
+2025-04-28 02:50:08,191 - INFO - Fetching daily data for ODFL
+2025-04-28 02:50:08,600 - INFO - Added 8436 new rows for ODFL up to 2025-04-27
+2025-04-28 02:50:09,110 - INFO - Fetching daily data for OMC
+2025-04-28 02:50:09,818 - INFO - Added 11371 new rows for OMC up to 2025-04-27
+2025-04-28 02:50:10,331 - INFO - Fetching daily data for ON
+2025-04-28 02:50:10,743 - INFO - Added 6284 new rows for ON up to 2025-04-27
+2025-04-28 02:50:11,251 - INFO - Fetching daily data for OKE
+2025-04-28 02:50:11,895 - INFO - Added 11233 new rows for OKE up to 2025-04-27
+2025-04-28 02:50:12,409 - INFO - Fetching daily data for ORCL
+2025-04-28 02:50:13,121 - INFO - Added 9858 new rows for ORCL up to 2025-04-27
+2025-04-28 02:50:13,639 - INFO - Fetching daily data for OTIS
+2025-04-28 02:50:13,760 - INFO - Added 1283 new rows for OTIS up to 2025-04-27
+2025-04-28 02:50:14,261 - INFO - Fetching daily data for PCAR
+2025-04-28 02:50:14,968 - INFO - Added 11371 new rows for PCAR up to 2025-04-27
+2025-04-28 02:50:15,482 - INFO - Fetching daily data for PKG
+2025-04-28 02:50:15,861 - INFO - Added 6349 new rows for PKG up to 2025-04-27
+2025-04-28 02:50:16,369 - INFO - Fetching daily data for PLTR
+2025-04-28 02:50:16,490 - INFO - Added 1148 new rows for PLTR up to 2025-04-27
+2025-04-28 02:50:16,992 - INFO - Fetching daily data for PANW
+2025-04-28 02:50:17,154 - INFO - Added 3210 new rows for PANW up to 2025-04-27
+2025-04-28 02:50:17,658 - INFO - Fetching daily data for PARA
+2025-04-28 02:50:17,970 - INFO - Added 4878 new rows for PARA up to 2025-04-27
+2025-04-28 02:50:18,477 - INFO - Fetching daily data for PH
+2025-04-28 02:50:19,143 - INFO - Added 11371 new rows for PH up to 2025-04-27
+2025-04-28 02:50:19,656 - INFO - Fetching daily data for PAYX
+2025-04-28 02:50:20,235 - INFO - Added 10499 new rows for PAYX up to 2025-04-27
+2025-04-28 02:50:20,748 - INFO - Fetching daily data for PAYC
+2025-04-28 02:50:20,913 - INFO - Added 2775 new rows for PAYC up to 2025-04-27
+2025-04-28 02:50:21,417 - INFO - Fetching daily data for PYPL
+2025-04-28 02:50:21,570 - INFO - Added 2468 new rows for PYPL up to 2025-04-27
+2025-04-28 02:50:22,074 - INFO - Fetching daily data for PNR
+2025-04-28 02:50:22,789 - INFO - Added 13107 new rows for PNR up to 2025-04-27
+2025-04-28 02:50:23,305 - INFO - Fetching daily data for PEP
+2025-04-28 02:50:24,490 - INFO - Added 13337 new rows for PEP up to 2025-04-27
+2025-04-28 02:50:25,005 - INFO - Fetching daily data for PFE
+2025-04-28 02:50:26,181 - INFO - Added 13337 new rows for PFE up to 2025-04-27
+2025-04-28 02:50:26,700 - INFO - Fetching daily data for PCG
+2025-04-28 02:50:27,452 - INFO - Added 13337 new rows for PCG up to 2025-04-27
+2025-04-28 02:50:27,970 - INFO - Fetching daily data for PM
+2025-04-28 02:50:28,259 - INFO - Added 4306 new rows for PM up to 2025-04-27
+2025-04-28 02:50:28,765 - INFO - Fetching daily data for PSX
+2025-04-28 02:50:28,967 - INFO - Added 3279 new rows for PSX up to 2025-04-27
+2025-04-28 02:50:29,471 - INFO - Fetching daily data for PNW
+2025-04-28 02:50:30,240 - INFO - Added 13157 new rows for PNW up to 2025-04-27
+2025-04-28 02:50:30,774 - INFO - Fetching daily data for PNC
+2025-04-28 02:50:32,235 - INFO - Added 12464 new rows for PNC up to 2025-04-27
+2025-04-28 02:50:32,776 - INFO - Fetching daily data for POOL
+2025-04-28 02:50:33,199 - INFO - Added 7432 new rows for POOL up to 2025-04-27
+2025-04-28 02:50:33,708 - INFO - Fetching daily data for PPG
+2025-04-28 02:50:34,308 - INFO - Added 11371 new rows for PPG up to 2025-04-27
+2025-04-28 02:50:34,822 - INFO - Fetching daily data for PPL
+2025-04-28 02:50:35,607 - INFO - Added 11371 new rows for PPL up to 2025-04-27
+2025-04-28 02:50:36,121 - INFO - Fetching daily data for PFG
+2025-04-28 02:50:36,471 - INFO - Added 5915 new rows for PFG up to 2025-04-27
+2025-04-28 02:50:36,978 - INFO - Fetching daily data for PG
+2025-04-28 02:50:38,164 - INFO - Added 15936 new rows for PG up to 2025-04-27
+2025-04-28 02:50:38,683 - INFO - Fetching daily data for PGR
+2025-04-28 02:50:39,449 - INFO - Added 11371 new rows for PGR up to 2025-04-27
+2025-04-28 02:50:39,964 - INFO - Fetching daily data for PLD
+2025-04-28 02:50:40,394 - INFO - Added 6898 new rows for PLD up to 2025-04-27
+2025-04-28 02:50:40,903 - INFO - Fetching daily data for PRU
+2025-04-28 02:50:41,235 - INFO - Added 5879 new rows for PRU up to 2025-04-27
+2025-04-28 02:50:41,743 - INFO - Fetching daily data for PEG
+2025-04-28 02:50:42,397 - INFO - Added 11423 new rows for PEG up to 2025-04-27
+2025-04-28 02:50:42,911 - INFO - Fetching daily data for PTC
+2025-04-28 02:50:43,290 - INFO - Added 8910 new rows for PTC up to 2025-04-27
+2025-04-28 02:50:43,807 - INFO - Fetching daily data for PSA
+2025-04-28 02:50:44,327 - INFO - Added 11200 new rows for PSA up to 2025-04-27
+2025-04-28 02:50:44,841 - INFO - Fetching daily data for PHM
+2025-04-28 02:50:45,498 - INFO - Added 11371 new rows for PHM up to 2025-04-27
+2025-04-28 02:50:46,027 - INFO - Fetching daily data for PWR
+2025-04-28 02:50:46,337 - INFO - Added 6843 new rows for PWR up to 2025-04-27
+2025-04-28 02:50:46,845 - INFO - Fetching daily data for QCOM
+2025-04-28 02:50:47,391 - INFO - Added 8401 new rows for QCOM up to 2025-04-27
+2025-04-28 02:50:47,903 - INFO - Fetching daily data for DGX
+2025-04-28 02:50:48,280 - INFO - Added 7134 new rows for DGX up to 2025-04-27
+2025-04-28 02:50:48,796 - INFO - Fetching daily data for RL
+2025-04-28 02:50:49,274 - INFO - Added 7012 new rows for RL up to 2025-04-27
+2025-04-28 02:50:49,792 - INFO - Fetching daily data for RJF
+2025-04-28 02:50:50,538 - INFO - Added 10538 new rows for RJF up to 2025-04-27
+2025-04-28 02:50:51,059 - INFO - Fetching daily data for RTX
+2025-04-28 02:50:52,101 - INFO - Added 15873 new rows for RTX up to 2025-04-27
+2025-04-28 02:50:52,621 - INFO - Fetching daily data for O
+2025-04-28 02:50:53,186 - INFO - Added 7682 new rows for O up to 2025-04-27
+2025-04-28 02:50:53,698 - INFO - Fetching daily data for REG
+2025-04-28 02:50:54,104 - INFO - Added 7926 new rows for REG up to 2025-04-27
+2025-04-28 02:50:54,613 - INFO - Fetching daily data for REGN
+2025-04-28 02:50:55,009 - INFO - Added 8580 new rows for REGN up to 2025-04-27
+2025-04-28 02:50:55,519 - INFO - Fetching daily data for RF
+2025-04-28 02:50:56,507 - INFO - Added 11371 new rows for RF up to 2025-04-27
+2025-04-28 02:50:57,022 - INFO - Fetching daily data for RSG
+2025-04-28 02:50:57,533 - INFO - Added 6747 new rows for RSG up to 2025-04-27
+2025-04-28 02:50:58,044 - INFO - Fetching daily data for RMD
+2025-04-28 02:50:58,429 - INFO - Added 7525 new rows for RMD up to 2025-04-27
+2025-04-28 02:50:58,947 - INFO - Fetching daily data for RVTY
+2025-04-28 02:50:59,722 - INFO - Added 13157 new rows for RVTY up to 2025-04-27
+2025-04-28 02:51:00,238 - INFO - Fetching daily data for ROK
+2025-04-28 02:51:01,082 - INFO - Added 10918 new rows for ROK up to 2025-04-27
+2025-04-28 02:51:01,596 - INFO - Fetching daily data for ROL
+2025-04-28 02:51:02,235 - INFO - Added 11371 new rows for ROL up to 2025-04-27
+2025-04-28 02:51:02,748 - INFO - Fetching daily data for ROP
+2025-04-28 02:51:03,281 - INFO - Added 8359 new rows for ROP up to 2025-04-27
+2025-04-28 02:51:03,791 - INFO - Fetching daily data for ROST
+2025-04-28 02:51:04,422 - INFO - Added 10006 new rows for ROST up to 2025-04-27
+2025-04-28 02:51:04,934 - INFO - Fetching daily data for RCL
+2025-04-28 02:51:05,462 - INFO - Added 8055 new rows for RCL up to 2025-04-27
+2025-04-28 02:51:05,972 - INFO - Fetching daily data for SPGI
+2025-04-28 02:51:06,605 - INFO - Added 13157 new rows for SPGI up to 2025-04-27
+2025-04-28 02:51:07,123 - INFO - Fetching daily data for CRM
+2025-04-28 02:51:07,377 - INFO - Added 5245 new rows for CRM up to 2025-04-27
+2025-04-28 02:51:07,884 - INFO - Fetching daily data for SBAC
+2025-04-28 02:51:08,180 - INFO - Added 6506 new rows for SBAC up to 2025-04-27
+2025-04-28 02:51:08,688 - INFO - Fetching daily data for SLB
+2025-04-28 02:51:09,429 - INFO - Added 10918 new rows for SLB up to 2025-04-27
+2025-04-28 02:51:09,984 - INFO - Fetching daily data for STX
+2025-04-28 02:51:10,324 - INFO - Added 5629 new rows for STX up to 2025-04-27
+2025-04-28 02:51:10,832 - INFO - Fetching daily data for SRE
+2025-04-28 02:51:11,242 - INFO - Added 6749 new rows for SRE up to 2025-04-27
+2025-04-28 02:51:11,759 - INFO - Fetching daily data for NOW
+2025-04-28 02:51:11,921 - INFO - Added 3224 new rows for NOW up to 2025-04-27
+2025-04-28 02:51:12,426 - INFO - Fetching daily data for SHW
+2025-04-28 02:51:13,035 - INFO - Added 11371 new rows for SHW up to 2025-04-27
+2025-04-28 02:51:13,556 - INFO - Fetching daily data for SPG
+2025-04-28 02:51:14,186 - INFO - Added 7895 new rows for SPG up to 2025-04-27
+2025-04-28 02:51:14,713 - INFO - Fetching daily data for SWKS
+2025-04-28 02:51:15,344 - INFO - Added 10238 new rows for SWKS up to 2025-04-27
+2025-04-28 02:51:15,856 - INFO - Fetching daily data for SJM
+2025-04-28 02:51:16,252 - INFO - Added 7673 new rows for SJM up to 2025-04-27
+2025-04-28 02:51:16,762 - INFO - Fetching daily data for SW
+2025-04-28 02:51:16,829 - INFO - Added 202 new rows for SW up to 2025-04-27
+2025-04-28 02:51:17,329 - INFO - Fetching daily data for SNA
+2025-04-28 02:51:18,128 - INFO - Added 13157 new rows for SNA up to 2025-04-27
+2025-04-28 02:51:18,646 - INFO - Fetching daily data for SOLV
+2025-04-28 02:51:18,706 - INFO - Added 269 new rows for SOLV up to 2025-04-27
+2025-04-28 02:51:19,206 - INFO - Fetching daily data for SO
+2025-04-28 02:51:19,871 - INFO - Added 10918 new rows for SO up to 2025-04-27
+2025-04-28 02:51:20,384 - INFO - Fetching daily data for LUV
+2025-04-28 02:51:21,132 - INFO - Added 11423 new rows for LUV up to 2025-04-27
+2025-04-28 02:51:21,646 - INFO - Fetching daily data for SWK
+2025-04-28 02:51:22,354 - INFO - Added 11371 new rows for SWK up to 2025-04-27
+2025-04-28 02:51:22,868 - INFO - Fetching daily data for SBUX
+2025-04-28 02:51:23,288 - INFO - Added 8266 new rows for SBUX up to 2025-04-27
+2025-04-28 02:51:23,799 - INFO - Fetching daily data for STT
+2025-04-28 02:51:24,585 - INFO - Added 11371 new rows for STT up to 2025-04-27
+2025-04-28 02:51:25,099 - INFO - Fetching daily data for STLD
+2025-04-28 02:51:25,503 - INFO - Added 7150 new rows for STLD up to 2025-04-27
+2025-04-28 02:51:26,014 - INFO - Fetching daily data for STE
+2025-04-28 02:51:26,679 - INFO - Added 8285 new rows for STE up to 2025-04-27
+2025-04-28 02:51:27,189 - INFO - Fetching daily data for SYK
+2025-04-28 02:51:27,829 - INFO - Added 11371 new rows for SYK up to 2025-04-27
+2025-04-28 02:51:28,356 - INFO - Fetching daily data for SMCI
+2025-04-28 02:51:28,568 - INFO - Added 4549 new rows for SMCI up to 2025-04-27
+2025-04-28 02:51:29,074 - INFO - Fetching daily data for SYF
+2025-04-28 02:51:29,242 - INFO - Added 2701 new rows for SYF up to 2025-04-27
+2025-04-28 02:51:29,745 - INFO - Fetching daily data for SNPS
+2025-04-28 02:51:30,160 - INFO - Added 8351 new rows for SNPS up to 2025-04-27
+2025-04-28 02:51:30,671 - INFO - Fetching daily data for SYY
+2025-04-28 02:51:31,402 - INFO - Added 13104 new rows for SYY up to 2025-04-27
+2025-04-28 02:51:31,944 - INFO - Fetching daily data for TMUS
+2025-04-28 02:51:32,198 - INFO - Added 4535 new rows for TMUS up to 2025-04-27
+2025-04-28 02:51:32,704 - INFO - Fetching daily data for TROW
+2025-04-28 02:51:33,218 - INFO - Added 9844 new rows for TROW up to 2025-04-27
+2025-04-28 02:51:33,743 - INFO - Fetching daily data for TTWO
+2025-04-28 02:51:34,098 - INFO - Added 7053 new rows for TTWO up to 2025-04-27
+2025-04-28 02:51:34,607 - INFO - Fetching daily data for TPR
+2025-04-28 02:51:34,991 - INFO - Added 6174 new rows for TPR up to 2025-04-27
+2025-04-28 02:51:35,499 - INFO - Fetching daily data for TRGP
+2025-04-28 02:51:35,734 - INFO - Added 3618 new rows for TRGP up to 2025-04-27
+2025-04-28 02:51:36,239 - INFO - Fetching daily data for TGT
+2025-04-28 02:51:37,120 - INFO - Added 13157 new rows for TGT up to 2025-04-27
+2025-04-28 02:51:37,653 - INFO - Fetching daily data for TEL
+2025-04-28 02:51:38,035 - INFO - Added 4496 new rows for TEL up to 2025-04-27
+2025-04-28 02:51:38,547 - INFO - Fetching daily data for TDY
+2025-04-28 02:51:38,824 - INFO - Added 6394 new rows for TDY up to 2025-04-27
+2025-04-28 02:51:39,332 - INFO - Fetching daily data for TER
+2025-04-28 02:51:40,475 - INFO - Added 13157 new rows for TER up to 2025-04-27
+2025-04-28 02:51:40,990 - INFO - Fetching daily data for TSLA
+2025-04-28 02:51:41,178 - INFO - Added 3730 new rows for TSLA up to 2025-04-27
+2025-04-28 02:51:41,683 - INFO - Fetching daily data for TXN
+2025-04-28 02:51:42,544 - INFO - Added 13337 new rows for TXN up to 2025-04-27
+2025-04-28 02:51:43,060 - INFO - Fetching daily data for TPL
+2025-04-28 02:51:43,658 - INFO - Added 11371 new rows for TPL up to 2025-04-27
+2025-04-28 02:51:44,172 - INFO - Fetching daily data for TXT
+2025-04-28 02:51:45,108 - INFO - Added 13157 new rows for TXT up to 2025-04-27
+2025-04-28 02:51:45,623 - INFO - Fetching daily data for TMO
+2025-04-28 02:51:46,289 - INFO - Added 11371 new rows for TMO up to 2025-04-27
+2025-04-28 02:51:46,815 - INFO - Fetching daily data for TJX
+2025-04-28 02:51:47,329 - INFO - Added 9531 new rows for TJX up to 2025-04-27
+2025-04-28 02:51:47,841 - INFO - Fetching daily data for TKO
+2025-04-28 02:51:48,281 - INFO - Added 6419 new rows for TKO up to 2025-04-27
+2025-04-28 02:51:48,790 - INFO - Fetching daily data for TSCO
+2025-04-28 02:51:49,238 - INFO - Added 7849 new rows for TSCO up to 2025-04-27
+2025-04-28 02:51:49,748 - INFO - Fetching daily data for TT
+2025-04-28 02:51:50,552 - INFO - Added 11371 new rows for TT up to 2025-04-27
+2025-04-28 02:51:51,066 - INFO - Fetching daily data for TDG
+2025-04-28 02:51:51,354 - INFO - Added 4810 new rows for TDG up to 2025-04-27
+2025-04-28 02:51:51,865 - INFO - Fetching daily data for TRV
+2025-04-28 02:51:52,651 - INFO - Added 12464 new rows for TRV up to 2025-04-27
+2025-04-28 02:51:53,166 - INFO - Fetching daily data for TRMB
+2025-04-28 02:51:53,541 - INFO - Added 8756 new rows for TRMB up to 2025-04-27
+2025-04-28 02:51:54,061 - INFO - Fetching daily data for TFC
+2025-04-28 02:51:54,733 - INFO - Added 11370 new rows for TFC up to 2025-04-27
+2025-04-28 02:51:55,248 - INFO - Fetching daily data for TYL
+2025-04-28 02:51:55,715 - INFO - Added 11371 new rows for TYL up to 2025-04-27
+2025-04-28 02:51:56,243 - INFO - Fetching daily data for TSN
+2025-04-28 02:51:57,215 - INFO - Added 11371 new rows for TSN up to 2025-04-27
+2025-04-28 02:51:57,729 - INFO - Fetching daily data for USB
+2025-04-28 02:51:58,522 - INFO - Added 13107 new rows for USB up to 2025-04-27
+2025-04-28 02:51:59,066 - INFO - Fetching daily data for UBER
+2025-04-28 02:51:59,181 - INFO - Added 1499 new rows for UBER up to 2025-04-27
+2025-04-28 02:51:59,689 - INFO - Fetching daily data for UDR
+2025-04-28 02:52:00,438 - INFO - Added 11371 new rows for UDR up to 2025-04-27
+2025-04-28 02:52:00,952 - INFO - Fetching daily data for ULTA
+2025-04-28 02:52:01,160 - INFO - Added 4403 new rows for ULTA up to 2025-04-27
+2025-04-28 02:52:01,666 - INFO - Fetching daily data for UNP
+2025-04-28 02:52:02,449 - INFO - Added 11423 new rows for UNP up to 2025-04-27
+2025-04-28 02:52:02,964 - INFO - Fetching daily data for UAL
+2025-04-28 02:52:03,191 - INFO - Added 4836 new rows for UAL up to 2025-04-27
+2025-04-28 02:52:03,697 - INFO - Fetching daily data for UPS
+2025-04-28 02:52:04,057 - INFO - Added 6403 new rows for UPS up to 2025-04-27
+2025-04-28 02:52:04,565 - INFO - Fetching daily data for URI
+2025-04-28 02:52:04,898 - INFO - Added 6880 new rows for URI up to 2025-04-27
+2025-04-28 02:52:05,406 - INFO - Fetching daily data for UNH
+2025-04-28 02:52:06,188 - INFO - Added 10210 new rows for UNH up to 2025-04-27
+2025-04-28 02:52:06,713 - INFO - Fetching daily data for UHS
+2025-04-28 02:52:07,321 - INFO - Added 11040 new rows for UHS up to 2025-04-27
+2025-04-28 02:52:07,837 - INFO - Fetching daily data for VLO
+2025-04-28 02:52:08,488 - INFO - Added 10917 new rows for VLO up to 2025-04-27
+2025-04-28 02:52:09,002 - INFO - Fetching daily data for VTR
+2025-04-28 02:52:09,431 - INFO - Added 7039 new rows for VTR up to 2025-04-27
+2025-04-28 02:52:09,942 - INFO - Fetching daily data for VLTO
+2025-04-28 02:52:10,024 - INFO - Added 391 new rows for VLTO up to 2025-04-27
+2025-04-28 02:52:10,524 - INFO - Fetching daily data for VRSN
+2025-04-28 02:52:10,820 - INFO - Added 6852 new rows for VRSN up to 2025-04-27
+2025-04-28 02:52:11,329 - INFO - Fetching daily data for VRSK
+2025-04-28 02:52:11,544 - INFO - Added 3912 new rows for VRSK up to 2025-04-27
+2025-04-28 02:52:12,049 - INFO - Fetching daily data for VZ
+2025-04-28 02:52:12,723 - INFO - Added 10439 new rows for VZ up to 2025-04-27
+2025-04-28 02:52:13,235 - INFO - Fetching daily data for VRTX
+2025-04-28 02:52:13,603 - INFO - Added 8501 new rows for VRTX up to 2025-04-27
+2025-04-28 02:52:14,114 - INFO - Fetching daily data for VTRS
+2025-04-28 02:52:14,771 - INFO - Added 11371 new rows for VTRS up to 2025-04-27
+2025-04-28 02:52:15,285 - INFO - Fetching daily data for VICI
+2025-04-28 02:52:15,483 - INFO - Added 1839 new rows for VICI up to 2025-04-27
+2025-04-28 02:52:15,987 - INFO - Fetching daily data for V
+2025-04-28 02:52:16,264 - INFO - Added 4304 new rows for V up to 2025-04-27
+2025-04-28 02:52:16,770 - INFO - Fetching daily data for VST
+2025-04-28 02:52:16,915 - INFO - Added 2151 new rows for VST up to 2025-04-27
+2025-04-28 02:52:17,418 - INFO - Fetching daily data for VMC
+2025-04-28 02:52:18,048 - INFO - Added 13157 new rows for VMC up to 2025-04-27
+2025-04-28 02:52:18,564 - INFO - Fetching daily data for WRB
+2025-04-28 02:52:19,274 - INFO - Added 12987 new rows for WRB up to 2025-04-27
+2025-04-28 02:52:19,789 - INFO - Fetching daily data for GWW
+2025-04-28 02:52:20,471 - INFO - Added 13157 new rows for GWW up to 2025-04-27
+2025-04-28 02:52:20,987 - INFO - Fetching daily data for WAB
+2025-04-28 02:52:21,427 - INFO - Added 7515 new rows for WAB up to 2025-04-27
+2025-04-28 02:52:21,936 - INFO - Fetching daily data for WBA
+2025-04-28 02:52:22,552 - INFO - Added 11371 new rows for WBA up to 2025-04-27
+2025-04-28 02:52:23,082 - INFO - Fetching daily data for WMT
+2025-04-28 02:52:23,798 - INFO - Added 13277 new rows for WMT up to 2025-04-27
+2025-04-28 02:52:24,318 - INFO - Fetching daily data for DIS
+2025-04-28 02:52:25,300 - INFO - Added 15936 new rows for DIS up to 2025-04-27
+2025-04-28 02:52:25,819 - INFO - Fetching daily data for WBD
+2025-04-28 02:52:26,057 - INFO - Added 4982 new rows for WBD up to 2025-04-27
+2025-04-28 02:52:26,564 - INFO - Fetching daily data for WM
+2025-04-28 02:52:27,057 - INFO - Added 9281 new rows for WM up to 2025-04-27
+2025-04-28 02:52:27,568 - INFO - Fetching daily data for WAT
+2025-04-28 02:52:27,896 - INFO - Added 7407 new rows for WAT up to 2025-04-27
+2025-04-28 02:52:28,405 - INFO - Fetching daily data for WEC
+2025-04-28 02:52:29,071 - INFO - Added 11371 new rows for WEC up to 2025-04-27
+2025-04-28 02:52:29,586 - INFO - Fetching daily data for WFC
+2025-04-28 02:52:30,332 - INFO - Added 13337 new rows for WFC up to 2025-04-27
+2025-04-28 02:52:30,848 - INFO - Fetching daily data for WELL
+2025-04-28 02:52:31,605 - INFO - Added 11369 new rows for WELL up to 2025-04-27
+2025-04-28 02:52:32,133 - INFO - Fetching daily data for WST
+2025-04-28 02:52:33,115 - INFO - Added 11371 new rows for WST up to 2025-04-27
+2025-04-28 02:52:33,629 - INFO - Fetching daily data for WDC
+2025-04-28 02:52:34,175 - INFO - Added 11718 new rows for WDC up to 2025-04-27
+2025-04-28 02:52:34,690 - INFO - Fetching daily data for WY
+2025-04-28 02:52:35,436 - INFO - Added 13107 new rows for WY up to 2025-04-27
+2025-04-28 02:52:35,952 - INFO - Fetching daily data for WSM
+2025-04-28 02:52:36,499 - INFO - Added 10535 new rows for WSM up to 2025-04-27
+2025-04-28 02:52:37,013 - INFO - Fetching daily data for WMB
+2025-04-28 02:52:37,753 - INFO - Added 10918 new rows for WMB up to 2025-04-27
+2025-04-28 02:52:38,279 - INFO - Fetching daily data for WTW
+2025-04-28 02:52:38,651 - INFO - Added 6004 new rows for WTW up to 2025-04-27
+2025-04-28 02:52:39,160 - INFO - Fetching daily data for WDAY
+2025-04-28 02:52:39,321 - INFO - Added 3151 new rows for WDAY up to 2025-04-27
+2025-04-28 02:52:39,825 - INFO - Fetching daily data for WYNN
+2025-04-28 02:52:40,219 - INFO - Added 5661 new rows for WYNN up to 2025-04-27
+2025-04-28 02:52:40,726 - INFO - Fetching daily data for XEL
+2025-04-28 02:52:41,479 - INFO - Added 13157 new rows for XEL up to 2025-04-27
+2025-04-28 02:52:41,997 - INFO - Fetching daily data for XYL
+2025-04-28 02:52:42,283 - INFO - Added 3403 new rows for XYL up to 2025-04-27
+2025-04-28 02:52:42,787 - INFO - Fetching daily data for YUM
+2025-04-28 02:52:43,193 - INFO - Added 6945 new rows for YUM up to 2025-04-27
+2025-04-28 02:52:43,702 - INFO - Fetching daily data for ZBRA
+2025-04-28 02:52:44,058 - INFO - Added 8485 new rows for ZBRA up to 2025-04-27
+2025-04-28 02:52:44,569 - INFO - Fetching daily data for ZBH
+2025-04-28 02:52:44,899 - INFO - Added 5974 new rows for ZBH up to 2025-04-27
+2025-04-28 02:52:45,406 - INFO - Fetching daily data for ZTS
+2025-04-28 02:52:45,606 - INFO - Added 3077 new rows for ZTS up to 2025-04-27
+2025-04-28 02:52:46,111 - INFO - Data collection complete. All data saved to data/daily_stock_price/sp500_daily_data_yfinance.csv
