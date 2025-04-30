@@ -1,0 +1,41 @@
+2025-04-28 04:53:37,893 - INFO - Starting script
+2025-04-28 04:53:37,893 - INFO - Starting technical indicators calculation for top 25 S&P 500 stocks
+2025-04-28 04:53:37,893 - INFO - Processing AAPL
+2025-04-28 04:53:38,133 - ERROR - Error processing AAPL: 'KCU_20_2'
+2025-04-28 04:53:38,133 - INFO - Processing MSFT
+2025-04-28 04:53:38,216 - ERROR - Error processing MSFT: 'KCU_20_2'
+2025-04-28 04:53:38,216 - INFO - Processing NVDA
+2025-04-28 04:53:38,329 - ERROR - Error processing NVDA: 'KCU_20_2'
+2025-04-28 04:53:38,329 - INFO - Processing AMZN
+2025-04-28 04:53:38,382 - ERROR - Error processing AMZN: 'KCU_20_2'
+2025-04-28 04:53:38,382 - INFO - Processing GOOG
+2025-04-28 04:53:38,444 - ERROR - Error processing GOOG: 'KCU_20_2'
+2025-04-28 04:53:38,444 - INFO - Processing META
+2025-04-28 04:53:38,520 - ERROR - Error processing META: 'KCU_20_2'
+2025-04-28 04:53:38,520 - INFO - Processing BRK-B
+2025-04-28 04:53:38,584 - ERROR - Error processing BRK-B: 'KCU_20_2'
+2025-04-28 04:53:38,584 - INFO - Processing GOOGL
+2025-04-28 04:53:38,657 - ERROR - Error processing GOOGL: 'KCU_20_2'
+2025-04-28 04:53:38,657 - INFO - Processing AVGO
+2025-04-28 04:53:38,747 - ERROR - Error processing AVGO: 'KCU_20_2'
+2025-04-28 04:53:38,747 - INFO - Processing TSLA
+2025-04-28 04:53:38,809 - ERROR - Error processing TSLA: 'KCU_20_2'
+2025-04-28 04:53:38,809 - INFO - Processing LLY
+2025-04-28 04:53:38,952 - ERROR - Error processing LLY: 'KCU_20_2'
+2025-04-28 04:53:38,952 - INFO - Processing JPM
+2025-04-28 04:53:39,092 - ERROR - Error processing JPM: 'KCU_20_2'
+2025-04-28 04:53:39,093 - INFO - Processing WMT
+2025-04-28 04:53:39,255 - ERROR - Error processing WMT: 'KCU_20_2'
+2025-04-28 04:53:39,255 - INFO - Processing V
+2025-04-28 04:53:39,348 - ERROR - Error processing V: 'KCU_20_2'
+2025-04-28 04:53:39,349 - INFO - Processing XOM
+2025-04-28 04:53:39,526 - ERROR - Error processing XOM: 'KCU_20_2'
+2025-04-28 04:53:39,527 - INFO - Processing MA
+2025-04-28 04:53:39,624 - ERROR - Error processing MA: 'KCU_20_2'
+2025-04-28 04:53:39,624 - INFO - Processing UNH
+2025-04-28 04:53:39,742 - ERROR - Error processing UNH: 'KCU_20_2'
+2025-04-28 04:53:39,742 - INFO - Processing ORCL
+2025-04-28 04:53:39,830 - ERROR - Error processing ORCL: 'KCU_20_2'
+2025-04-28 04:53:39,830 - INFO - Processing NFLX
+2025-04-28 04:53:39,886 - ERROR - Error processing NFLX: 'KCU_20_2'
+2025-04-28 04:53:39,886 - INFO - Processing COST

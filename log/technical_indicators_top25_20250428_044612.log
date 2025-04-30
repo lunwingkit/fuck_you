@@ -1,0 +1,55 @@
+2025-04-28 04:46:12,354 - INFO - Starting script
+2025-04-28 04:46:12,354 - INFO - Starting technical indicators calculation for top 25 S&P 500 stocks
+2025-04-28 04:46:12,355 - INFO - Processing AAPL
+2025-04-28 04:46:12,522 - ERROR - Error processing AAPL: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,522 - INFO - Processing MSFT
+2025-04-28 04:46:12,601 - ERROR - Error processing MSFT: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,601 - INFO - Processing NVDA
+2025-04-28 04:46:12,686 - ERROR - Error processing NVDA: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,687 - INFO - Processing AMZN
+2025-04-28 04:46:12,749 - ERROR - Error processing AMZN: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,749 - INFO - Processing GOOG
+2025-04-28 04:46:12,801 - ERROR - Error processing GOOG: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,801 - INFO - Processing META
+2025-04-28 04:46:12,862 - ERROR - Error processing META: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,862 - INFO - Processing BRK-B
+2025-04-28 04:46:12,906 - ERROR - Error processing BRK-B: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,906 - INFO - Processing GOOGL
+2025-04-28 04:46:12,953 - ERROR - Error processing GOOGL: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:12,953 - INFO - Processing AVGO
+2025-04-28 04:46:13,045 - ERROR - Error processing AVGO: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,045 - INFO - Processing TSLA
+2025-04-28 04:46:13,095 - ERROR - Error processing TSLA: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,095 - INFO - Processing LLY
+2025-04-28 04:46:13,228 - ERROR - Error processing LLY: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,229 - INFO - Processing JPM
+2025-04-28 04:46:13,336 - ERROR - Error processing JPM: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,336 - INFO - Processing WMT
+2025-04-28 04:46:13,480 - ERROR - Error processing WMT: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,480 - INFO - Processing V
+2025-04-28 04:46:13,564 - ERROR - Error processing V: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,564 - INFO - Processing XOM
+2025-04-28 04:46:13,708 - ERROR - Error processing XOM: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,708 - INFO - Processing MA
+2025-04-28 04:46:13,793 - ERROR - Error processing MA: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,793 - INFO - Processing UNH
+2025-04-28 04:46:13,952 - ERROR - Error processing UNH: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:13,953 - INFO - Processing ORCL
+2025-04-28 04:46:14,043 - ERROR - Error processing ORCL: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,043 - INFO - Processing NFLX
+2025-04-28 04:46:14,110 - ERROR - Error processing NFLX: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,110 - INFO - Processing COST
+2025-04-28 04:46:14,207 - ERROR - Error processing COST: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,208 - INFO - Processing JNJ
+2025-04-28 04:46:14,355 - ERROR - Error processing JNJ: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,356 - INFO - Processing PG
+2025-04-28 04:46:14,523 - ERROR - Error processing PG: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,523 - INFO - Processing ABBV
+2025-04-28 04:46:14,597 - ERROR - Error processing ABBV: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,597 - INFO - Processing HD
+2025-04-28 04:46:14,703 - ERROR - Error processing HD: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,703 - INFO - Processing BAC
+2025-04-28 04:46:14,823 - ERROR - Error processing BAC: could not convert string to float: 'STOCHk_14_3_3'
+2025-04-28 04:46:14,823 - WARNING - No data to save
+2025-04-28 04:46:14,823 - INFO - Technical indicators calculation completed
+2025-04-28 04:46:14,823 - INFO - Script completed

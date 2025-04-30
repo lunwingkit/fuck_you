@@ -1,0 +1,27 @@
+=== Exploratory Data Analysis Summary ===
+
+Dataset Shape: (141151, 27)
+Date Range: 2000-01-03 00:00:00 to 2025-04-25 00:00:00
+Number of Symbols: 25
+
+=== Missing Values ===
+SMA_20             475
+RSI_14             325
+BB_Upper           475
+BB_Lower           475
+ATR_14             325
+Close_Lag_1         25
+Close_Lag_2         50
+Close_Lag_3         75
+Close_Lag_5        125
+Volume_Lag_1        25
+Volume_Lag_3        75
+Daily_Return        25
+Volatility_20      475
+MACD_Hist_Slope     25
+dtype: int64
+=== Key Observations ===
+- High correlation between price-based indicators (Close, SMA_20, BB_Upper/Lower)
+- RSI distributions vary by symbol, indicating different momentum characteristics
+- Volatility differs significantly across symbols
+- Daily returns show fat-tailed distributions, suggesting potential for extreme movements

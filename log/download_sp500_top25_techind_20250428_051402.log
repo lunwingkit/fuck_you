@@ -1,0 +1,4 @@
+2025-04-28 05:14:02,226 - INFO - Script started
+2025-04-28 05:14:02,226 - INFO - Starting technical indicator download for top 25 S&P500 stocks
+2025-04-28 05:14:02,226 - INFO - Downloading data for AAPL
+2025-04-28 05:14:02,765 - ERROR - Error during technical indicator download: Can only use .str accessor with Index, not MultiIndex

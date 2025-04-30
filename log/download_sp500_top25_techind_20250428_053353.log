@@ -1,0 +1,31 @@
+2025-04-28 05:33:53,994 - INFO - Script started
+2025-04-28 05:33:53,994 - INFO - Starting technical indicator download for top 25 S&P500 stocks
+2025-04-28 05:33:53,994 - INFO - Downloading data for AAPL
+2025-04-28 05:33:54,898 - INFO - DataFrame shape for AAPL: (6367, 5)
+2025-04-28 05:33:54,898 - INFO - Columns for AAPL: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:33:54,898 - INFO - Index type for AAPL: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:33:54,905 - INFO - Single indicator (SMA) calculated for AAPL
+2025-04-28 05:33:54,905 - ERROR - Error calculating technical indicators for AAPL: module 'pandas_ta' has no attribute 'all'
+2025-04-28 05:33:54,905 - INFO - Fallback to Common strategy for AAPL
+2025-04-28 05:33:54,907 - INFO - Downloading data for MSFT
+2025-04-28 05:33:55,175 - INFO - DataFrame shape for MSFT: (6367, 5)
+2025-04-28 05:33:55,175 - INFO - Columns for MSFT: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:33:55,175 - INFO - Index type for MSFT: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:33:55,181 - INFO - Single indicator (SMA) calculated for MSFT
+2025-04-28 05:33:55,181 - ERROR - Error calculating technical indicators for MSFT: module 'pandas_ta' has no attribute 'all'
+2025-04-28 05:33:55,181 - INFO - Fallback to Common strategy for MSFT
+2025-04-28 05:33:55,182 - INFO - Downloading data for NVDA
+2025-04-28 05:33:55,425 - INFO - DataFrame shape for NVDA: (6367, 5)
+2025-04-28 05:33:55,426 - INFO - Columns for NVDA: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:33:55,426 - INFO - Index type for NVDA: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:33:55,433 - INFO - Single indicator (SMA) calculated for NVDA
+2025-04-28 05:33:55,434 - ERROR - Error calculating technical indicators for NVDA: module 'pandas_ta' has no attribute 'all'
+2025-04-28 05:33:55,434 - INFO - Fallback to Common strategy for NVDA
+2025-04-28 05:33:55,437 - INFO - Downloading data for AMZN
+2025-04-28 05:33:55,605 - INFO - DataFrame shape for AMZN: (6367, 5)
+2025-04-28 05:33:55,605 - INFO - Columns for AMZN: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:33:55,605 - INFO - Index type for AMZN: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:33:55,615 - INFO - Single indicator (SMA) calculated for AMZN
+2025-04-28 05:33:55,616 - ERROR - Error calculating technical indicators for AMZN: module 'pandas_ta' has no attribute 'all'
+2025-04-28 05:33:55,616 - INFO - Fallback to Common strategy for AMZN
+2025-04-28 05:33:55,619 - INFO - Downloading data for GOOG

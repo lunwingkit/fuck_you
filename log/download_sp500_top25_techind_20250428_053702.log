@@ -1,0 +1,154 @@
+2025-04-28 05:37:02,867 - INFO - Script started
+2025-04-28 05:37:02,867 - INFO - Starting data download for top 25 S&P500 stocks
+2025-04-28 05:37:02,867 - INFO - Downloading data for AAPL
+2025-04-28 05:37:03,212 - INFO - DataFrame shape for AAPL: (6367, 5)
+2025-04-28 05:37:03,212 - INFO - Columns for AAPL: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:03,212 - INFO - Index type for AAPL: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:03,224 - INFO - Custom indicators calculated for AAPL
+2025-04-28 05:37:03,227 - INFO - Data and indicators processed for AAPL
+2025-04-28 05:37:03,227 - INFO - Downloading data for MSFT
+2025-04-28 05:37:03,518 - INFO - DataFrame shape for MSFT: (6367, 5)
+2025-04-28 05:37:03,519 - INFO - Columns for MSFT: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:03,519 - INFO - Index type for MSFT: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:03,531 - INFO - Custom indicators calculated for MSFT
+2025-04-28 05:37:03,535 - INFO - Data and indicators processed for MSFT
+2025-04-28 05:37:03,536 - INFO - Downloading data for NVDA
+2025-04-28 05:37:03,778 - INFO - DataFrame shape for NVDA: (6367, 5)
+2025-04-28 05:37:03,778 - INFO - Columns for NVDA: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:03,778 - INFO - Index type for NVDA: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:03,787 - INFO - Custom indicators calculated for NVDA
+2025-04-28 05:37:03,789 - INFO - Data and indicators processed for NVDA
+2025-04-28 05:37:03,789 - INFO - Downloading data for AMZN
+2025-04-28 05:37:03,977 - INFO - DataFrame shape for AMZN: (6367, 5)
+2025-04-28 05:37:03,977 - INFO - Columns for AMZN: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:03,977 - INFO - Index type for AMZN: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:03,985 - INFO - Custom indicators calculated for AMZN
+2025-04-28 05:37:03,988 - INFO - Data and indicators processed for AMZN
+2025-04-28 05:37:03,988 - INFO - Downloading data for GOOG
+2025-04-28 05:37:04,211 - INFO - DataFrame shape for GOOG: (5205, 5)
+2025-04-28 05:37:04,211 - INFO - Columns for GOOG: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:04,211 - INFO - Index type for GOOG: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:04,221 - INFO - Custom indicators calculated for GOOG
+2025-04-28 05:37:04,223 - INFO - Data and indicators processed for GOOG
+2025-04-28 05:37:04,223 - INFO - Downloading data for META
+2025-04-28 05:37:04,416 - INFO - DataFrame shape for META: (3253, 5)
+2025-04-28 05:37:04,416 - INFO - Columns for META: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:04,416 - INFO - Index type for META: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:04,425 - INFO - Custom indicators calculated for META
+2025-04-28 05:37:04,427 - INFO - Data and indicators processed for META
+2025-04-28 05:37:04,427 - INFO - Downloading data for BRK-B
+2025-04-28 05:37:04,632 - INFO - DataFrame shape for BRK-B: (6367, 5)
+2025-04-28 05:37:04,632 - INFO - Columns for BRK-B: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:04,632 - INFO - Index type for BRK-B: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:04,640 - INFO - Custom indicators calculated for BRK-B
+2025-04-28 05:37:04,643 - INFO - Data and indicators processed for BRK-B
+2025-04-28 05:37:04,643 - INFO - Downloading data for GOOGL
+2025-04-28 05:37:04,834 - INFO - DataFrame shape for GOOGL: (5205, 5)
+2025-04-28 05:37:04,834 - INFO - Columns for GOOGL: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:04,835 - INFO - Index type for GOOGL: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:04,843 - INFO - Custom indicators calculated for GOOGL
+2025-04-28 05:37:04,845 - INFO - Data and indicators processed for GOOGL
+2025-04-28 05:37:04,845 - INFO - Downloading data for AVGO
+2025-04-28 05:37:04,988 - INFO - DataFrame shape for AVGO: (3955, 5)
+2025-04-28 05:37:04,988 - INFO - Columns for AVGO: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:04,988 - INFO - Index type for AVGO: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:04,996 - INFO - Custom indicators calculated for AVGO
+2025-04-28 05:37:04,998 - INFO - Data and indicators processed for AVGO
+2025-04-28 05:37:04,998 - INFO - Downloading data for TSLA
+2025-04-28 05:37:05,126 - INFO - DataFrame shape for TSLA: (3730, 5)
+2025-04-28 05:37:05,126 - INFO - Columns for TSLA: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:05,126 - INFO - Index type for TSLA: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:05,136 - INFO - Custom indicators calculated for TSLA
+2025-04-28 05:37:05,138 - INFO - Data and indicators processed for TSLA
+2025-04-28 05:37:05,138 - INFO - Downloading data for LLY
+2025-04-28 05:37:05,429 - INFO - DataFrame shape for LLY: (6367, 5)
+2025-04-28 05:37:05,429 - INFO - Columns for LLY: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:05,429 - INFO - Index type for LLY: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:05,437 - INFO - Custom indicators calculated for LLY
+2025-04-28 05:37:05,440 - INFO - Data and indicators processed for LLY
+2025-04-28 05:37:05,440 - INFO - Downloading data for JPM
+2025-04-28 05:37:05,744 - INFO - DataFrame shape for JPM: (6367, 5)
+2025-04-28 05:37:05,744 - INFO - Columns for JPM: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:05,744 - INFO - Index type for JPM: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:05,753 - INFO - Custom indicators calculated for JPM
+2025-04-28 05:37:05,755 - INFO - Data and indicators processed for JPM
+2025-04-28 05:37:05,755 - INFO - Downloading data for WMT
+2025-04-28 05:37:06,049 - INFO - DataFrame shape for WMT: (6367, 5)
+2025-04-28 05:37:06,049 - INFO - Columns for WMT: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:06,049 - INFO - Index type for WMT: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:06,058 - INFO - Custom indicators calculated for WMT
+2025-04-28 05:37:06,060 - INFO - Data and indicators processed for WMT
+2025-04-28 05:37:06,060 - INFO - Downloading data for V
+2025-04-28 05:37:06,277 - INFO - DataFrame shape for V: (4304, 5)
+2025-04-28 05:37:06,277 - INFO - Columns for V: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:06,277 - INFO - Index type for V: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:06,285 - INFO - Custom indicators calculated for V
+2025-04-28 05:37:06,287 - INFO - Data and indicators processed for V
+2025-04-28 05:37:06,288 - INFO - Downloading data for XOM
+2025-04-28 05:37:06,601 - INFO - DataFrame shape for XOM: (6367, 5)
+2025-04-28 05:37:06,601 - INFO - Columns for XOM: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:06,601 - INFO - Index type for XOM: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:06,609 - INFO - Custom indicators calculated for XOM
+2025-04-28 05:37:06,611 - INFO - Data and indicators processed for XOM
+2025-04-28 05:37:06,612 - INFO - Downloading data for MA
+2025-04-28 05:37:06,781 - INFO - DataFrame shape for MA: (4760, 5)
+2025-04-28 05:37:06,781 - INFO - Columns for MA: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:06,781 - INFO - Index type for MA: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:06,792 - INFO - Custom indicators calculated for MA
+2025-04-28 05:37:06,793 - INFO - Data and indicators processed for MA
+2025-04-28 05:37:06,793 - INFO - Downloading data for UNH
+2025-04-28 05:37:07,050 - INFO - DataFrame shape for UNH: (6367, 5)
+2025-04-28 05:37:07,050 - INFO - Columns for UNH: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:07,050 - INFO - Index type for UNH: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:07,058 - INFO - Custom indicators calculated for UNH
+2025-04-28 05:37:07,060 - INFO - Data and indicators processed for UNH
+2025-04-28 05:37:07,060 - INFO - Downloading data for ORCL
+2025-04-28 05:37:07,297 - INFO - DataFrame shape for ORCL: (6367, 5)
+2025-04-28 05:37:07,297 - INFO - Columns for ORCL: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:07,297 - INFO - Index type for ORCL: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:07,305 - INFO - Custom indicators calculated for ORCL
+2025-04-28 05:37:07,308 - INFO - Data and indicators processed for ORCL
+2025-04-28 05:37:07,308 - INFO - Downloading data for NFLX
+2025-04-28 05:37:07,526 - INFO - DataFrame shape for NFLX: (5769, 5)
+2025-04-28 05:37:07,526 - INFO - Columns for NFLX: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:07,526 - INFO - Index type for NFLX: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:07,539 - INFO - Custom indicators calculated for NFLX
+2025-04-28 05:37:07,541 - INFO - Data and indicators processed for NFLX
+2025-04-28 05:37:07,541 - INFO - Downloading data for COST
+2025-04-28 05:37:07,782 - INFO - DataFrame shape for COST: (6367, 5)
+2025-04-28 05:37:07,782 - INFO - Columns for COST: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:07,782 - INFO - Index type for COST: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:07,792 - INFO - Custom indicators calculated for COST
+2025-04-28 05:37:07,794 - INFO - Data and indicators processed for COST
+2025-04-28 05:37:07,794 - INFO - Downloading data for JNJ
+2025-04-28 05:37:08,084 - INFO - DataFrame shape for JNJ: (6367, 5)
+2025-04-28 05:37:08,084 - INFO - Columns for JNJ: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:08,084 - INFO - Index type for JNJ: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:08,093 - INFO - Custom indicators calculated for JNJ
+2025-04-28 05:37:08,095 - INFO - Data and indicators processed for JNJ
+2025-04-28 05:37:08,095 - INFO - Downloading data for PG
+2025-04-28 05:37:08,379 - INFO - DataFrame shape for PG: (6367, 5)
+2025-04-28 05:37:08,379 - INFO - Columns for PG: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:08,379 - INFO - Index type for PG: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:08,387 - INFO - Custom indicators calculated for PG
+2025-04-28 05:37:08,390 - INFO - Data and indicators processed for PG
+2025-04-28 05:37:08,390 - INFO - Downloading data for ABBV
+2025-04-28 05:37:08,503 - INFO - DataFrame shape for ABBV: (3098, 5)
+2025-04-28 05:37:08,503 - INFO - Columns for ABBV: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:08,503 - INFO - Index type for ABBV: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:08,512 - INFO - Custom indicators calculated for ABBV
+2025-04-28 05:37:08,513 - INFO - Data and indicators processed for ABBV
+2025-04-28 05:37:08,513 - INFO - Downloading data for HD
+2025-04-28 05:37:08,733 - INFO - DataFrame shape for HD: (6367, 5)
+2025-04-28 05:37:08,733 - INFO - Columns for HD: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:08,733 - INFO - Index type for HD: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:08,742 - INFO - Custom indicators calculated for HD
+2025-04-28 05:37:08,744 - INFO - Data and indicators processed for HD
+2025-04-28 05:37:08,744 - INFO - Downloading data for BAC
+2025-04-28 05:37:08,975 - INFO - DataFrame shape for BAC: (6367, 5)
+2025-04-28 05:37:08,975 - INFO - Columns for BAC: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:37:08,975 - INFO - Index type for BAC: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:37:08,984 - INFO - Custom indicators calculated for BAC
+2025-04-28 05:37:08,986 - INFO - Data and indicators processed for BAC
+2025-04-28 05:37:11,352 - INFO - Data saved to data/daily_stock_price/sp500_top25_technical_indicators.csv
+2025-04-28 05:37:11,354 - INFO - Script finished

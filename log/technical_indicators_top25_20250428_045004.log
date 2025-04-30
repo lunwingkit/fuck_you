@@ -1,0 +1,55 @@
+2025-04-28 04:50:04,698 - INFO - Starting script
+2025-04-28 04:50:04,698 - INFO - Starting technical indicators calculation for top 25 S&P 500 stocks
+2025-04-28 04:50:04,699 - INFO - Processing AAPL
+2025-04-28 04:50:04,865 - ERROR - Error processing AAPL: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:04,866 - INFO - Processing MSFT
+2025-04-28 04:50:04,943 - ERROR - Error processing MSFT: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:04,943 - INFO - Processing NVDA
+2025-04-28 04:50:05,013 - ERROR - Error processing NVDA: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,013 - INFO - Processing AMZN
+2025-04-28 04:50:05,080 - ERROR - Error processing AMZN: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,080 - INFO - Processing GOOG
+2025-04-28 04:50:05,127 - ERROR - Error processing GOOG: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,127 - INFO - Processing META
+2025-04-28 04:50:05,170 - ERROR - Error processing META: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,170 - INFO - Processing BRK-B
+2025-04-28 04:50:05,208 - ERROR - Error processing BRK-B: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,208 - INFO - Processing GOOGL
+2025-04-28 04:50:05,252 - ERROR - Error processing GOOGL: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,252 - INFO - Processing AVGO
+2025-04-28 04:50:05,324 - ERROR - Error processing AVGO: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,324 - INFO - Processing TSLA
+2025-04-28 04:50:05,361 - ERROR - Error processing TSLA: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,361 - INFO - Processing LLY
+2025-04-28 04:50:05,464 - ERROR - Error processing LLY: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,464 - INFO - Processing JPM
+2025-04-28 04:50:05,567 - ERROR - Error processing JPM: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,568 - INFO - Processing WMT
+2025-04-28 04:50:05,694 - ERROR - Error processing WMT: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,694 - INFO - Processing V
+2025-04-28 04:50:05,771 - ERROR - Error processing V: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,773 - INFO - Processing XOM
+2025-04-28 04:50:05,940 - ERROR - Error processing XOM: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:05,940 - INFO - Processing MA
+2025-04-28 04:50:06,006 - ERROR - Error processing MA: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,006 - INFO - Processing UNH
+2025-04-28 04:50:06,086 - ERROR - Error processing UNH: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,086 - INFO - Processing ORCL
+2025-04-28 04:50:06,141 - ERROR - Error processing ORCL: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,142 - INFO - Processing NFLX
+2025-04-28 04:50:06,178 - ERROR - Error processing NFLX: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,178 - INFO - Processing COST
+2025-04-28 04:50:06,243 - ERROR - Error processing COST: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,243 - INFO - Processing JNJ
+2025-04-28 04:50:06,399 - ERROR - Error processing JNJ: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,399 - INFO - Processing PG
+2025-04-28 04:50:06,575 - ERROR - Error processing PG: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:06,576 - INFO - Processing ABBV
+2025-04-28 04:50:07,679 - ERROR - Error processing ABBV: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:07,679 - INFO - Processing HD
+2025-04-28 04:50:07,776 - ERROR - Error processing HD: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:07,776 - INFO - Processing BAC
+2025-04-28 04:50:07,860 - ERROR - Error processing BAC: 'MACD_ underworld12_26_9'
+2025-04-28 04:50:07,860 - WARNING - No data to save
+2025-04-28 04:50:07,860 - INFO - Technical indicators calculation completed
+2025-04-28 04:50:07,861 - INFO - Script completed

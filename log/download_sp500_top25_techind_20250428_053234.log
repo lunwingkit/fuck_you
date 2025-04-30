@@ -1,0 +1,7 @@
+2025-04-28 05:32:34,368 - INFO - Script started
+2025-04-28 05:32:34,368 - INFO - Starting technical indicator download for top 25 S&P500 stocks
+2025-04-28 05:32:34,368 - INFO - Downloading data for AAPL
+2025-04-28 05:32:34,691 - INFO - DataFrame shape for AAPL: (6367, 5)
+2025-04-28 05:32:34,691 - INFO - Columns for AAPL: ['Close', 'High', 'Low', 'Open', 'Volume']
+2025-04-28 05:32:34,691 - INFO - Index type for AAPL: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:32:34,698 - INFO - Single indicator (SMA) calculated for AAPL

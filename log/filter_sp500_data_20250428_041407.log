@@ -1,0 +1,7 @@
+2025-04-28 04:14:07,998 - INFO - Starting data filtering process
+2025-04-28 04:14:07,999 - INFO - Loading data from data/daily_stock_price/sp500_daily_data_yfinance.csv
+2025-04-28 04:14:18,314 - INFO - Filtering data for 25 symbols
+2025-04-28 04:14:18,542 - INFO - Original data: 4284561 rows
+2025-04-28 04:14:18,542 - INFO - Filtered data: 213738 rows
+2025-04-28 04:14:23,493 - INFO - Filtered data saved to data/daily_stock_price/sp500_top25_daily_data.csv
+2025-04-28 04:14:23,518 - INFO - Data filtering process completed

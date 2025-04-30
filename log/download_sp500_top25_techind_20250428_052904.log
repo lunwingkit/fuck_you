@@ -1,0 +1,63 @@
+2025-04-28 05:29:04,329 - INFO - Script started
+2025-04-28 05:29:04,330 - INFO - Starting technical indicator download for top 25 S&P500 stocks
+2025-04-28 05:29:04,330 - INFO - Downloading data for AAPL
+2025-04-28 05:29:04,626 - INFO - Index type for AAPL before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:04,639 - INFO - DataFrame shape for AAPL: (6367, 5)
+2025-04-28 05:29:04,639 - INFO - Columns for AAPL: [('Close', 'AAPL'), ('High', 'AAPL'), ('Low', 'AAPL'), ('Open', 'AAPL'), ('Volume', 'AAPL')]
+2025-04-28 05:29:04,639 - ERROR - Error calculating technical indicators for AAPL: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:04,639 - INFO - Downloading data for MSFT
+2025-04-28 05:29:04,907 - INFO - Index type for MSFT before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:04,913 - INFO - DataFrame shape for MSFT: (6367, 5)
+2025-04-28 05:29:04,913 - INFO - Columns for MSFT: [('Close', 'MSFT'), ('High', 'MSFT'), ('Low', 'MSFT'), ('Open', 'MSFT'), ('Volume', 'MSFT')]
+2025-04-28 05:29:04,914 - ERROR - Error calculating technical indicators for MSFT: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:04,914 - INFO - Downloading data for NVDA
+2025-04-28 05:29:05,200 - INFO - Index type for NVDA before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:05,209 - INFO - DataFrame shape for NVDA: (6367, 5)
+2025-04-28 05:29:05,209 - INFO - Columns for NVDA: [('Close', 'NVDA'), ('High', 'NVDA'), ('Low', 'NVDA'), ('Open', 'NVDA'), ('Volume', 'NVDA')]
+2025-04-28 05:29:05,209 - ERROR - Error calculating technical indicators for NVDA: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:05,209 - INFO - Downloading data for AMZN
+2025-04-28 05:29:05,404 - INFO - Index type for AMZN before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:05,410 - INFO - DataFrame shape for AMZN: (6367, 5)
+2025-04-28 05:29:05,410 - INFO - Columns for AMZN: [('Close', 'AMZN'), ('High', 'AMZN'), ('Low', 'AMZN'), ('Open', 'AMZN'), ('Volume', 'AMZN')]
+2025-04-28 05:29:05,411 - ERROR - Error calculating technical indicators for AMZN: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:05,411 - INFO - Downloading data for GOOG
+2025-04-28 05:29:05,582 - INFO - Index type for GOOG before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:05,591 - INFO - DataFrame shape for GOOG: (5205, 5)
+2025-04-28 05:29:05,591 - INFO - Columns for GOOG: [('Close', 'GOOG'), ('High', 'GOOG'), ('Low', 'GOOG'), ('Open', 'GOOG'), ('Volume', 'GOOG')]
+2025-04-28 05:29:05,592 - ERROR - Error calculating technical indicators for GOOG: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:05,592 - INFO - Downloading data for META
+2025-04-28 05:29:05,705 - INFO - Index type for META before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:05,710 - INFO - DataFrame shape for META: (3253, 5)
+2025-04-28 05:29:05,711 - INFO - Columns for META: [('Close', 'META'), ('High', 'META'), ('Low', 'META'), ('Open', 'META'), ('Volume', 'META')]
+2025-04-28 05:29:05,711 - ERROR - Error calculating technical indicators for META: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:05,711 - INFO - Downloading data for BRK-B
+2025-04-28 05:29:05,872 - INFO - Index type for BRK-B before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:05,877 - INFO - DataFrame shape for BRK-B: (6367, 5)
+2025-04-28 05:29:05,878 - INFO - Columns for BRK-B: [('Close', 'BRK-B'), ('High', 'BRK-B'), ('Low', 'BRK-B'), ('Open', 'BRK-B'), ('Volume', 'BRK-B')]
+2025-04-28 05:29:05,878 - ERROR - Error calculating technical indicators for BRK-B: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:05,878 - INFO - Downloading data for GOOGL
+2025-04-28 05:29:06,044 - INFO - Index type for GOOGL before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:06,059 - INFO - DataFrame shape for GOOGL: (5205, 5)
+2025-04-28 05:29:06,059 - INFO - Columns for GOOGL: [('Close', 'GOOGL'), ('High', 'GOOGL'), ('Low', 'GOOGL'), ('Open', 'GOOGL'), ('Volume', 'GOOGL')]
+2025-04-28 05:29:06,059 - ERROR - Error calculating technical indicators for GOOGL: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:06,059 - INFO - Downloading data for AVGO
+2025-04-28 05:29:06,278 - INFO - Index type for AVGO before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:06,284 - INFO - DataFrame shape for AVGO: (3955, 5)
+2025-04-28 05:29:06,284 - INFO - Columns for AVGO: [('Close', 'AVGO'), ('High', 'AVGO'), ('Low', 'AVGO'), ('Open', 'AVGO'), ('Volume', 'AVGO')]
+2025-04-28 05:29:06,284 - ERROR - Error calculating technical indicators for AVGO: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:06,284 - INFO - Downloading data for TSLA
+2025-04-28 05:29:06,399 - INFO - Index type for TSLA before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:06,405 - INFO - DataFrame shape for TSLA: (3730, 5)
+2025-04-28 05:29:06,405 - INFO - Columns for TSLA: [('Close', 'TSLA'), ('High', 'TSLA'), ('Low', 'TSLA'), ('Open', 'TSLA'), ('Volume', 'TSLA')]
+2025-04-28 05:29:06,406 - ERROR - Error calculating technical indicators for TSLA: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:06,406 - INFO - Downloading data for LLY
+2025-04-28 05:29:06,639 - INFO - Index type for LLY before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:06,645 - INFO - DataFrame shape for LLY: (6367, 5)
+2025-04-28 05:29:06,645 - INFO - Columns for LLY: [('Close', 'LLY'), ('High', 'LLY'), ('Low', 'LLY'), ('Open', 'LLY'), ('Volume', 'LLY')]
+2025-04-28 05:29:06,645 - ERROR - Error calculating technical indicators for LLY: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:06,645 - INFO - Downloading data for JPM
+2025-04-28 05:29:06,927 - INFO - Index type for JPM before processing: <class 'pandas.core.indexes.datetimes.DatetimeIndex'>
+2025-04-28 05:29:06,932 - INFO - DataFrame shape for JPM: (6367, 5)
+2025-04-28 05:29:06,932 - INFO - Columns for JPM: [('Close', 'JPM'), ('High', 'JPM'), ('Low', 'JPM'), ('Open', 'JPM'), ('Volume', 'JPM')]
+2025-04-28 05:29:06,933 - ERROR - Error calculating technical indicators for JPM: Can only use .str accessor with Index, not MultiIndex
+2025-04-28 05:29:06,933 - INFO - Downloading data for WMT

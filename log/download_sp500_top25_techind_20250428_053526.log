@@ -1,0 +1,13 @@
+2025-04-28 05:35:26,643 - INFO - Script started
+2025-04-28 05:35:26,643 - INFO - Starting data download for top 25 S&P500 stocks
+2025-04-28 05:35:26,643 - INFO - Downloading data for AAPL
+2025-04-28 05:35:27,333 - ERROR - Error downloading data for AAPL: Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
+2025-04-28 05:35:27,333 - INFO - Downloading data for MSFT
+2025-04-28 05:35:27,572 - ERROR - Error downloading data for MSFT: Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
+2025-04-28 05:35:27,573 - INFO - Downloading data for NVDA
+2025-04-28 05:35:28,269 - ERROR - Error downloading data for NVDA: Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
+2025-04-28 05:35:28,270 - INFO - Downloading data for AMZN
+2025-04-28 05:35:28,961 - ERROR - Error downloading data for AMZN: Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
+2025-04-28 05:35:28,962 - INFO - Downloading data for GOOG
+2025-04-28 05:35:29,648 - ERROR - Error downloading data for GOOG: Thank you for using Alpha Vantage! This is a premium endpoint. You may subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly unlock all premium endpoints
+2025-04-28 05:35:29,649 - INFO - Downloading data for META
