@@ -1,0 +1,54 @@
+2025-04-30 22:53:38,983 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-04-30 22:53:39,241 - MainProcess - INFO - 
+>>> Running Hyperparameter Set 1: {'batch_size': 64, 'epochs': 1, 'walkforward_retrain_step': 100}
+2025-04-30 22:53:39,462 - MainProcess - INFO - Processing AAPL...
+2025-04-30 22:53:46,019 - MainProcess - INFO - AAPL: Retraining at step 100/1083
+2025-04-30 22:53:52,319 - MainProcess - INFO - AAPL: Retraining at step 200/1083
+2025-04-30 22:53:58,506 - MainProcess - INFO - AAPL: Retraining at step 300/1083
+2025-04-30 22:54:04,643 - MainProcess - INFO - AAPL: Retraining at step 400/1083
+2025-04-30 22:54:10,698 - MainProcess - INFO - AAPL: Retraining at step 500/1083
+2025-04-30 22:54:17,687 - MainProcess - INFO - AAPL: Retraining at step 600/1083
+2025-04-30 22:54:23,887 - MainProcess - INFO - AAPL: Retraining at step 700/1083
+2025-04-30 22:54:30,058 - MainProcess - INFO - AAPL: Retraining at step 800/1083
+2025-04-30 22:54:36,269 - MainProcess - INFO - AAPL: Retraining at step 900/1083
+2025-04-30 22:54:42,522 - MainProcess - INFO - AAPL: Retraining at step 1000/1083
+2025-04-30 22:54:49,513 - MainProcess - ERROR - Error processing AAPL: Found array with dim 3. None expected <= 2.
+2025-04-30 22:54:49,514 - MainProcess - INFO - Processing MSFT...
+2025-04-30 22:54:55,917 - MainProcess - INFO - MSFT: Retraining at step 100/1083
+2025-04-30 22:55:02,233 - MainProcess - INFO - MSFT: Retraining at step 200/1083
+2025-04-30 22:55:08,607 - MainProcess - INFO - MSFT: Retraining at step 300/1083
+2025-04-30 22:55:15,188 - MainProcess - INFO - MSFT: Retraining at step 400/1083
+2025-04-30 22:55:21,864 - MainProcess - INFO - MSFT: Retraining at step 500/1083
+2025-04-30 22:55:28,685 - MainProcess - INFO - MSFT: Retraining at step 600/1083
+2025-04-30 22:55:35,384 - MainProcess - INFO - MSFT: Retraining at step 700/1083
+2025-04-30 22:55:43,271 - MainProcess - INFO - MSFT: Retraining at step 800/1083
+2025-04-30 22:55:49,853 - MainProcess - INFO - MSFT: Retraining at step 900/1083
+2025-04-30 22:55:56,179 - MainProcess - INFO - MSFT: Retraining at step 1000/1083
+2025-04-30 22:56:02,381 - MainProcess - ERROR - Error processing MSFT: Found array with dim 3. None expected <= 2.
+2025-04-30 22:56:02,424 - MainProcess - INFO - Processing NVDA...
+2025-04-30 22:56:09,646 - MainProcess - INFO - NVDA: Retraining at step 100/1083
+2025-04-30 22:56:15,711 - MainProcess - INFO - NVDA: Retraining at step 200/1083
+2025-04-30 22:56:21,828 - MainProcess - INFO - NVDA: Retraining at step 300/1083
+2025-04-30 22:56:27,927 - MainProcess - INFO - NVDA: Retraining at step 400/1083
+2025-04-30 22:56:34,116 - MainProcess - INFO - NVDA: Retraining at step 500/1083
+2025-04-30 22:56:40,253 - MainProcess - INFO - NVDA: Retraining at step 600/1083
+2025-04-30 22:56:46,553 - MainProcess - INFO - NVDA: Retraining at step 700/1083
+2025-04-30 22:56:52,900 - MainProcess - INFO - NVDA: Retraining at step 800/1083
+2025-04-30 22:57:01,081 - MainProcess - INFO - NVDA: Retraining at step 900/1083
+2025-04-30 22:57:07,513 - MainProcess - INFO - NVDA: Retraining at step 1000/1083
+2025-04-30 22:57:13,908 - MainProcess - ERROR - Error processing NVDA: Found array with dim 3. None expected <= 2.
+2025-04-30 22:57:13,949 - MainProcess - INFO - Processing AMZN...
+2025-04-30 22:57:20,385 - MainProcess - INFO - AMZN: Retraining at step 100/1083
+2025-04-30 22:57:27,593 - MainProcess - INFO - AMZN: Retraining at step 200/1083
+2025-04-30 22:57:33,651 - MainProcess - INFO - AMZN: Retraining at step 300/1083
+2025-04-30 22:57:39,724 - MainProcess - INFO - AMZN: Retraining at step 400/1083
+2025-04-30 22:57:45,744 - MainProcess - INFO - AMZN: Retraining at step 500/1083
+2025-04-30 22:57:51,836 - MainProcess - INFO - AMZN: Retraining at step 600/1083
+2025-04-30 22:57:57,931 - MainProcess - INFO - AMZN: Retraining at step 700/1083
+2025-04-30 22:58:04,147 - MainProcess - INFO - AMZN: Retraining at step 800/1083
+2025-04-30 22:58:10,419 - MainProcess - INFO - AMZN: Retraining at step 900/1083
+2025-04-30 22:58:16,654 - MainProcess - INFO - AMZN: Retraining at step 1000/1083
+2025-04-30 22:58:22,508 - MainProcess - ERROR - Error processing AMZN: Found array with dim 3. None expected <= 2.
+2025-04-30 22:58:22,549 - MainProcess - INFO - Processing GOOG...
+2025-04-30 22:58:30,927 - MainProcess - INFO - GOOG: Retraining at step 100/1064
+2025-04-30 22:58:37,040 - MainProcess - INFO - GOOG: Retraining at step 200/1064

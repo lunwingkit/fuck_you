@@ -1,0 +1,40 @@
+2025-04-30 23:17:32,036 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-04-30 23:17:32,287 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 64, 'epochs': 1, 'walkforward_retrain_step': 100}
+2025-04-30 23:17:32,298 - MainProcess - INFO - Processing AAPL...
+2025-04-30 23:18:39,426 - MainProcess - INFO - AAPL - MSE: 1790.5286, RMSE: 42.3146, MAE: 32.4112, R2: -0.5477
+2025-04-30 23:18:39,426 - MainProcess - INFO - AAPL: Done in 67.1s
+2025-04-30 23:18:40,738 - MainProcess - INFO - Processing MSFT...
+2025-04-30 23:19:50,436 - MainProcess - INFO - MSFT - MSE: 14431.4710, RMSE: 120.1311, MAE: 101.5271, R2: -1.8498
+2025-04-30 23:19:50,436 - MainProcess - INFO - MSFT: Done in 69.7s
+2025-04-30 23:19:50,609 - MainProcess - INFO - Processing NVDA...
+2025-04-30 23:21:00,910 - MainProcess - INFO - NVDA - MSE: 852.6534, RMSE: 29.2002, MAE: 19.9023, R2: 0.5406
+2025-04-30 23:21:00,910 - MainProcess - INFO - NVDA: Done in 70.3s
+2025-04-30 23:21:01,083 - MainProcess - INFO - >>> Running Hyperparameter Set 2: {'batch_size': 128, 'epochs': 2, 'walkforward_retrain_step': 50}
+2025-04-30 23:21:01,084 - MainProcess - INFO - Processing AAPL...
+2025-04-30 23:22:57,574 - MainProcess - INFO - AAPL - MSE: 2062.0278, RMSE: 45.4096, MAE: 36.6230, R2: -0.7824
+2025-04-30 23:22:57,574 - MainProcess - INFO - AAPL: Done in 116.5s
+2025-04-30 23:22:57,747 - MainProcess - INFO - Processing MSFT...
+2025-04-30 23:24:55,739 - MainProcess - INFO - MSFT - MSE: 6585.5240, RMSE: 81.1512, MAE: 63.5223, R2: -0.3005
+2025-04-30 23:24:55,740 - MainProcess - INFO - MSFT: Done in 118.0s
+2025-04-30 23:24:55,914 - MainProcess - INFO - Processing NVDA...
+2025-04-30 23:26:56,889 - MainProcess - INFO - NVDA - MSE: 1281.1473, RMSE: 35.7931, MAE: 23.5672, R2: 0.3097
+2025-04-30 23:26:56,889 - MainProcess - INFO - NVDA: Done in 121.0s
+2025-04-30 23:26:57,065 - MainProcess - INFO - >>> Running Hyperparameter Set 3: {'batch_size': 256, 'epochs': 3, 'walkforward_retrain_step': 25}
+2025-04-30 23:26:57,066 - MainProcess - INFO - Processing AAPL...
+2025-04-30 23:30:27,921 - MainProcess - INFO - AAPL - MSE: 2067.1247, RMSE: 45.4656, MAE: 35.0588, R2: -0.7868
+2025-04-30 23:30:27,921 - MainProcess - INFO - AAPL: Done in 210.9s
+2025-04-30 23:30:28,096 - MainProcess - INFO - Processing MSFT...
+2025-04-30 23:34:01,258 - MainProcess - INFO - MSFT - MSE: 6509.7232, RMSE: 80.6829, MAE: 66.2943, R2: -0.2855
+2025-04-30 23:34:01,258 - MainProcess - INFO - MSFT: Done in 213.2s
+2025-04-30 23:34:01,445 - MainProcess - INFO - Processing NVDA...
+2025-04-30 23:37:41,550 - MainProcess - INFO - NVDA - MSE: 660.0531, RMSE: 25.6915, MAE: 18.7781, R2: 0.6443
+2025-04-30 23:37:41,551 - MainProcess - INFO - NVDA: Done in 220.1s
+2025-04-30 23:37:41,746 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,748 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,791 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,793 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,835 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,837 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,877 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,878 - MainProcess - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-30 23:37:41,917 - MainProcess - INFO - Evaluation complete.

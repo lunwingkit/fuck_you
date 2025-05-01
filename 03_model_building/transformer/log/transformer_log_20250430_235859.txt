@@ -1,0 +1,148 @@
+2025-04-30 23:58:59,933 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-04-30 23:59:00,232 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 64, 'epochs': 10, 'walkforward_retrain_step': 100}
+2025-04-30 23:59:00,244 - MainProcess - INFO - Processing AAPL for hyperparameter set 1...
+2025-04-30 23:59:00,442 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:03,590 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.086307
+2025-04-30 23:59:03,591 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:05,001 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001684
+2025-04-30 23:59:05,001 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:06,355 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000593
+2025-04-30 23:59:06,355 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:07,755 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000464
+2025-04-30 23:59:07,755 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:09,158 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000374
+2025-04-30 23:59:09,159 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:10,495 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000384
+2025-04-30 23:59:10,495 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:11,849 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000322
+2025-04-30 23:59:11,849 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:13,212 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000267
+2025-04-30 23:59:13,212 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:14,640 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000263
+2025-04-30 23:59:14,640 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:16,035 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000244
+2025-04-30 23:59:19,583 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:22,419 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.012102
+2025-04-30 23:59:22,422 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:23,942 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.000343
+2025-04-30 23:59:23,942 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:25,382 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000198
+2025-04-30 23:59:25,382 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:26,849 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000134
+2025-04-30 23:59:26,850 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:28,382 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000106
+2025-04-30 23:59:28,383 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:29,938 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000100
+2025-04-30 23:59:29,938 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:31,396 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000123
+2025-04-30 23:59:31,397 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:32,872 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000122
+2025-04-30 23:59:32,872 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:34,604 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000110
+2025-04-30 23:59:34,604 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:36,235 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000115
+2025-04-30 23:59:36,242 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 100 (Hyperparameter Set 1)
+2025-04-30 23:59:39,530 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:42,741 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.089759
+2025-04-30 23:59:42,742 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:44,174 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.005972
+2025-04-30 23:59:44,174 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:45,595 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.003332
+2025-04-30 23:59:45,596 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:47,074 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.001580
+2025-04-30 23:59:47,074 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:48,588 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000876
+2025-04-30 23:59:48,588 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:50,065 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000559
+2025-04-30 23:59:50,065 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:51,525 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.001112
+2025-04-30 23:59:51,525 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:52,953 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.003524
+2025-04-30 23:59:52,953 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:54,368 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000739
+2025-04-30 23:59:54,368 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-04-30 23:59:55,777 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.001026
+2025-04-30 23:59:55,784 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 200 (Hyperparameter Set 1)
+2025-04-30 23:59:59,125 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:02,110 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.013156
+2025-05-01 00:00:02,110 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:03,698 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001500
+2025-05-01 00:00:03,698 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:05,205 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000867
+2025-05-01 00:00:05,205 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:06,727 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.002163
+2025-05-01 00:00:06,727 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:08,278 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.002215
+2025-05-01 00:00:08,278 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:09,856 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000578
+2025-05-01 00:00:09,856 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:11,324 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.001798
+2025-05-01 00:00:11,326 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:12,850 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.002703
+2025-05-01 00:00:12,850 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:14,320 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.003120
+2025-05-01 00:00:14,320 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:15,790 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.005779
+2025-05-01 00:00:15,798 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:00:19,129 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:22,090 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.048802
+2025-05-01 00:00:22,090 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:23,600 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001764
+2025-05-01 00:00:23,601 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:25,093 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000850
+2025-05-01 00:00:25,093 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:26,572 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000697
+2025-05-01 00:00:26,572 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:28,070 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000592
+2025-05-01 00:00:28,070 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:29,554 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000541
+2025-05-01 00:00:29,554 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:31,059 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000521
+2025-05-01 00:00:31,059 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:32,528 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000499
+2025-05-01 00:00:32,528 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:34,028 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000452
+2025-05-01 00:00:34,028 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:35,504 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000522
+2025-05-01 00:00:35,513 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:00:38,873 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:41,822 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.039492
+2025-05-01 00:00:41,822 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:43,351 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001623
+2025-05-01 00:00:43,352 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:44,886 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000930
+2025-05-01 00:00:44,887 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:46,421 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.001011
+2025-05-01 00:00:46,422 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:48,022 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.005204
+2025-05-01 00:00:48,022 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:49,566 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.008308
+2025-05-01 00:00:49,566 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:51,060 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.018615
+2025-05-01 00:00:51,060 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:52,549 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.013776
+2025-05-01 00:00:52,557 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:00:55,795 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:00:58,731 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.016831
+2025-05-01 00:00:58,731 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:00,267 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.000853
+2025-05-01 00:01:00,267 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:01,778 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000983
+2025-05-01 00:01:01,779 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:03,325 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000879
+2025-05-01 00:01:03,326 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:04,871 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.001164
+2025-05-01 00:01:04,871 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:06,422 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.005211
+2025-05-01 00:01:06,422 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:07,943 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.009313
+2025-05-01 00:01:07,951 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 600 (Hyperparameter Set 1)
+2025-05-01 00:01:11,212 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:15,059 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.063409
+2025-05-01 00:01:15,064 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:16,691 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.004129
+2025-05-01 00:01:16,691 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:18,376 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.002445
+2025-05-01 00:01:18,377 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:01:20,036 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.001178
+2025-05-01 00:01:20,036 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)

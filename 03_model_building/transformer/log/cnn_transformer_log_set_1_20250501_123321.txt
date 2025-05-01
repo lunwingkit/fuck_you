@@ -1,0 +1,4 @@
+2025-05-01 12:33:21,821 - MainProcess - INFO - Starting CNN-Transformer hybrid model training and evaluation...
+2025-05-01 12:33:21,822 - MainProcess - INFO - Loading input CSV
+2025-05-01 12:33:22,093 - MainProcess - INFO - Processing 25 stocks
+2025-05-01 12:33:22,104 - MainProcess - ERROR - Training failed: name 'process_stock' is not defined

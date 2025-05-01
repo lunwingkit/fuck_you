@@ -1,0 +1,6 @@
+2025-05-01 00:47:16,578 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 00:47:16,578 - MainProcess - INFO - Loading input CSV
+2025-05-01 00:47:16,856 - MainProcess - INFO - Processing 25 stocks
+2025-05-01 00:47:16,856 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 128, 'epochs': 5, 'walkforward_retrain_step': 200}
+2025-05-01 00:47:16,856 - MainProcess - INFO - Created saliency directory: saliency_outputs/transformer_set_1
+2025-05-01 00:47:16,856 - MainProcess - INFO - Starting parallel processing for 25 stocks with 4 workers (Hyperparameter Set 1)

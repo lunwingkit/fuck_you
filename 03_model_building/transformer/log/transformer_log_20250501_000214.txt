@@ -1,0 +1,1033 @@
+2025-05-01 00:02:14,531 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 00:02:14,807 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 64, 'epochs': 10, 'walkforward_retrain_step': 100}
+2025-05-01 00:02:14,820 - MainProcess - INFO - Processing AAPL for hyperparameter set 1...
+2025-05-01 00:02:15,014 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:18,060 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.310305
+2025-05-01 00:02:18,061 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:19,502 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.019536
+2025-05-01 00:02:19,502 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:20,965 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.005520
+2025-05-01 00:02:20,965 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:22,386 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.008069
+2025-05-01 00:02:22,386 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:23,782 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.006614
+2025-05-01 00:02:23,783 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:25,171 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.004383
+2025-05-01 00:02:25,171 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:26,590 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.002424
+2025-05-01 00:02:26,591 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:27,994 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.003484
+2025-05-01 00:02:27,995 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:29,385 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.006455
+2025-05-01 00:02:29,385 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:30,777 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.008816
+2025-05-01 00:02:34,224 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:36,985 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.072098
+2025-05-01 00:02:36,985 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:38,393 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.000962
+2025-05-01 00:02:38,394 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:39,787 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000267
+2025-05-01 00:02:39,787 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:41,185 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000234
+2025-05-01 00:02:41,185 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:42,580 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000197
+2025-05-01 00:02:42,580 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:43,976 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000170
+2025-05-01 00:02:43,976 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:45,364 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000166
+2025-05-01 00:02:45,364 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:46,764 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000141
+2025-05-01 00:02:46,764 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:48,177 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000139
+2025-05-01 00:02:48,177 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:49,600 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000126
+2025-05-01 00:02:49,607 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 100 (Hyperparameter Set 1)
+2025-05-01 00:02:52,793 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:55,934 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.068792
+2025-05-01 00:02:55,934 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:57,346 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001716
+2025-05-01 00:02:57,346 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:02:58,739 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000573
+2025-05-01 00:02:58,739 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:00,122 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000481
+2025-05-01 00:03:00,123 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:01,505 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000587
+2025-05-01 00:03:01,505 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:02,898 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000418
+2025-05-01 00:03:02,898 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:04,292 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000406
+2025-05-01 00:03:04,292 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:05,691 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000437
+2025-05-01 00:03:05,691 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:07,098 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000334
+2025-05-01 00:03:07,098 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:08,494 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000265
+2025-05-01 00:03:08,502 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 200 (Hyperparameter Set 1)
+2025-05-01 00:03:11,700 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:14,468 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.029709
+2025-05-01 00:03:14,468 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:15,874 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001829
+2025-05-01 00:03:15,874 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:17,396 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000705
+2025-05-01 00:03:17,397 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:18,857 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000463
+2025-05-01 00:03:18,857 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:20,328 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000315
+2025-05-01 00:03:20,328 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:21,804 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000276
+2025-05-01 00:03:21,804 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:23,222 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000578
+2025-05-01 00:03:23,222 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:24,626 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000422
+2025-05-01 00:03:24,627 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:26,089 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000585
+2025-05-01 00:03:26,090 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:27,508 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000436
+2025-05-01 00:03:27,516 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:03:30,797 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:33,588 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.040072
+2025-05-01 00:03:33,589 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:35,020 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.000698
+2025-05-01 00:03:35,021 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:36,461 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000402
+2025-05-01 00:03:36,461 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:37,904 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000310
+2025-05-01 00:03:37,904 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:39,335 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000278
+2025-05-01 00:03:39,335 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:40,752 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000275
+2025-05-01 00:03:40,753 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:42,163 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000300
+2025-05-01 00:03:42,164 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:43,585 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000289
+2025-05-01 00:03:43,585 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:45,023 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000313
+2025-05-01 00:03:45,024 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:46,452 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000264
+2025-05-01 00:03:46,460 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:03:49,747 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:52,561 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.008659
+2025-05-01 00:03:52,561 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:54,054 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001012
+2025-05-01 00:03:54,054 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:55,542 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000882
+2025-05-01 00:03:55,542 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:57,013 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000917
+2025-05-01 00:03:57,013 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:58,490 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.002046
+2025-05-01 00:03:58,490 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:03:59,974 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.003487
+2025-05-01 00:03:59,974 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:01,440 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.003495
+2025-05-01 00:04:01,440 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:02,910 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.006541
+2025-05-01 00:04:02,919 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:04:06,215 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:09,046 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.660546
+2025-05-01 00:04:09,046 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:10,550 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.018569
+2025-05-01 00:04:10,551 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:12,037 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.005692
+2025-05-01 00:04:12,037 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:13,537 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.004245
+2025-05-01 00:04:13,537 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:15,011 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.005050
+2025-05-01 00:04:15,012 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:16,470 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.004600
+2025-05-01 00:04:16,471 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:17,943 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.001699
+2025-05-01 00:04:17,943 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:19,426 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000742
+2025-05-01 00:04:19,426 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:20,907 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000898
+2025-05-01 00:04:20,907 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:22,399 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.001290
+2025-05-01 00:04:22,407 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 600 (Hyperparameter Set 1)
+2025-05-01 00:04:25,703 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:29,636 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.027495
+2025-05-01 00:04:29,636 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:31,299 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.001138
+2025-05-01 00:04:31,299 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:32,932 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.000482
+2025-05-01 00:04:32,932 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:34,543 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.000411
+2025-05-01 00:04:34,543 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:36,105 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.000381
+2025-05-01 00:04:36,106 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:37,708 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.000482
+2025-05-01 00:04:37,708 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:39,316 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.000427
+2025-05-01 00:04:39,316 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:40,896 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000523
+2025-05-01 00:04:40,897 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:42,494 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.002438
+2025-05-01 00:04:42,494 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:44,071 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.005368
+2025-05-01 00:04:44,079 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 700 (Hyperparameter Set 1)
+2025-05-01 00:04:47,353 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:50,499 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.045461
+2025-05-01 00:04:50,499 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:52,154 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.005101
+2025-05-01 00:04:52,154 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:53,802 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.001511
+2025-05-01 00:04:53,802 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:55,467 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.002534
+2025-05-01 00:04:55,467 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:57,123 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.002649
+2025-05-01 00:04:57,123 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:04:58,764 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.001925
+2025-05-01 00:04:58,764 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:00,407 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.003830
+2025-05-01 00:05:00,407 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:02,065 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.001658
+2025-05-01 00:05:02,073 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 800 (Hyperparameter Set 1)
+2025-05-01 00:05:05,313 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:08,264 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.050381
+2025-05-01 00:05:08,264 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:09,851 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.004193
+2025-05-01 00:05:09,852 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:11,431 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.001567
+2025-05-01 00:05:11,431 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:13,029 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.001475
+2025-05-01 00:05:13,029 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:14,627 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.009154
+2025-05-01 00:05:14,628 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:16,209 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.010927
+2025-05-01 00:05:16,209 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:17,785 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.005731
+2025-05-01 00:05:17,786 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:19,375 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.004016
+2025-05-01 00:05:19,375 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:20,955 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.009360
+2025-05-01 00:05:20,963 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 900 (Hyperparameter Set 1)
+2025-05-01 00:05:24,202 - MainProcess - INFO - Starting epoch 1 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:27,178 - MainProcess - INFO - Finished epoch 1 for AAPL (Hyperparameter Set 1) - Loss: 0.090788
+2025-05-01 00:05:27,178 - MainProcess - INFO - Starting epoch 2 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:28,795 - MainProcess - INFO - Finished epoch 2 for AAPL (Hyperparameter Set 1) - Loss: 0.005770
+2025-05-01 00:05:28,795 - MainProcess - INFO - Starting epoch 3 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:30,412 - MainProcess - INFO - Finished epoch 3 for AAPL (Hyperparameter Set 1) - Loss: 0.003498
+2025-05-01 00:05:30,413 - MainProcess - INFO - Starting epoch 4 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:32,016 - MainProcess - INFO - Finished epoch 4 for AAPL (Hyperparameter Set 1) - Loss: 0.002101
+2025-05-01 00:05:32,016 - MainProcess - INFO - Starting epoch 5 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:33,635 - MainProcess - INFO - Finished epoch 5 for AAPL (Hyperparameter Set 1) - Loss: 0.001436
+2025-05-01 00:05:33,636 - MainProcess - INFO - Starting epoch 6 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:35,257 - MainProcess - INFO - Finished epoch 6 for AAPL (Hyperparameter Set 1) - Loss: 0.001210
+2025-05-01 00:05:35,257 - MainProcess - INFO - Starting epoch 7 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:37,000 - MainProcess - INFO - Finished epoch 7 for AAPL (Hyperparameter Set 1) - Loss: 0.001066
+2025-05-01 00:05:37,001 - MainProcess - INFO - Starting epoch 8 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:38,627 - MainProcess - INFO - Finished epoch 8 for AAPL (Hyperparameter Set 1) - Loss: 0.000937
+2025-05-01 00:05:38,627 - MainProcess - INFO - Starting epoch 9 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:40,251 - MainProcess - INFO - Finished epoch 9 for AAPL (Hyperparameter Set 1) - Loss: 0.000805
+2025-05-01 00:05:40,251 - MainProcess - INFO - Starting epoch 10 for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:41,871 - MainProcess - INFO - Finished epoch 10 for AAPL (Hyperparameter Set 1) - Loss: 0.000716
+2025-05-01 00:05:41,879 - MainProcess - INFO - Retrained model for AAPL at walk-forward step 1000 (Hyperparameter Set 1)
+2025-05-01 00:05:44,404 - MainProcess - INFO - AAPL - MSE: 1298.1721, RMSE: 36.0302, MAE: 25.5709, R2: -0.1221
+2025-05-01 00:05:44,404 - MainProcess - INFO - AAPL: Done in 209.6s
+2025-05-01 00:05:44,709 - MainProcess - INFO - Generated saliency map for AAPL (Hyperparameter Set 1)
+2025-05-01 00:05:44,754 - MainProcess - INFO - Processing MSFT for hyperparameter set 1...
+2025-05-01 00:05:44,882 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:47,650 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.008344
+2025-05-01 00:05:47,650 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:49,004 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.000571
+2025-05-01 00:05:49,004 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:50,359 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.000393
+2025-05-01 00:05:50,360 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:51,702 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.000353
+2025-05-01 00:05:51,703 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:53,033 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.000317
+2025-05-01 00:05:53,033 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:54,368 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.000238
+2025-05-01 00:05:54,368 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:55,692 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.000239
+2025-05-01 00:05:55,692 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:57,016 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.000301
+2025-05-01 00:05:57,016 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:58,349 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.000687
+2025-05-01 00:05:58,350 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:05:59,666 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.000793
+2025-05-01 00:06:04,017 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:06,794 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.466401
+2025-05-01 00:06:06,794 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:08,202 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.009941
+2025-05-01 00:06:08,203 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:09,615 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.002343
+2025-05-01 00:06:09,615 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:11,022 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.002087
+2025-05-01 00:06:11,023 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:12,413 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.002107
+2025-05-01 00:06:12,414 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:13,794 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.000998
+2025-05-01 00:06:13,795 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:15,184 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.000543
+2025-05-01 00:06:15,185 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:16,599 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.000499
+2025-05-01 00:06:16,599 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:18,004 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.000454
+2025-05-01 00:06:18,005 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:19,406 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.000452
+2025-05-01 00:06:19,413 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 100 (Hyperparameter Set 1)
+2025-05-01 00:06:22,652 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:25,436 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.028460
+2025-05-01 00:06:25,436 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:26,861 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.003183
+2025-05-01 00:06:26,862 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:28,281 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.002085
+2025-05-01 00:06:28,282 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:29,705 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.002235
+2025-05-01 00:06:29,705 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:31,112 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.001655
+2025-05-01 00:06:31,112 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:32,523 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.002008
+2025-05-01 00:06:32,523 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:33,946 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.001854
+2025-05-01 00:06:33,946 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:35,360 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.004282
+2025-05-01 00:06:35,361 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:36,810 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.001592
+2025-05-01 00:06:36,810 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:38,235 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.003731
+2025-05-01 00:06:38,242 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 200 (Hyperparameter Set 1)
+2025-05-01 00:06:41,533 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:44,383 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.035093
+2025-05-01 00:06:44,383 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:45,860 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.004148
+2025-05-01 00:06:45,860 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:47,376 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.002964
+2025-05-01 00:06:47,376 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:48,909 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.002401
+2025-05-01 00:06:48,909 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:50,391 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.002337
+2025-05-01 00:06:50,392 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:51,874 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.000987
+2025-05-01 00:06:51,874 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:53,328 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.001262
+2025-05-01 00:06:53,329 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:54,796 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.002382
+2025-05-01 00:06:54,796 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:56,246 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.001839
+2025-05-01 00:06:56,246 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:06:57,693 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.001910
+2025-05-01 00:06:57,701 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:07:01,047 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:03,926 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.005581
+2025-05-01 00:07:03,926 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:05,373 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.000635
+2025-05-01 00:07:05,374 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:06,835 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.000486
+2025-05-01 00:07:06,835 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:08,292 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.001021
+2025-05-01 00:07:08,292 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:09,728 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.002427
+2025-05-01 00:07:09,728 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:11,232 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.008114
+2025-05-01 00:07:11,233 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:12,710 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.005868
+2025-05-01 00:07:12,711 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:14,177 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.004997
+2025-05-01 00:07:14,185 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:07:18,619 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:21,878 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.018629
+2025-05-01 00:07:21,879 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:23,561 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.000987
+2025-05-01 00:07:23,562 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:25,248 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.000784
+2025-05-01 00:07:25,248 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:26,929 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.000850
+2025-05-01 00:07:26,929 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:28,611 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.001492
+2025-05-01 00:07:28,611 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:30,292 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.001584
+2025-05-01 00:07:30,293 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:31,968 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.001108
+2025-05-01 00:07:31,968 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:33,654 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.001771
+2025-05-01 00:07:33,663 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:07:37,388 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:40,750 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.616728
+2025-05-01 00:07:40,750 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:42,561 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.006207
+2025-05-01 00:07:42,561 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:44,362 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.005281
+2025-05-01 00:07:44,362 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:46,157 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.004539
+2025-05-01 00:07:46,157 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:47,950 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.003970
+2025-05-01 00:07:47,950 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:49,776 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.003460
+2025-05-01 00:07:49,776 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:51,582 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.003080
+2025-05-01 00:07:51,583 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:53,365 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.002835
+2025-05-01 00:07:53,366 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:55,150 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.003222
+2025-05-01 00:07:55,151 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:07:56,933 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.002465
+2025-05-01 00:07:56,942 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 600 (Hyperparameter Set 1)
+2025-05-01 00:08:00,642 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:03,632 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.040154
+2025-05-01 00:08:03,633 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:05,191 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.002378
+2025-05-01 00:08:05,192 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:06,712 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.001678
+2025-05-01 00:08:06,712 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:08,222 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.001190
+2025-05-01 00:08:08,222 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:09,734 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.001033
+2025-05-01 00:08:09,735 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:11,242 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.001539
+2025-05-01 00:08:11,242 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:12,740 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.002407
+2025-05-01 00:08:12,740 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:14,243 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.010030
+2025-05-01 00:08:14,244 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:15,755 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.002633
+2025-05-01 00:08:15,755 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:17,262 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.003428
+2025-05-01 00:08:17,270 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 700 (Hyperparameter Set 1)
+2025-05-01 00:08:20,598 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:23,509 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.059695
+2025-05-01 00:08:23,509 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:25,057 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.005840
+2025-05-01 00:08:25,058 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:26,599 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.006455
+2025-05-01 00:08:26,599 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:28,138 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.003785
+2025-05-01 00:08:28,138 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:29,669 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.004275
+2025-05-01 00:08:29,669 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:31,216 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.003285
+2025-05-01 00:08:31,217 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:32,766 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.003483
+2025-05-01 00:08:32,767 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:34,312 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.004495
+2025-05-01 00:08:34,312 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:35,858 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.007239
+2025-05-01 00:08:35,858 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:37,414 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.007184
+2025-05-01 00:08:37,422 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 800 (Hyperparameter Set 1)
+2025-05-01 00:08:40,739 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:43,790 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.156526
+2025-05-01 00:08:43,790 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:45,462 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.005246
+2025-05-01 00:08:45,462 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:47,142 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.004730
+2025-05-01 00:08:47,142 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:48,823 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.004630
+2025-05-01 00:08:48,824 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:50,511 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.003980
+2025-05-01 00:08:50,511 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:52,179 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.003388
+2025-05-01 00:08:52,180 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:53,851 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.004691
+2025-05-01 00:08:53,851 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:55,524 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.007545
+2025-05-01 00:08:55,525 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:57,195 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.009706
+2025-05-01 00:08:57,196 - MainProcess - INFO - Starting epoch 10 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:08:58,873 - MainProcess - INFO - Finished epoch 10 for MSFT (Hyperparameter Set 1) - Loss: 0.006668
+2025-05-01 00:08:58,881 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 900 (Hyperparameter Set 1)
+2025-05-01 00:09:02,181 - MainProcess - INFO - Starting epoch 1 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:05,181 - MainProcess - INFO - Finished epoch 1 for MSFT (Hyperparameter Set 1) - Loss: 0.010267
+2025-05-01 00:09:05,181 - MainProcess - INFO - Starting epoch 2 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:06,833 - MainProcess - INFO - Finished epoch 2 for MSFT (Hyperparameter Set 1) - Loss: 0.005111
+2025-05-01 00:09:06,833 - MainProcess - INFO - Starting epoch 3 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:08,476 - MainProcess - INFO - Finished epoch 3 for MSFT (Hyperparameter Set 1) - Loss: 0.003952
+2025-05-01 00:09:08,476 - MainProcess - INFO - Starting epoch 4 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:10,115 - MainProcess - INFO - Finished epoch 4 for MSFT (Hyperparameter Set 1) - Loss: 0.001604
+2025-05-01 00:09:10,115 - MainProcess - INFO - Starting epoch 5 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:11,741 - MainProcess - INFO - Finished epoch 5 for MSFT (Hyperparameter Set 1) - Loss: 0.002089
+2025-05-01 00:09:11,741 - MainProcess - INFO - Starting epoch 6 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:13,363 - MainProcess - INFO - Finished epoch 6 for MSFT (Hyperparameter Set 1) - Loss: 0.006078
+2025-05-01 00:09:13,363 - MainProcess - INFO - Starting epoch 7 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:14,980 - MainProcess - INFO - Finished epoch 7 for MSFT (Hyperparameter Set 1) - Loss: 0.004144
+2025-05-01 00:09:14,981 - MainProcess - INFO - Starting epoch 8 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:16,585 - MainProcess - INFO - Finished epoch 8 for MSFT (Hyperparameter Set 1) - Loss: 0.006926
+2025-05-01 00:09:16,585 - MainProcess - INFO - Starting epoch 9 for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:18,226 - MainProcess - INFO - Finished epoch 9 for MSFT (Hyperparameter Set 1) - Loss: 0.005651
+2025-05-01 00:09:18,234 - MainProcess - INFO - Retrained model for MSFT at walk-forward step 1000 (Hyperparameter Set 1)
+2025-05-01 00:09:20,838 - MainProcess - INFO - MSFT - MSE: 3728.2682, RMSE: 61.0595, MAE: 51.2444, R2: 0.2638
+2025-05-01 00:09:20,838 - MainProcess - INFO - MSFT: Done in 216.1s
+2025-05-01 00:09:20,967 - MainProcess - INFO - Generated saliency map for MSFT (Hyperparameter Set 1)
+2025-05-01 00:09:21,008 - MainProcess - INFO - Processing NVDA for hyperparameter set 1...
+2025-05-01 00:09:21,086 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:23,767 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.108781
+2025-05-01 00:09:23,767 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:25,102 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.001853
+2025-05-01 00:09:25,102 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:26,457 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.001464
+2025-05-01 00:09:26,458 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:27,787 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.001228
+2025-05-01 00:09:27,788 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:29,122 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000911
+2025-05-01 00:09:29,123 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:30,451 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000316
+2025-05-01 00:09:30,452 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:31,783 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000118
+2025-05-01 00:09:31,784 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:33,111 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000120
+2025-05-01 00:09:33,111 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:34,442 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000128
+2025-05-01 00:09:34,442 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:35,775 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000109
+2025-05-01 00:09:40,751 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:43,491 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.001340
+2025-05-01 00:09:43,491 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:44,871 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.000078
+2025-05-01 00:09:44,871 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:46,232 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000116
+2025-05-01 00:09:46,232 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:47,606 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000090
+2025-05-01 00:09:47,606 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:48,978 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000092
+2025-05-01 00:09:48,979 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:50,347 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000108
+2025-05-01 00:09:50,348 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:51,713 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000306
+2025-05-01 00:09:51,720 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 100 (Hyperparameter Set 1)
+2025-05-01 00:09:55,025 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:57,750 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.003649
+2025-05-01 00:09:57,750 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:09:59,136 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.000235
+2025-05-01 00:09:59,136 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:00,522 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000183
+2025-05-01 00:10:00,523 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:01,910 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000214
+2025-05-01 00:10:01,911 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:03,301 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000225
+2025-05-01 00:10:03,301 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:04,696 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000163
+2025-05-01 00:10:04,696 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:06,073 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000225
+2025-05-01 00:10:06,073 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:07,471 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000043
+2025-05-01 00:10:07,472 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:08,862 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000062
+2025-05-01 00:10:08,862 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:10,269 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000111
+2025-05-01 00:10:10,276 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 200 (Hyperparameter Set 1)
+2025-05-01 00:10:13,576 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:16,310 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.170076
+2025-05-01 00:10:16,311 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:17,648 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.007671
+2025-05-01 00:10:17,648 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:19,027 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.009661
+2025-05-01 00:10:19,027 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:20,446 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.007151
+2025-05-01 00:10:20,446 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:21,852 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.003809
+2025-05-01 00:10:21,853 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:23,247 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000505
+2025-05-01 00:10:23,247 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:24,652 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000316
+2025-05-01 00:10:24,653 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:26,048 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000141
+2025-05-01 00:10:26,048 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:27,473 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000124
+2025-05-01 00:10:27,473 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:28,893 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000118
+2025-05-01 00:10:28,901 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:10:32,217 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:35,072 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.018787
+2025-05-01 00:10:35,072 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:36,577 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.002791
+2025-05-01 00:10:36,578 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:38,077 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.001770
+2025-05-01 00:10:38,078 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:39,597 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000495
+2025-05-01 00:10:39,597 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:41,094 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000292
+2025-05-01 00:10:41,094 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:42,591 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000155
+2025-05-01 00:10:42,592 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:44,093 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000174
+2025-05-01 00:10:44,093 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:45,591 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000272
+2025-05-01 00:10:45,592 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:47,104 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000247
+2025-05-01 00:10:47,104 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:48,607 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000246
+2025-05-01 00:10:48,617 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:10:51,945 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:54,746 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.126391
+2025-05-01 00:10:54,746 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:56,212 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.003358
+2025-05-01 00:10:56,213 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:57,675 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000914
+2025-05-01 00:10:57,675 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:10:59,129 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000835
+2025-05-01 00:10:59,129 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:00,586 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000539
+2025-05-01 00:11:00,586 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:02,037 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000427
+2025-05-01 00:11:02,037 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:03,504 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000384
+2025-05-01 00:11:03,504 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:04,968 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000331
+2025-05-01 00:11:04,968 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:06,428 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000300
+2025-05-01 00:11:06,428 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:07,898 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000296
+2025-05-01 00:11:07,906 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:11:11,210 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:14,111 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.007939
+2025-05-01 00:11:14,111 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:15,670 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.000156
+2025-05-01 00:11:15,671 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:17,222 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000132
+2025-05-01 00:11:17,223 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:18,774 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000117
+2025-05-01 00:11:18,774 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:20,307 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000114
+2025-05-01 00:11:20,307 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:21,848 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000161
+2025-05-01 00:11:21,848 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:23,458 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000140
+2025-05-01 00:11:23,458 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:25,168 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000168
+2025-05-01 00:11:25,169 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:26,781 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000173
+2025-05-01 00:11:26,782 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:28,365 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000148
+2025-05-01 00:11:28,374 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 600 (Hyperparameter Set 1)
+2025-05-01 00:11:33,143 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:36,217 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.024045
+2025-05-01 00:11:36,218 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:37,852 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.000934
+2025-05-01 00:11:37,853 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:39,488 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000180
+2025-05-01 00:11:39,488 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:41,116 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000088
+2025-05-01 00:11:41,116 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:42,761 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000078
+2025-05-01 00:11:42,762 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:44,408 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000082
+2025-05-01 00:11:44,408 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:46,043 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000067
+2025-05-01 00:11:46,043 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:47,677 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000066
+2025-05-01 00:11:47,677 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:49,304 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000075
+2025-05-01 00:11:49,304 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:50,905 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000066
+2025-05-01 00:11:50,913 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 700 (Hyperparameter Set 1)
+2025-05-01 00:11:54,581 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:57,751 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.009279
+2025-05-01 00:11:57,752 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:11:59,466 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.000270
+2025-05-01 00:11:59,467 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:01,181 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.000283
+2025-05-01 00:12:01,181 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:02,871 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.000236
+2025-05-01 00:12:02,872 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:04,581 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.000249
+2025-05-01 00:12:04,581 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:06,298 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.000240
+2025-05-01 00:12:06,299 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:08,005 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.000208
+2025-05-01 00:12:08,005 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:09,742 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000161
+2025-05-01 00:12:09,743 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:11,440 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.000223
+2025-05-01 00:12:11,441 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:13,124 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.000203
+2025-05-01 00:12:13,133 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 800 (Hyperparameter Set 1)
+2025-05-01 00:12:16,719 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:20,000 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.108834
+2025-05-01 00:12:20,000 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:21,749 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.002696
+2025-05-01 00:12:21,749 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:23,470 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.001884
+2025-05-01 00:12:23,471 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:25,217 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.001520
+2025-05-01 00:12:25,218 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:27,009 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.001795
+2025-05-01 00:12:27,010 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:28,745 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.002256
+2025-05-01 00:12:28,746 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:30,459 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.003276
+2025-05-01 00:12:30,459 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:32,207 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.003150
+2025-05-01 00:12:32,208 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:33,975 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.002188
+2025-05-01 00:12:33,985 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 900 (Hyperparameter Set 1)
+2025-05-01 00:12:37,602 - MainProcess - INFO - Starting epoch 1 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:40,895 - MainProcess - INFO - Finished epoch 1 for NVDA (Hyperparameter Set 1) - Loss: 0.013823
+2025-05-01 00:12:40,895 - MainProcess - INFO - Starting epoch 2 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:42,681 - MainProcess - INFO - Finished epoch 2 for NVDA (Hyperparameter Set 1) - Loss: 0.001463
+2025-05-01 00:12:42,682 - MainProcess - INFO - Starting epoch 3 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:44,320 - MainProcess - INFO - Finished epoch 3 for NVDA (Hyperparameter Set 1) - Loss: 0.001558
+2025-05-01 00:12:44,320 - MainProcess - INFO - Starting epoch 4 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:45,940 - MainProcess - INFO - Finished epoch 4 for NVDA (Hyperparameter Set 1) - Loss: 0.003052
+2025-05-01 00:12:45,940 - MainProcess - INFO - Starting epoch 5 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:47,544 - MainProcess - INFO - Finished epoch 5 for NVDA (Hyperparameter Set 1) - Loss: 0.001596
+2025-05-01 00:12:47,544 - MainProcess - INFO - Starting epoch 6 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:49,157 - MainProcess - INFO - Finished epoch 6 for NVDA (Hyperparameter Set 1) - Loss: 0.001009
+2025-05-01 00:12:49,157 - MainProcess - INFO - Starting epoch 7 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:50,785 - MainProcess - INFO - Finished epoch 7 for NVDA (Hyperparameter Set 1) - Loss: 0.001604
+2025-05-01 00:12:50,785 - MainProcess - INFO - Starting epoch 8 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:52,433 - MainProcess - INFO - Finished epoch 8 for NVDA (Hyperparameter Set 1) - Loss: 0.000836
+2025-05-01 00:12:52,433 - MainProcess - INFO - Starting epoch 9 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:54,116 - MainProcess - INFO - Finished epoch 9 for NVDA (Hyperparameter Set 1) - Loss: 0.001475
+2025-05-01 00:12:54,116 - MainProcess - INFO - Starting epoch 10 for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:55,753 - MainProcess - INFO - Finished epoch 10 for NVDA (Hyperparameter Set 1) - Loss: 0.001046
+2025-05-01 00:12:55,761 - MainProcess - INFO - Retrained model for NVDA at walk-forward step 1000 (Hyperparameter Set 1)
+2025-05-01 00:12:58,403 - MainProcess - INFO - NVDA - MSE: 191.1287, RMSE: 13.8249, MAE: 10.1508, R2: 0.8970
+2025-05-01 00:12:58,403 - MainProcess - INFO - NVDA: Done in 217.4s
+2025-05-01 00:12:58,534 - MainProcess - INFO - Generated saliency map for NVDA (Hyperparameter Set 1)
+2025-05-01 00:12:58,575 - MainProcess - INFO - Processing AMZN for hyperparameter set 1...
+2025-05-01 00:12:58,653 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:01,391 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.271632
+2025-05-01 00:13:01,398 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:02,758 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.002817
+2025-05-01 00:13:02,758 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:04,103 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.002512
+2025-05-01 00:13:04,104 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:05,441 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.002338
+2025-05-01 00:13:05,442 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:06,791 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.001773
+2025-05-01 00:13:06,792 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:08,141 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.001393
+2025-05-01 00:13:08,141 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:09,469 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.001190
+2025-05-01 00:13:09,469 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:10,792 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.001093
+2025-05-01 00:13:10,793 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:12,124 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.001025
+2025-05-01 00:13:12,124 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:13,453 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.000945
+2025-05-01 00:13:17,973 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:20,849 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.106269
+2025-05-01 00:13:20,849 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:22,369 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.005352
+2025-05-01 00:13:22,370 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:23,818 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.002370
+2025-05-01 00:13:23,818 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:25,287 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.001533
+2025-05-01 00:13:25,288 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:26,677 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.000831
+2025-05-01 00:13:26,677 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:28,063 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.000559
+2025-05-01 00:13:28,064 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:29,450 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.001004
+2025-05-01 00:13:29,450 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:30,839 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.001885
+2025-05-01 00:13:30,839 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:32,221 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.003064
+2025-05-01 00:13:32,221 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:33,612 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.002990
+2025-05-01 00:13:33,620 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 100 (Hyperparameter Set 1)
+2025-05-01 00:13:36,954 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:39,720 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.028558
+2025-05-01 00:13:39,721 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:41,124 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.001757
+2025-05-01 00:13:41,125 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:42,514 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.001557
+2025-05-01 00:13:42,515 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:43,902 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.001952
+2025-05-01 00:13:43,902 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:45,321 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.004717
+2025-05-01 00:13:45,321 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:46,721 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.005765
+2025-05-01 00:13:46,722 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:48,116 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.003385
+2025-05-01 00:13:48,116 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:49,529 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.004615
+2025-05-01 00:13:49,536 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 200 (Hyperparameter Set 1)
+2025-05-01 00:13:52,858 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:55,680 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.174391
+2025-05-01 00:13:55,681 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:57,165 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.003318
+2025-05-01 00:13:57,165 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:13:58,677 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.003070
+2025-05-01 00:13:58,677 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:00,164 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.003670
+2025-05-01 00:14:00,164 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:01,630 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.003828
+2025-05-01 00:14:01,630 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:03,141 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.008657
+2025-05-01 00:14:03,142 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:04,735 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.001964
+2025-05-01 00:14:04,736 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:06,334 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.003389
+2025-05-01 00:14:06,334 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:07,914 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.004650
+2025-05-01 00:14:07,914 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:09,505 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.003601
+2025-05-01 00:14:09,514 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:14:12,975 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:15,895 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.023680
+2025-05-01 00:14:15,895 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:17,471 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.001983
+2025-05-01 00:14:17,471 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:19,054 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.002009
+2025-05-01 00:14:19,054 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:20,633 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.003721
+2025-05-01 00:14:20,634 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:22,183 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.007221
+2025-05-01 00:14:22,183 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:23,741 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.002214
+2025-05-01 00:14:23,741 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:25,297 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.001998
+2025-05-01 00:14:25,305 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:14:28,885 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:32,172 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.214993
+2025-05-01 00:14:32,172 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:33,895 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.003935
+2025-05-01 00:14:33,896 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:35,602 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.002871
+2025-05-01 00:14:35,602 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:37,302 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.002034
+2025-05-01 00:14:37,302 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:38,993 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.001780
+2025-05-01 00:14:38,993 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:40,552 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.001825
+2025-05-01 00:14:40,552 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:42,248 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.002831
+2025-05-01 00:14:42,249 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:43,959 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.008368
+2025-05-01 00:14:43,960 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:45,657 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.014132
+2025-05-01 00:14:45,657 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:47,359 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.013101
+2025-05-01 00:14:47,369 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:14:52,552 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:55,889 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.488882
+2025-05-01 00:14:55,889 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:57,646 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.003442
+2025-05-01 00:14:57,646 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:14:59,380 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.002510
+2025-05-01 00:14:59,380 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:01,112 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.002069
+2025-05-01 00:15:01,112 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:02,845 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.002034
+2025-05-01 00:15:02,846 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:04,574 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.001649
+2025-05-01 00:15:04,575 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:06,268 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.001677
+2025-05-01 00:15:06,269 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:07,989 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.002107
+2025-05-01 00:15:07,990 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:09,690 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.003203
+2025-05-01 00:15:09,691 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:11,396 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.003942
+2025-05-01 00:15:11,405 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 600 (Hyperparameter Set 1)
+2025-05-01 00:15:15,008 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:18,328 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.383760
+2025-05-01 00:15:18,328 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:20,076 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.017127
+2025-05-01 00:15:20,077 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:21,809 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.005849
+2025-05-01 00:15:21,809 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:23,517 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.003296
+2025-05-01 00:15:23,517 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:25,236 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.002813
+2025-05-01 00:15:25,237 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:26,932 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.002442
+2025-05-01 00:15:26,932 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:28,639 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.002807
+2025-05-01 00:15:28,640 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:30,304 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.002649
+2025-05-01 00:15:30,305 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:32,002 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.002484
+2025-05-01 00:15:32,002 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:33,727 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.001886
+2025-05-01 00:15:33,735 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 700 (Hyperparameter Set 1)
+2025-05-01 00:15:37,338 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:40,620 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.214266
+2025-05-01 00:15:40,621 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:42,255 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.003159
+2025-05-01 00:15:42,255 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:43,857 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.001973
+2025-05-01 00:15:43,858 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:45,458 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.001946
+2025-05-01 00:15:45,458 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:47,054 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.002159
+2025-05-01 00:15:47,054 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:48,646 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.003948
+2025-05-01 00:15:48,646 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:50,239 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.003769
+2025-05-01 00:15:50,239 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:51,805 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.003799
+2025-05-01 00:15:51,805 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:53,382 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.004157
+2025-05-01 00:15:53,390 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 800 (Hyperparameter Set 1)
+2025-05-01 00:15:56,735 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:15:59,731 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.015495
+2025-05-01 00:15:59,732 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:01,353 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.004279
+2025-05-01 00:16:01,354 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:02,981 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.005976
+2025-05-01 00:16:02,981 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:04,615 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.003377
+2025-05-01 00:16:04,616 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:06,235 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.008082
+2025-05-01 00:16:06,235 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:07,858 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.005004
+2025-05-01 00:16:07,859 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:09,479 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.007624
+2025-05-01 00:16:09,479 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:11,094 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.008636
+2025-05-01 00:16:11,094 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:12,707 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.005878
+2025-05-01 00:16:12,715 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 900 (Hyperparameter Set 1)
+2025-05-01 00:16:16,043 - MainProcess - INFO - Starting epoch 1 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:19,067 - MainProcess - INFO - Finished epoch 1 for AMZN (Hyperparameter Set 1) - Loss: 0.053786
+2025-05-01 00:16:19,068 - MainProcess - INFO - Starting epoch 2 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:20,725 - MainProcess - INFO - Finished epoch 2 for AMZN (Hyperparameter Set 1) - Loss: 0.004364
+2025-05-01 00:16:20,726 - MainProcess - INFO - Starting epoch 3 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:22,345 - MainProcess - INFO - Finished epoch 3 for AMZN (Hyperparameter Set 1) - Loss: 0.004048
+2025-05-01 00:16:22,346 - MainProcess - INFO - Starting epoch 4 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:23,960 - MainProcess - INFO - Finished epoch 4 for AMZN (Hyperparameter Set 1) - Loss: 0.006109
+2025-05-01 00:16:23,960 - MainProcess - INFO - Starting epoch 5 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:25,575 - MainProcess - INFO - Finished epoch 5 for AMZN (Hyperparameter Set 1) - Loss: 0.004791
+2025-05-01 00:16:25,575 - MainProcess - INFO - Starting epoch 6 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:27,192 - MainProcess - INFO - Finished epoch 6 for AMZN (Hyperparameter Set 1) - Loss: 0.002935
+2025-05-01 00:16:27,193 - MainProcess - INFO - Starting epoch 7 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:28,807 - MainProcess - INFO - Finished epoch 7 for AMZN (Hyperparameter Set 1) - Loss: 0.005961
+2025-05-01 00:16:28,808 - MainProcess - INFO - Starting epoch 8 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:30,422 - MainProcess - INFO - Finished epoch 8 for AMZN (Hyperparameter Set 1) - Loss: 0.006641
+2025-05-01 00:16:30,423 - MainProcess - INFO - Starting epoch 9 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:32,034 - MainProcess - INFO - Finished epoch 9 for AMZN (Hyperparameter Set 1) - Loss: 0.008427
+2025-05-01 00:16:32,034 - MainProcess - INFO - Starting epoch 10 for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:33,645 - MainProcess - INFO - Finished epoch 10 for AMZN (Hyperparameter Set 1) - Loss: 0.013322
+2025-05-01 00:16:33,653 - MainProcess - INFO - Retrained model for AMZN at walk-forward step 1000 (Hyperparameter Set 1)
+2025-05-01 00:16:36,228 - MainProcess - INFO - AMZN - MSE: 672.6883, RMSE: 25.9362, MAE: 20.7538, R2: 0.4531
+2025-05-01 00:16:36,228 - MainProcess - INFO - AMZN: Done in 217.7s
+2025-05-01 00:16:36,358 - MainProcess - INFO - Generated saliency map for AMZN (Hyperparameter Set 1)
+2025-05-01 00:16:36,400 - MainProcess - INFO - Processing GOOG for hyperparameter set 1...
+2025-05-01 00:16:36,476 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:38,999 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.564599
+2025-05-01 00:16:39,000 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:40,105 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.021128
+2025-05-01 00:16:40,105 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:41,199 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.009776
+2025-05-01 00:16:41,199 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:42,300 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.004024
+2025-05-01 00:16:42,301 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:43,404 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.001721
+2025-05-01 00:16:43,405 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:44,503 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.000795
+2025-05-01 00:16:44,503 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:45,595 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.000531
+2025-05-01 00:16:45,596 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:46,684 - MainProcess - INFO - Finished epoch 8 for GOOG (Hyperparameter Set 1) - Loss: 0.000373
+2025-05-01 00:16:46,684 - MainProcess - INFO - Starting epoch 9 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:47,783 - MainProcess - INFO - Finished epoch 9 for GOOG (Hyperparameter Set 1) - Loss: 0.000296
+2025-05-01 00:16:47,783 - MainProcess - INFO - Starting epoch 10 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:48,878 - MainProcess - INFO - Finished epoch 10 for GOOG (Hyperparameter Set 1) - Loss: 0.000275
+2025-05-01 00:16:53,621 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:56,226 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.159106
+2025-05-01 00:16:56,226 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:57,430 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.007426
+2025-05-01 00:16:57,431 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:58,621 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.004511
+2025-05-01 00:16:58,622 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:16:59,815 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.002773
+2025-05-01 00:16:59,815 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:00,987 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.001429
+2025-05-01 00:17:00,987 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:02,167 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.000830
+2025-05-01 00:17:02,168 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:03,347 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.000642
+2025-05-01 00:17:03,348 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:04,538 - MainProcess - INFO - Finished epoch 8 for GOOG (Hyperparameter Set 1) - Loss: 0.000504
+2025-05-01 00:17:04,538 - MainProcess - INFO - Starting epoch 9 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:05,745 - MainProcess - INFO - Finished epoch 9 for GOOG (Hyperparameter Set 1) - Loss: 0.000443
+2025-05-01 00:17:05,746 - MainProcess - INFO - Starting epoch 10 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:06,942 - MainProcess - INFO - Finished epoch 10 for GOOG (Hyperparameter Set 1) - Loss: 0.000411
+2025-05-01 00:17:06,949 - MainProcess - INFO - Retrained model for GOOG at walk-forward step 100 (Hyperparameter Set 1)
+2025-05-01 00:17:10,269 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:12,858 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.013672
+2025-05-01 00:17:12,859 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:14,053 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.001322
+2025-05-01 00:17:14,053 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:15,234 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.002476
+2025-05-01 00:17:15,235 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:16,414 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.003914
+2025-05-01 00:17:16,414 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:17,590 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.001413
+2025-05-01 00:17:17,590 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:18,747 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.004160
+2025-05-01 00:17:18,747 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:19,925 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.001811
+2025-05-01 00:17:19,932 - MainProcess - INFO - Retrained model for GOOG at walk-forward step 200 (Hyperparameter Set 1)
+2025-05-01 00:17:23,216 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:25,814 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.105921
+2025-05-01 00:17:25,814 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:27,053 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.002839
+2025-05-01 00:17:27,053 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:28,285 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.001410
+2025-05-01 00:17:28,285 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:29,498 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.000858
+2025-05-01 00:17:29,498 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:30,713 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.000672
+2025-05-01 00:17:30,714 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:31,962 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.000626
+2025-05-01 00:17:31,962 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:33,194 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.001013
+2025-05-01 00:17:33,195 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:34,435 - MainProcess - INFO - Finished epoch 8 for GOOG (Hyperparameter Set 1) - Loss: 0.001076
+2025-05-01 00:17:34,436 - MainProcess - INFO - Starting epoch 9 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:35,655 - MainProcess - INFO - Finished epoch 9 for GOOG (Hyperparameter Set 1) - Loss: 0.002091
+2025-05-01 00:17:35,655 - MainProcess - INFO - Starting epoch 10 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:36,870 - MainProcess - INFO - Finished epoch 10 for GOOG (Hyperparameter Set 1) - Loss: 0.000742
+2025-05-01 00:17:36,877 - MainProcess - INFO - Retrained model for GOOG at walk-forward step 300 (Hyperparameter Set 1)
+2025-05-01 00:17:40,182 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:42,810 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.045639
+2025-05-01 00:17:42,810 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:44,056 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.005632
+2025-05-01 00:17:44,056 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:45,275 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.002312
+2025-05-01 00:17:45,275 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:46,498 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.000604
+2025-05-01 00:17:46,498 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:47,723 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.000412
+2025-05-01 00:17:47,723 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:48,996 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.000334
+2025-05-01 00:17:48,996 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:50,227 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.000380
+2025-05-01 00:17:50,227 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:51,455 - MainProcess - INFO - Finished epoch 8 for GOOG (Hyperparameter Set 1) - Loss: 0.000919
+2025-05-01 00:17:51,455 - MainProcess - INFO - Starting epoch 9 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:52,717 - MainProcess - INFO - Finished epoch 9 for GOOG (Hyperparameter Set 1) - Loss: 0.002554
+2025-05-01 00:17:52,717 - MainProcess - INFO - Starting epoch 10 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:53,948 - MainProcess - INFO - Finished epoch 10 for GOOG (Hyperparameter Set 1) - Loss: 0.005511
+2025-05-01 00:17:53,955 - MainProcess - INFO - Retrained model for GOOG at walk-forward step 400 (Hyperparameter Set 1)
+2025-05-01 00:17:57,284 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:17:59,963 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.038414
+2025-05-01 00:17:59,964 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:01,237 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.005462
+2025-05-01 00:18:01,237 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:02,539 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.002875
+2025-05-01 00:18:02,539 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:03,805 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.001788
+2025-05-01 00:18:03,805 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:05,081 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.001498
+2025-05-01 00:18:05,082 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:06,362 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.004818
+2025-05-01 00:18:06,362 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:07,693 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.002877
+2025-05-01 00:18:07,694 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:09,032 - MainProcess - INFO - Finished epoch 8 for GOOG (Hyperparameter Set 1) - Loss: 0.002393
+2025-05-01 00:18:09,032 - MainProcess - INFO - Starting epoch 9 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:10,357 - MainProcess - INFO - Finished epoch 9 for GOOG (Hyperparameter Set 1) - Loss: 0.003099
+2025-05-01 00:18:10,357 - MainProcess - INFO - Starting epoch 10 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:11,663 - MainProcess - INFO - Finished epoch 10 for GOOG (Hyperparameter Set 1) - Loss: 0.004584
+2025-05-01 00:18:11,670 - MainProcess - INFO - Retrained model for GOOG at walk-forward step 500 (Hyperparameter Set 1)
+2025-05-01 00:18:15,006 - MainProcess - INFO - Starting epoch 1 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:17,842 - MainProcess - INFO - Finished epoch 1 for GOOG (Hyperparameter Set 1) - Loss: 0.617501
+2025-05-01 00:18:17,842 - MainProcess - INFO - Starting epoch 2 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:19,195 - MainProcess - INFO - Finished epoch 2 for GOOG (Hyperparameter Set 1) - Loss: 0.008861
+2025-05-01 00:18:19,196 - MainProcess - INFO - Starting epoch 3 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:20,550 - MainProcess - INFO - Finished epoch 3 for GOOG (Hyperparameter Set 1) - Loss: 0.007494
+2025-05-01 00:18:20,551 - MainProcess - INFO - Starting epoch 4 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:21,907 - MainProcess - INFO - Finished epoch 4 for GOOG (Hyperparameter Set 1) - Loss: 0.006063
+2025-05-01 00:18:21,907 - MainProcess - INFO - Starting epoch 5 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:23,262 - MainProcess - INFO - Finished epoch 5 for GOOG (Hyperparameter Set 1) - Loss: 0.004804
+2025-05-01 00:18:23,262 - MainProcess - INFO - Starting epoch 6 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:24,611 - MainProcess - INFO - Finished epoch 6 for GOOG (Hyperparameter Set 1) - Loss: 0.002905
+2025-05-01 00:18:24,612 - MainProcess - INFO - Starting epoch 7 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:25,967 - MainProcess - INFO - Finished epoch 7 for GOOG (Hyperparameter Set 1) - Loss: 0.001738
+2025-05-01 00:18:25,967 - MainProcess - INFO - Starting epoch 8 for GOOG (Hyperparameter Set 1)
+2025-05-01 00:18:34,383 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 00:18:34,652 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 128, 'epochs': 5, 'walkforward_retrain_step': 200}

@@ -1,0 +1,446 @@
+2025-04-30 22:45:44,061 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-04-30 22:45:44,315 - MainProcess - INFO - 
+>>> Running Hyperparameter Set 1: {'batch_size': 64, 'epochs': 1, 'walkforward_retrain_step': 100}
+2025-04-30 22:45:44,511 - MainProcess - INFO - Processing AAPL...
+2025-04-30 22:45:47,831 - MainProcess - INFO - AAPL: Completed 0/1083 test steps
+2025-04-30 22:45:48,208 - MainProcess - INFO - AAPL: Completed 10/1083 test steps
+2025-04-30 22:45:48,487 - MainProcess - INFO - AAPL: Completed 20/1083 test steps
+2025-04-30 22:45:48,776 - MainProcess - INFO - AAPL: Completed 30/1083 test steps
+2025-04-30 22:45:49,058 - MainProcess - INFO - AAPL: Completed 40/1083 test steps
+2025-04-30 22:45:49,352 - MainProcess - INFO - AAPL: Completed 50/1083 test steps
+2025-04-30 22:45:49,632 - MainProcess - INFO - AAPL: Completed 60/1083 test steps
+2025-04-30 22:45:49,913 - MainProcess - INFO - AAPL: Completed 70/1083 test steps
+2025-04-30 22:45:50,195 - MainProcess - INFO - AAPL: Completed 80/1083 test steps
+2025-04-30 22:45:50,476 - MainProcess - INFO - AAPL: Completed 90/1083 test steps
+2025-04-30 22:45:50,767 - MainProcess - INFO - AAPL: Completed 100/1083 test steps
+2025-04-30 22:45:50,767 - MainProcess - INFO - AAPL: Retraining at step 100/1083
+2025-04-30 22:45:50,953 - MainProcess - ERROR - Error processing AAPL: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:45:50,953 - MainProcess - INFO - Processing MSFT...
+2025-04-30 22:45:53,922 - MainProcess - INFO - MSFT: Completed 0/1083 test steps
+2025-04-30 22:45:54,280 - MainProcess - INFO - MSFT: Completed 10/1083 test steps
+2025-04-30 22:45:54,572 - MainProcess - INFO - MSFT: Completed 20/1083 test steps
+2025-04-30 22:45:54,855 - MainProcess - INFO - MSFT: Completed 30/1083 test steps
+2025-04-30 22:45:55,153 - MainProcess - INFO - MSFT: Completed 40/1083 test steps
+2025-04-30 22:45:55,457 - MainProcess - INFO - MSFT: Completed 50/1083 test steps
+2025-04-30 22:45:55,746 - MainProcess - INFO - MSFT: Completed 60/1083 test steps
+2025-04-30 22:45:56,036 - MainProcess - INFO - MSFT: Completed 70/1083 test steps
+2025-04-30 22:45:56,377 - MainProcess - INFO - MSFT: Completed 80/1083 test steps
+2025-04-30 22:45:56,701 - MainProcess - INFO - MSFT: Completed 90/1083 test steps
+2025-04-30 22:45:56,998 - MainProcess - INFO - MSFT: Completed 100/1083 test steps
+2025-04-30 22:45:56,998 - MainProcess - INFO - MSFT: Retraining at step 100/1083
+2025-04-30 22:45:57,183 - MainProcess - ERROR - Error processing MSFT: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:45:57,218 - MainProcess - INFO - Processing NVDA...
+2025-04-30 22:46:00,684 - MainProcess - INFO - NVDA: Completed 0/1083 test steps
+2025-04-30 22:46:01,056 - MainProcess - INFO - NVDA: Completed 10/1083 test steps
+2025-04-30 22:46:01,360 - MainProcess - INFO - NVDA: Completed 20/1083 test steps
+2025-04-30 22:46:01,666 - MainProcess - INFO - NVDA: Completed 30/1083 test steps
+2025-04-30 22:46:01,979 - MainProcess - INFO - NVDA: Completed 40/1083 test steps
+2025-04-30 22:46:02,288 - MainProcess - INFO - NVDA: Completed 50/1083 test steps
+2025-04-30 22:46:02,594 - MainProcess - INFO - NVDA: Completed 60/1083 test steps
+2025-04-30 22:46:02,898 - MainProcess - INFO - NVDA: Completed 70/1083 test steps
+2025-04-30 22:46:03,195 - MainProcess - INFO - NVDA: Completed 80/1083 test steps
+2025-04-30 22:46:03,484 - MainProcess - INFO - NVDA: Completed 90/1083 test steps
+2025-04-30 22:46:03,779 - MainProcess - INFO - NVDA: Completed 100/1083 test steps
+2025-04-30 22:46:03,779 - MainProcess - INFO - NVDA: Retraining at step 100/1083
+2025-04-30 22:46:03,965 - MainProcess - ERROR - Error processing NVDA: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:46:03,999 - MainProcess - INFO - Processing AMZN...
+2025-04-30 22:46:07,320 - MainProcess - INFO - AMZN: Completed 0/1083 test steps
+2025-04-30 22:46:07,722 - MainProcess - INFO - AMZN: Completed 10/1083 test steps
+2025-04-30 22:46:08,024 - MainProcess - INFO - AMZN: Completed 20/1083 test steps
+2025-04-30 22:46:08,320 - MainProcess - INFO - AMZN: Completed 30/1083 test steps
+2025-04-30 22:46:08,643 - MainProcess - INFO - AMZN: Completed 40/1083 test steps
+2025-04-30 22:46:08,941 - MainProcess - INFO - AMZN: Completed 50/1083 test steps
+2025-04-30 22:46:09,261 - MainProcess - INFO - AMZN: Completed 60/1083 test steps
+2025-04-30 22:46:09,578 - MainProcess - INFO - AMZN: Completed 70/1083 test steps
+2025-04-30 22:46:09,877 - MainProcess - INFO - AMZN: Completed 80/1083 test steps
+2025-04-30 22:46:10,196 - MainProcess - INFO - AMZN: Completed 90/1083 test steps
+2025-04-30 22:46:10,494 - MainProcess - INFO - AMZN: Completed 100/1083 test steps
+2025-04-30 22:46:10,494 - MainProcess - INFO - AMZN: Retraining at step 100/1083
+2025-04-30 22:46:10,684 - MainProcess - ERROR - Error processing AMZN: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:46:10,719 - MainProcess - INFO - Processing GOOG...
+2025-04-30 22:46:13,809 - MainProcess - INFO - GOOG: Completed 0/1064 test steps
+2025-04-30 22:46:14,196 - MainProcess - INFO - GOOG: Completed 10/1064 test steps
+2025-04-30 22:46:14,490 - MainProcess - INFO - GOOG: Completed 20/1064 test steps
+2025-04-30 22:46:14,798 - MainProcess - INFO - GOOG: Completed 30/1064 test steps
+2025-04-30 22:46:15,095 - MainProcess - INFO - GOOG: Completed 40/1064 test steps
+2025-04-30 22:46:15,391 - MainProcess - INFO - GOOG: Completed 50/1064 test steps
+2025-04-30 22:46:15,686 - MainProcess - INFO - GOOG: Completed 60/1064 test steps
+2025-04-30 22:46:15,981 - MainProcess - INFO - GOOG: Completed 70/1064 test steps
+2025-04-30 22:46:16,291 - MainProcess - INFO - GOOG: Completed 80/1064 test steps
+2025-04-30 22:46:16,621 - MainProcess - INFO - GOOG: Completed 90/1064 test steps
+2025-04-30 22:46:16,972 - MainProcess - INFO - GOOG: Completed 100/1064 test steps
+2025-04-30 22:46:16,972 - MainProcess - INFO - GOOG: Retraining at step 100/1064
+2025-04-30 22:46:17,133 - MainProcess - ERROR - Error processing GOOG: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (4162,) + inhomogeneous part.
+2025-04-30 22:46:17,162 - MainProcess - INFO - Processing META...
+2025-04-30 22:46:19,299 - MainProcess - INFO - META: Completed 0/1064 test steps
+2025-04-30 22:46:19,673 - MainProcess - INFO - META: Completed 10/1064 test steps
+2025-04-30 22:46:19,974 - MainProcess - INFO - META: Completed 20/1064 test steps
+2025-04-30 22:46:20,275 - MainProcess - INFO - META: Completed 30/1064 test steps
+2025-04-30 22:46:20,568 - MainProcess - INFO - META: Completed 40/1064 test steps
+2025-04-30 22:46:21,193 - MainProcess - INFO - META: Completed 50/1064 test steps
+2025-04-30 22:46:21,503 - MainProcess - INFO - META: Completed 60/1064 test steps
+2025-04-30 22:46:21,825 - MainProcess - INFO - META: Completed 70/1064 test steps
+2025-04-30 22:46:22,143 - MainProcess - INFO - META: Completed 80/1064 test steps
+2025-04-30 22:46:22,471 - MainProcess - INFO - META: Completed 90/1064 test steps
+2025-04-30 22:46:22,786 - MainProcess - INFO - META: Completed 100/1064 test steps
+2025-04-30 22:46:22,786 - MainProcess - INFO - META: Retraining at step 100/1064
+2025-04-30 22:46:22,893 - MainProcess - ERROR - Error processing META: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2210,) + inhomogeneous part.
+2025-04-30 22:46:22,908 - MainProcess - INFO - Processing BRK-B...
+2025-04-30 22:46:26,112 - MainProcess - INFO - BRK-B: Completed 0/1083 test steps
+2025-04-30 22:46:26,487 - MainProcess - INFO - BRK-B: Completed 10/1083 test steps
+2025-04-30 22:46:26,769 - MainProcess - INFO - BRK-B: Completed 20/1083 test steps
+2025-04-30 22:46:27,066 - MainProcess - INFO - BRK-B: Completed 30/1083 test steps
+2025-04-30 22:46:27,354 - MainProcess - INFO - BRK-B: Completed 40/1083 test steps
+2025-04-30 22:46:27,689 - MainProcess - INFO - BRK-B: Completed 50/1083 test steps
+2025-04-30 22:46:28,002 - MainProcess - INFO - BRK-B: Completed 60/1083 test steps
+2025-04-30 22:46:28,307 - MainProcess - INFO - BRK-B: Completed 70/1083 test steps
+2025-04-30 22:46:28,610 - MainProcess - INFO - BRK-B: Completed 80/1083 test steps
+2025-04-30 22:46:28,921 - MainProcess - INFO - BRK-B: Completed 90/1083 test steps
+2025-04-30 22:46:29,238 - MainProcess - INFO - BRK-B: Completed 100/1083 test steps
+2025-04-30 22:46:29,238 - MainProcess - INFO - BRK-B: Retraining at step 100/1083
+2025-04-30 22:46:29,424 - MainProcess - ERROR - Error processing BRK-B: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:46:29,457 - MainProcess - INFO - Processing GOOGL...
+2025-04-30 22:46:32,466 - MainProcess - INFO - GOOGL: Completed 0/1064 test steps
+2025-04-30 22:46:32,843 - MainProcess - INFO - GOOGL: Completed 10/1064 test steps
+2025-04-30 22:46:33,135 - MainProcess - INFO - GOOGL: Completed 20/1064 test steps
+2025-04-30 22:46:33,427 - MainProcess - INFO - GOOGL: Completed 30/1064 test steps
+2025-04-30 22:46:33,754 - MainProcess - INFO - GOOGL: Completed 40/1064 test steps
+2025-04-30 22:46:34,071 - MainProcess - INFO - GOOGL: Completed 50/1064 test steps
+2025-04-30 22:46:34,371 - MainProcess - INFO - GOOGL: Completed 60/1064 test steps
+2025-04-30 22:46:34,680 - MainProcess - INFO - GOOGL: Completed 70/1064 test steps
+2025-04-30 22:46:34,986 - MainProcess - INFO - GOOGL: Completed 80/1064 test steps
+2025-04-30 22:46:35,287 - MainProcess - INFO - GOOGL: Completed 90/1064 test steps
+2025-04-30 22:46:35,588 - MainProcess - INFO - GOOGL: Completed 100/1064 test steps
+2025-04-30 22:46:35,588 - MainProcess - INFO - GOOGL: Retraining at step 100/1064
+2025-04-30 22:46:35,744 - MainProcess - ERROR - Error processing GOOGL: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (4162,) + inhomogeneous part.
+2025-04-30 22:46:35,771 - MainProcess - INFO - Processing AVGO...
+2025-04-30 22:46:38,123 - MainProcess - INFO - AVGO: Completed 0/1064 test steps
+2025-04-30 22:46:38,510 - MainProcess - INFO - AVGO: Completed 10/1064 test steps
+2025-04-30 22:46:38,802 - MainProcess - INFO - AVGO: Completed 20/1064 test steps
+2025-04-30 22:46:39,086 - MainProcess - INFO - AVGO: Completed 30/1064 test steps
+2025-04-30 22:46:39,389 - MainProcess - INFO - AVGO: Completed 40/1064 test steps
+2025-04-30 22:46:40,011 - MainProcess - INFO - AVGO: Completed 50/1064 test steps
+2025-04-30 22:46:40,327 - MainProcess - INFO - AVGO: Completed 60/1064 test steps
+2025-04-30 22:46:40,642 - MainProcess - INFO - AVGO: Completed 70/1064 test steps
+2025-04-30 22:46:40,993 - MainProcess - INFO - AVGO: Completed 80/1064 test steps
+2025-04-30 22:46:41,328 - MainProcess - INFO - AVGO: Completed 90/1064 test steps
+2025-04-30 22:46:41,641 - MainProcess - INFO - AVGO: Completed 100/1064 test steps
+2025-04-30 22:46:41,641 - MainProcess - INFO - AVGO: Retraining at step 100/1064
+2025-04-30 22:46:41,760 - MainProcess - ERROR - Error processing AVGO: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2912,) + inhomogeneous part.
+2025-04-30 22:46:41,779 - MainProcess - INFO - Processing TSLA...
+2025-04-30 22:46:44,060 - MainProcess - INFO - TSLA: Completed 0/1064 test steps
+2025-04-30 22:46:44,429 - MainProcess - INFO - TSLA: Completed 10/1064 test steps
+2025-04-30 22:46:44,728 - MainProcess - INFO - TSLA: Completed 20/1064 test steps
+2025-04-30 22:46:45,018 - MainProcess - INFO - TSLA: Completed 30/1064 test steps
+2025-04-30 22:46:45,306 - MainProcess - INFO - TSLA: Completed 40/1064 test steps
+2025-04-30 22:46:45,598 - MainProcess - INFO - TSLA: Completed 50/1064 test steps
+2025-04-30 22:46:45,896 - MainProcess - INFO - TSLA: Completed 60/1064 test steps
+2025-04-30 22:46:46,191 - MainProcess - INFO - TSLA: Completed 70/1064 test steps
+2025-04-30 22:46:46,498 - MainProcess - INFO - TSLA: Completed 80/1064 test steps
+2025-04-30 22:46:46,792 - MainProcess - INFO - TSLA: Completed 90/1064 test steps
+2025-04-30 22:46:47,097 - MainProcess - INFO - TSLA: Completed 100/1064 test steps
+2025-04-30 22:46:47,097 - MainProcess - INFO - TSLA: Retraining at step 100/1064
+2025-04-30 22:46:47,215 - MainProcess - ERROR - Error processing TSLA: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2687,) + inhomogeneous part.
+2025-04-30 22:46:47,232 - MainProcess - INFO - Processing LLY...
+2025-04-30 22:46:50,632 - MainProcess - INFO - LLY: Completed 0/1083 test steps
+2025-04-30 22:46:51,006 - MainProcess - INFO - LLY: Completed 10/1083 test steps
+2025-04-30 22:46:51,307 - MainProcess - INFO - LLY: Completed 20/1083 test steps
+2025-04-30 22:46:51,610 - MainProcess - INFO - LLY: Completed 30/1083 test steps
+2025-04-30 22:46:51,912 - MainProcess - INFO - LLY: Completed 40/1083 test steps
+2025-04-30 22:46:52,236 - MainProcess - INFO - LLY: Completed 50/1083 test steps
+2025-04-30 22:46:52,556 - MainProcess - INFO - LLY: Completed 60/1083 test steps
+2025-04-30 22:46:52,867 - MainProcess - INFO - LLY: Completed 70/1083 test steps
+2025-04-30 22:46:53,181 - MainProcess - INFO - LLY: Completed 80/1083 test steps
+2025-04-30 22:46:53,485 - MainProcess - INFO - LLY: Completed 90/1083 test steps
+2025-04-30 22:46:53,790 - MainProcess - INFO - LLY: Completed 100/1083 test steps
+2025-04-30 22:46:53,790 - MainProcess - INFO - LLY: Retraining at step 100/1083
+2025-04-30 22:46:53,970 - MainProcess - ERROR - Error processing LLY: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:46:54,003 - MainProcess - INFO - Processing JPM...
+2025-04-30 22:46:57,424 - MainProcess - INFO - JPM: Completed 0/1083 test steps
+2025-04-30 22:46:57,799 - MainProcess - INFO - JPM: Completed 10/1083 test steps
+2025-04-30 22:46:58,096 - MainProcess - INFO - JPM: Completed 20/1083 test steps
+2025-04-30 22:46:58,412 - MainProcess - INFO - JPM: Completed 30/1083 test steps
+2025-04-30 22:46:58,718 - MainProcess - INFO - JPM: Completed 40/1083 test steps
+2025-04-30 22:46:59,019 - MainProcess - INFO - JPM: Completed 50/1083 test steps
+2025-04-30 22:46:59,326 - MainProcess - INFO - JPM: Completed 60/1083 test steps
+2025-04-30 22:46:59,625 - MainProcess - INFO - JPM: Completed 70/1083 test steps
+2025-04-30 22:46:59,931 - MainProcess - INFO - JPM: Completed 80/1083 test steps
+2025-04-30 22:47:00,227 - MainProcess - INFO - JPM: Completed 90/1083 test steps
+2025-04-30 22:47:00,524 - MainProcess - INFO - JPM: Completed 100/1083 test steps
+2025-04-30 22:47:00,524 - MainProcess - INFO - JPM: Retraining at step 100/1083
+2025-04-30 22:47:00,708 - MainProcess - ERROR - Error processing JPM: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:00,742 - MainProcess - INFO - Processing WMT...
+2025-04-30 22:47:04,065 - MainProcess - INFO - WMT: Completed 0/1083 test steps
+2025-04-30 22:47:04,474 - MainProcess - INFO - WMT: Completed 10/1083 test steps
+2025-04-30 22:47:04,794 - MainProcess - INFO - WMT: Completed 20/1083 test steps
+2025-04-30 22:47:05,118 - MainProcess - INFO - WMT: Completed 30/1083 test steps
+2025-04-30 22:47:05,440 - MainProcess - INFO - WMT: Completed 40/1083 test steps
+2025-04-30 22:47:05,759 - MainProcess - INFO - WMT: Completed 50/1083 test steps
+2025-04-30 22:47:06,091 - MainProcess - INFO - WMT: Completed 60/1083 test steps
+2025-04-30 22:47:06,417 - MainProcess - INFO - WMT: Completed 70/1083 test steps
+2025-04-30 22:47:06,740 - MainProcess - INFO - WMT: Completed 80/1083 test steps
+2025-04-30 22:47:07,053 - MainProcess - INFO - WMT: Completed 90/1083 test steps
+2025-04-30 22:47:07,369 - MainProcess - INFO - WMT: Completed 100/1083 test steps
+2025-04-30 22:47:07,369 - MainProcess - INFO - WMT: Retraining at step 100/1083
+2025-04-30 22:47:07,556 - MainProcess - ERROR - Error processing WMT: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:07,592 - MainProcess - INFO - Processing V...
+2025-04-30 22:47:10,132 - MainProcess - INFO - V: Completed 0/1064 test steps
+2025-04-30 22:47:10,521 - MainProcess - INFO - V: Completed 10/1064 test steps
+2025-04-30 22:47:10,834 - MainProcess - INFO - V: Completed 20/1064 test steps
+2025-04-30 22:47:11,160 - MainProcess - INFO - V: Completed 30/1064 test steps
+2025-04-30 22:47:11,477 - MainProcess - INFO - V: Completed 40/1064 test steps
+2025-04-30 22:47:11,792 - MainProcess - INFO - V: Completed 50/1064 test steps
+2025-04-30 22:47:12,102 - MainProcess - INFO - V: Completed 60/1064 test steps
+2025-04-30 22:47:12,423 - MainProcess - INFO - V: Completed 70/1064 test steps
+2025-04-30 22:47:12,750 - MainProcess - INFO - V: Completed 80/1064 test steps
+2025-04-30 22:47:13,072 - MainProcess - INFO - V: Completed 90/1064 test steps
+2025-04-30 22:47:13,385 - MainProcess - INFO - V: Completed 100/1064 test steps
+2025-04-30 22:47:13,385 - MainProcess - INFO - V: Retraining at step 100/1064
+2025-04-30 22:47:13,519 - MainProcess - ERROR - Error processing V: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3261,) + inhomogeneous part.
+2025-04-30 22:47:13,540 - MainProcess - INFO - Processing XOM...
+2025-04-30 22:47:17,363 - MainProcess - INFO - XOM: Completed 0/1083 test steps
+2025-04-30 22:47:17,788 - MainProcess - INFO - XOM: Completed 10/1083 test steps
+2025-04-30 22:47:18,132 - MainProcess - INFO - XOM: Completed 20/1083 test steps
+2025-04-30 22:47:18,484 - MainProcess - INFO - XOM: Completed 30/1083 test steps
+2025-04-30 22:47:18,817 - MainProcess - INFO - XOM: Completed 40/1083 test steps
+2025-04-30 22:47:19,148 - MainProcess - INFO - XOM: Completed 50/1083 test steps
+2025-04-30 22:47:19,479 - MainProcess - INFO - XOM: Completed 60/1083 test steps
+2025-04-30 22:47:19,816 - MainProcess - INFO - XOM: Completed 70/1083 test steps
+2025-04-30 22:47:20,158 - MainProcess - INFO - XOM: Completed 80/1083 test steps
+2025-04-30 22:47:20,506 - MainProcess - INFO - XOM: Completed 90/1083 test steps
+2025-04-30 22:47:20,833 - MainProcess - INFO - XOM: Completed 100/1083 test steps
+2025-04-30 22:47:20,834 - MainProcess - INFO - XOM: Retraining at step 100/1083
+2025-04-30 22:47:21,018 - MainProcess - ERROR - Error processing XOM: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:21,051 - MainProcess - INFO - Processing MA...
+2025-04-30 22:47:23,786 - MainProcess - INFO - MA: Completed 0/1064 test steps
+2025-04-30 22:47:24,193 - MainProcess - INFO - MA: Completed 10/1064 test steps
+2025-04-30 22:47:24,515 - MainProcess - INFO - MA: Completed 20/1064 test steps
+2025-04-30 22:47:24,820 - MainProcess - INFO - MA: Completed 30/1064 test steps
+2025-04-30 22:47:25,136 - MainProcess - INFO - MA: Completed 40/1064 test steps
+2025-04-30 22:47:25,455 - MainProcess - INFO - MA: Completed 50/1064 test steps
+2025-04-30 22:47:25,766 - MainProcess - INFO - MA: Completed 60/1064 test steps
+2025-04-30 22:47:26,089 - MainProcess - INFO - MA: Completed 70/1064 test steps
+2025-04-30 22:47:26,411 - MainProcess - INFO - MA: Completed 80/1064 test steps
+2025-04-30 22:47:26,726 - MainProcess - INFO - MA: Completed 90/1064 test steps
+2025-04-30 22:47:27,038 - MainProcess - INFO - MA: Completed 100/1064 test steps
+2025-04-30 22:47:27,038 - MainProcess - INFO - MA: Retraining at step 100/1064
+2025-04-30 22:47:27,186 - MainProcess - ERROR - Error processing MA: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3717,) + inhomogeneous part.
+2025-04-30 22:47:27,211 - MainProcess - INFO - Processing UNH...
+2025-04-30 22:47:30,826 - MainProcess - INFO - UNH: Completed 0/1083 test steps
+2025-04-30 22:47:31,228 - MainProcess - INFO - UNH: Completed 10/1083 test steps
+2025-04-30 22:47:31,551 - MainProcess - INFO - UNH: Completed 20/1083 test steps
+2025-04-30 22:47:31,859 - MainProcess - INFO - UNH: Completed 30/1083 test steps
+2025-04-30 22:47:32,179 - MainProcess - INFO - UNH: Completed 40/1083 test steps
+2025-04-30 22:47:32,504 - MainProcess - INFO - UNH: Completed 50/1083 test steps
+2025-04-30 22:47:32,834 - MainProcess - INFO - UNH: Completed 60/1083 test steps
+2025-04-30 22:47:33,171 - MainProcess - INFO - UNH: Completed 70/1083 test steps
+2025-04-30 22:47:33,498 - MainProcess - INFO - UNH: Completed 80/1083 test steps
+2025-04-30 22:47:33,848 - MainProcess - INFO - UNH: Completed 90/1083 test steps
+2025-04-30 22:47:34,182 - MainProcess - INFO - UNH: Completed 100/1083 test steps
+2025-04-30 22:47:34,182 - MainProcess - INFO - UNH: Retraining at step 100/1083
+2025-04-30 22:47:34,376 - MainProcess - ERROR - Error processing UNH: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:34,410 - MainProcess - INFO - Processing ORCL...
+2025-04-30 22:47:37,985 - MainProcess - INFO - ORCL: Completed 0/1083 test steps
+2025-04-30 22:47:38,376 - MainProcess - INFO - ORCL: Completed 10/1083 test steps
+2025-04-30 22:47:38,696 - MainProcess - INFO - ORCL: Completed 20/1083 test steps
+2025-04-30 22:47:38,997 - MainProcess - INFO - ORCL: Completed 30/1083 test steps
+2025-04-30 22:47:39,296 - MainProcess - INFO - ORCL: Completed 40/1083 test steps
+2025-04-30 22:47:39,590 - MainProcess - INFO - ORCL: Completed 50/1083 test steps
+2025-04-30 22:47:39,887 - MainProcess - INFO - ORCL: Completed 60/1083 test steps
+2025-04-30 22:47:40,189 - MainProcess - INFO - ORCL: Completed 70/1083 test steps
+2025-04-30 22:47:40,496 - MainProcess - INFO - ORCL: Completed 80/1083 test steps
+2025-04-30 22:47:40,796 - MainProcess - INFO - ORCL: Completed 90/1083 test steps
+2025-04-30 22:47:41,103 - MainProcess - INFO - ORCL: Completed 100/1083 test steps
+2025-04-30 22:47:41,103 - MainProcess - INFO - ORCL: Retraining at step 100/1083
+2025-04-30 22:47:41,288 - MainProcess - ERROR - Error processing ORCL: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:41,323 - MainProcess - INFO - Processing NFLX...
+2025-04-30 22:47:44,487 - MainProcess - INFO - NFLX: Completed 0/1064 test steps
+2025-04-30 22:47:44,854 - MainProcess - INFO - NFLX: Completed 10/1064 test steps
+2025-04-30 22:47:45,150 - MainProcess - INFO - NFLX: Completed 20/1064 test steps
+2025-04-30 22:47:45,444 - MainProcess - INFO - NFLX: Completed 30/1064 test steps
+2025-04-30 22:47:45,733 - MainProcess - INFO - NFLX: Completed 40/1064 test steps
+2025-04-30 22:47:46,026 - MainProcess - INFO - NFLX: Completed 50/1064 test steps
+2025-04-30 22:47:46,331 - MainProcess - INFO - NFLX: Completed 60/1064 test steps
+2025-04-30 22:47:46,849 - MainProcess - INFO - NFLX: Completed 70/1064 test steps
+2025-04-30 22:47:47,141 - MainProcess - INFO - NFLX: Completed 80/1064 test steps
+2025-04-30 22:47:47,430 - MainProcess - INFO - NFLX: Completed 90/1064 test steps
+2025-04-30 22:47:47,727 - MainProcess - INFO - NFLX: Completed 100/1064 test steps
+2025-04-30 22:47:47,727 - MainProcess - INFO - NFLX: Retraining at step 100/1064
+2025-04-30 22:47:47,895 - MainProcess - ERROR - Error processing NFLX: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (4726,) + inhomogeneous part.
+2025-04-30 22:47:47,928 - MainProcess - INFO - Processing COST...
+2025-04-30 22:47:50,842 - MainProcess - INFO - COST: Completed 0/1083 test steps
+2025-04-30 22:47:51,214 - MainProcess - INFO - COST: Completed 10/1083 test steps
+2025-04-30 22:47:51,506 - MainProcess - INFO - COST: Completed 20/1083 test steps
+2025-04-30 22:47:51,798 - MainProcess - INFO - COST: Completed 30/1083 test steps
+2025-04-30 22:47:52,091 - MainProcess - INFO - COST: Completed 40/1083 test steps
+2025-04-30 22:47:52,382 - MainProcess - INFO - COST: Completed 50/1083 test steps
+2025-04-30 22:47:52,673 - MainProcess - INFO - COST: Completed 60/1083 test steps
+2025-04-30 22:47:52,960 - MainProcess - INFO - COST: Completed 70/1083 test steps
+2025-04-30 22:47:53,251 - MainProcess - INFO - COST: Completed 80/1083 test steps
+2025-04-30 22:47:53,545 - MainProcess - INFO - COST: Completed 90/1083 test steps
+2025-04-30 22:47:53,838 - MainProcess - INFO - COST: Completed 100/1083 test steps
+2025-04-30 22:47:53,838 - MainProcess - INFO - COST: Retraining at step 100/1083
+2025-04-30 22:47:54,019 - MainProcess - ERROR - Error processing COST: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:47:54,056 - MainProcess - INFO - Processing JNJ...
+2025-04-30 22:47:57,396 - MainProcess - INFO - JNJ: Completed 0/1083 test steps
+2025-04-30 22:47:57,776 - MainProcess - INFO - JNJ: Completed 10/1083 test steps
+2025-04-30 22:47:58,079 - MainProcess - INFO - JNJ: Completed 20/1083 test steps
+2025-04-30 22:47:58,382 - MainProcess - INFO - JNJ: Completed 30/1083 test steps
+2025-04-30 22:47:58,681 - MainProcess - INFO - JNJ: Completed 40/1083 test steps
+2025-04-30 22:47:58,990 - MainProcess - INFO - JNJ: Completed 50/1083 test steps
+2025-04-30 22:47:59,287 - MainProcess - INFO - JNJ: Completed 60/1083 test steps
+2025-04-30 22:47:59,594 - MainProcess - INFO - JNJ: Completed 70/1083 test steps
+2025-04-30 22:47:59,907 - MainProcess - INFO - JNJ: Completed 80/1083 test steps
+2025-04-30 22:48:00,226 - MainProcess - INFO - JNJ: Completed 90/1083 test steps
+2025-04-30 22:48:00,541 - MainProcess - INFO - JNJ: Completed 100/1083 test steps
+2025-04-30 22:48:00,541 - MainProcess - INFO - JNJ: Retraining at step 100/1083
+2025-04-30 22:48:00,722 - MainProcess - ERROR - Error processing JNJ: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:48:00,754 - MainProcess - INFO - Processing PG...
+2025-04-30 22:48:03,913 - MainProcess - INFO - PG: Completed 0/1083 test steps
+2025-04-30 22:48:04,521 - MainProcess - INFO - PG: Completed 10/1083 test steps
+2025-04-30 22:48:04,829 - MainProcess - INFO - PG: Completed 20/1083 test steps
+2025-04-30 22:48:05,140 - MainProcess - INFO - PG: Completed 30/1083 test steps
+2025-04-30 22:48:05,450 - MainProcess - INFO - PG: Completed 40/1083 test steps
+2025-04-30 22:48:05,758 - MainProcess - INFO - PG: Completed 50/1083 test steps
+2025-04-30 22:48:06,068 - MainProcess - INFO - PG: Completed 60/1083 test steps
+2025-04-30 22:48:06,376 - MainProcess - INFO - PG: Completed 70/1083 test steps
+2025-04-30 22:48:06,689 - MainProcess - INFO - PG: Completed 80/1083 test steps
+2025-04-30 22:48:06,994 - MainProcess - INFO - PG: Completed 90/1083 test steps
+2025-04-30 22:48:07,307 - MainProcess - INFO - PG: Completed 100/1083 test steps
+2025-04-30 22:48:07,307 - MainProcess - INFO - PG: Retraining at step 100/1083
+2025-04-30 22:48:07,485 - MainProcess - ERROR - Error processing PG: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:48:07,517 - MainProcess - INFO - Processing ABBV...
+2025-04-30 22:48:09,568 - MainProcess - INFO - ABBV: Completed 0/1064 test steps
+2025-04-30 22:48:09,940 - MainProcess - INFO - ABBV: Completed 10/1064 test steps
+2025-04-30 22:48:10,236 - MainProcess - INFO - ABBV: Completed 20/1064 test steps
+2025-04-30 22:48:10,531 - MainProcess - INFO - ABBV: Completed 30/1064 test steps
+2025-04-30 22:48:10,825 - MainProcess - INFO - ABBV: Completed 40/1064 test steps
+2025-04-30 22:48:11,117 - MainProcess - INFO - ABBV: Completed 50/1064 test steps
+2025-04-30 22:48:11,409 - MainProcess - INFO - ABBV: Completed 60/1064 test steps
+2025-04-30 22:48:11,700 - MainProcess - INFO - ABBV: Completed 70/1064 test steps
+2025-04-30 22:48:11,994 - MainProcess - INFO - ABBV: Completed 80/1064 test steps
+2025-04-30 22:48:12,286 - MainProcess - INFO - ABBV: Completed 90/1064 test steps
+2025-04-30 22:48:12,580 - MainProcess - INFO - ABBV: Completed 100/1064 test steps
+2025-04-30 22:48:12,580 - MainProcess - INFO - ABBV: Retraining at step 100/1064
+2025-04-30 22:48:12,675 - MainProcess - ERROR - Error processing ABBV: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2055,) + inhomogeneous part.
+2025-04-30 22:48:12,688 - MainProcess - INFO - Processing HD...
+2025-04-30 22:48:16,016 - MainProcess - INFO - HD: Completed 0/1083 test steps
+2025-04-30 22:48:16,394 - MainProcess - INFO - HD: Completed 10/1083 test steps
+2025-04-30 22:48:16,698 - MainProcess - INFO - HD: Completed 20/1083 test steps
+2025-04-30 22:48:16,995 - MainProcess - INFO - HD: Completed 30/1083 test steps
+2025-04-30 22:48:17,296 - MainProcess - INFO - HD: Completed 40/1083 test steps
+2025-04-30 22:48:17,590 - MainProcess - INFO - HD: Completed 50/1083 test steps
+2025-04-30 22:48:17,889 - MainProcess - INFO - HD: Completed 60/1083 test steps
+2025-04-30 22:48:18,189 - MainProcess - INFO - HD: Completed 70/1083 test steps
+2025-04-30 22:48:18,486 - MainProcess - INFO - HD: Completed 80/1083 test steps
+2025-04-30 22:48:18,785 - MainProcess - INFO - HD: Completed 90/1083 test steps
+2025-04-30 22:48:19,083 - MainProcess - INFO - HD: Completed 100/1083 test steps
+2025-04-30 22:48:19,083 - MainProcess - INFO - HD: Retraining at step 100/1083
+2025-04-30 22:48:19,263 - MainProcess - ERROR - Error processing HD: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:48:19,297 - MainProcess - INFO - Processing BAC...
+2025-04-30 22:48:22,583 - MainProcess - INFO - BAC: Completed 0/1083 test steps
+2025-04-30 22:48:22,955 - MainProcess - INFO - BAC: Completed 10/1083 test steps
+2025-04-30 22:48:23,245 - MainProcess - INFO - BAC: Completed 20/1083 test steps
+2025-04-30 22:48:23,548 - MainProcess - INFO - BAC: Completed 30/1083 test steps
+2025-04-30 22:48:23,849 - MainProcess - INFO - BAC: Completed 40/1083 test steps
+2025-04-30 22:48:24,143 - MainProcess - INFO - BAC: Completed 50/1083 test steps
+2025-04-30 22:48:24,437 - MainProcess - INFO - BAC: Completed 60/1083 test steps
+2025-04-30 22:48:24,738 - MainProcess - INFO - BAC: Completed 70/1083 test steps
+2025-04-30 22:48:25,030 - MainProcess - INFO - BAC: Completed 80/1083 test steps
+2025-04-30 22:48:25,324 - MainProcess - INFO - BAC: Completed 90/1083 test steps
+2025-04-30 22:48:25,623 - MainProcess - INFO - BAC: Completed 100/1083 test steps
+2025-04-30 22:48:25,623 - MainProcess - INFO - BAC: Retraining at step 100/1083
+2025-04-30 22:48:25,802 - MainProcess - ERROR - Error processing BAC: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5072,) + inhomogeneous part.
+2025-04-30 22:48:25,837 - MainProcess - INFO - 
+>>> Running Hyperparameter Set 2: {'batch_size': 128, 'epochs': 2, 'walkforward_retrain_step': 50}
+2025-04-30 22:48:25,840 - MainProcess - INFO - Processing AAPL...
+2025-04-30 22:48:28,970 - MainProcess - INFO - AAPL: Completed 0/1083 test steps
+2025-04-30 22:48:29,347 - MainProcess - INFO - AAPL: Completed 10/1083 test steps
+2025-04-30 22:48:29,639 - MainProcess - INFO - AAPL: Completed 20/1083 test steps
+2025-04-30 22:48:30,347 - MainProcess - INFO - AAPL: Completed 30/1083 test steps
+2025-04-30 22:48:30,663 - MainProcess - INFO - AAPL: Completed 40/1083 test steps
+2025-04-30 22:48:30,988 - MainProcess - INFO - AAPL: Completed 50/1083 test steps
+2025-04-30 22:48:30,988 - MainProcess - INFO - AAPL: Retraining at step 50/1083
+2025-04-30 22:48:31,165 - MainProcess - ERROR - Error processing AAPL: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5022,) + inhomogeneous part.
+2025-04-30 22:48:31,198 - MainProcess - INFO - Processing MSFT...
+2025-04-30 22:48:34,492 - MainProcess - INFO - MSFT: Completed 0/1083 test steps
+2025-04-30 22:48:34,851 - MainProcess - INFO - MSFT: Completed 10/1083 test steps
+2025-04-30 22:48:35,143 - MainProcess - INFO - MSFT: Completed 20/1083 test steps
+2025-04-30 22:48:35,430 - MainProcess - INFO - MSFT: Completed 30/1083 test steps
+2025-04-30 22:48:35,715 - MainProcess - INFO - MSFT: Completed 40/1083 test steps
+2025-04-30 22:48:36,000 - MainProcess - INFO - MSFT: Completed 50/1083 test steps
+2025-04-30 22:48:36,000 - MainProcess - INFO - MSFT: Retraining at step 50/1083
+2025-04-30 22:48:36,202 - MainProcess - ERROR - Error processing MSFT: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5022,) + inhomogeneous part.
+2025-04-30 22:48:36,236 - MainProcess - INFO - Processing NVDA...
+2025-04-30 22:48:40,169 - MainProcess - INFO - NVDA: Completed 0/1083 test steps
+2025-04-30 22:48:40,555 - MainProcess - INFO - NVDA: Completed 10/1083 test steps
+2025-04-30 22:48:40,861 - MainProcess - INFO - NVDA: Completed 20/1083 test steps
+2025-04-30 22:48:41,160 - MainProcess - INFO - NVDA: Completed 30/1083 test steps
+2025-04-30 22:48:41,494 - MainProcess - INFO - NVDA: Completed 40/1083 test steps
+2025-04-30 22:48:41,810 - MainProcess - INFO - NVDA: Completed 50/1083 test steps
+2025-04-30 22:48:41,810 - MainProcess - INFO - NVDA: Retraining at step 50/1083
+2025-04-30 22:48:42,006 - MainProcess - ERROR - Error processing NVDA: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5022,) + inhomogeneous part.
+2025-04-30 22:48:42,041 - MainProcess - INFO - Processing AMZN...
+2025-04-30 22:48:46,050 - MainProcess - INFO - AMZN: Completed 0/1083 test steps
+2025-04-30 22:48:46,480 - MainProcess - INFO - AMZN: Completed 10/1083 test steps
+2025-04-30 22:48:46,807 - MainProcess - INFO - AMZN: Completed 20/1083 test steps
+2025-04-30 22:48:47,143 - MainProcess - INFO - AMZN: Completed 30/1083 test steps
+2025-04-30 22:48:47,503 - MainProcess - INFO - AMZN: Completed 40/1083 test steps
+2025-04-30 22:48:47,855 - MainProcess - INFO - AMZN: Completed 50/1083 test steps
+2025-04-30 22:48:47,855 - MainProcess - INFO - AMZN: Retraining at step 50/1083
+2025-04-30 22:48:48,047 - MainProcess - ERROR - Error processing AMZN: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5022,) + inhomogeneous part.
+2025-04-30 22:48:48,083 - MainProcess - INFO - Processing GOOG...
+2025-04-30 22:48:51,570 - MainProcess - INFO - GOOG: Completed 0/1064 test steps
+2025-04-30 22:48:51,959 - MainProcess - INFO - GOOG: Completed 10/1064 test steps
+2025-04-30 22:48:52,298 - MainProcess - INFO - GOOG: Completed 20/1064 test steps
+2025-04-30 22:48:52,653 - MainProcess - INFO - GOOG: Completed 30/1064 test steps
+2025-04-30 22:48:53,007 - MainProcess - INFO - GOOG: Completed 40/1064 test steps
+2025-04-30 22:48:53,358 - MainProcess - INFO - GOOG: Completed 50/1064 test steps
+2025-04-30 22:48:53,358 - MainProcess - INFO - GOOG: Retraining at step 50/1064
+2025-04-30 22:48:53,516 - MainProcess - ERROR - Error processing GOOG: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (4112,) + inhomogeneous part.
+2025-04-30 22:48:53,544 - MainProcess - INFO - Processing META...
+2025-04-30 22:48:55,888 - MainProcess - INFO - META: Completed 0/1064 test steps
+2025-04-30 22:48:56,257 - MainProcess - INFO - META: Completed 10/1064 test steps
+2025-04-30 22:48:56,560 - MainProcess - INFO - META: Completed 20/1064 test steps
+2025-04-30 22:48:56,858 - MainProcess - INFO - META: Completed 30/1064 test steps
+2025-04-30 22:48:57,152 - MainProcess - INFO - META: Completed 40/1064 test steps
+2025-04-30 22:48:57,439 - MainProcess - INFO - META: Completed 50/1064 test steps
+2025-04-30 22:48:57,439 - MainProcess - INFO - META: Retraining at step 50/1064
+2025-04-30 22:48:57,544 - MainProcess - ERROR - Error processing META: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2160,) + inhomogeneous part.
+2025-04-30 22:48:57,559 - MainProcess - INFO - Processing BRK-B...
+2025-04-30 22:49:01,494 - MainProcess - INFO - BRK-B: Completed 0/1083 test steps
+2025-04-30 22:49:01,935 - MainProcess - INFO - BRK-B: Completed 10/1083 test steps
+2025-04-30 22:49:02,295 - MainProcess - INFO - BRK-B: Completed 20/1083 test steps
+2025-04-30 22:49:02,640 - MainProcess - INFO - BRK-B: Completed 30/1083 test steps
+2025-04-30 22:49:02,983 - MainProcess - INFO - BRK-B: Completed 40/1083 test steps
+2025-04-30 22:49:03,334 - MainProcess - INFO - BRK-B: Completed 50/1083 test steps
+2025-04-30 22:49:03,334 - MainProcess - INFO - BRK-B: Retraining at step 50/1083
+2025-04-30 22:49:03,522 - MainProcess - ERROR - Error processing BRK-B: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (5022,) + inhomogeneous part.
+2025-04-30 22:49:03,557 - MainProcess - INFO - Processing GOOGL...
+2025-04-30 22:49:06,942 - MainProcess - INFO - GOOGL: Completed 0/1064 test steps
+2025-04-30 22:49:07,330 - MainProcess - INFO - GOOGL: Completed 10/1064 test steps
+2025-04-30 22:49:07,673 - MainProcess - INFO - GOOGL: Completed 20/1064 test steps
+2025-04-30 22:49:08,018 - MainProcess - INFO - GOOGL: Completed 30/1064 test steps
+2025-04-30 22:49:08,345 - MainProcess - INFO - GOOGL: Completed 40/1064 test steps
+2025-04-30 22:49:08,669 - MainProcess - INFO - GOOGL: Completed 50/1064 test steps
+2025-04-30 22:49:08,669 - MainProcess - INFO - GOOGL: Retraining at step 50/1064
+2025-04-30 22:49:08,841 - MainProcess - ERROR - Error processing GOOGL: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (4112,) + inhomogeneous part.
+2025-04-30 22:49:08,871 - MainProcess - INFO - Processing AVGO...
+2025-04-30 22:49:11,694 - MainProcess - INFO - AVGO: Completed 0/1064 test steps
+2025-04-30 22:49:12,105 - MainProcess - INFO - AVGO: Completed 10/1064 test steps
+2025-04-30 22:49:12,423 - MainProcess - INFO - AVGO: Completed 20/1064 test steps
+2025-04-30 22:49:12,757 - MainProcess - INFO - AVGO: Completed 30/1064 test steps
+2025-04-30 22:49:13,082 - MainProcess - INFO - AVGO: Completed 40/1064 test steps
+2025-04-30 22:49:13,406 - MainProcess - INFO - AVGO: Completed 50/1064 test steps
+2025-04-30 22:49:13,406 - MainProcess - INFO - AVGO: Retraining at step 50/1064
+2025-04-30 22:49:13,532 - MainProcess - ERROR - Error processing AVGO: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2862,) + inhomogeneous part.
+2025-04-30 22:49:13,553 - MainProcess - INFO - Processing TSLA...
+2025-04-30 22:49:16,178 - MainProcess - INFO - TSLA: Completed 0/1064 test steps
+2025-04-30 22:49:16,594 - MainProcess - INFO - TSLA: Completed 10/1064 test steps
+2025-04-30 22:49:16,940 - MainProcess - INFO - TSLA: Completed 20/1064 test steps
+2025-04-30 22:49:17,265 - MainProcess - INFO - TSLA: Completed 30/1064 test steps
+2025-04-30 22:49:17,597 - MainProcess - INFO - TSLA: Completed 40/1064 test steps
+2025-04-30 22:49:17,939 - MainProcess - INFO - TSLA: Completed 50/1064 test steps
+2025-04-30 22:49:17,939 - MainProcess - INFO - TSLA: Retraining at step 50/1064
+2025-04-30 22:49:18,057 - MainProcess - ERROR - Error processing TSLA: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2637,) + inhomogeneous part.
+2025-04-30 22:49:18,075 - MainProcess - INFO - Processing LLY...

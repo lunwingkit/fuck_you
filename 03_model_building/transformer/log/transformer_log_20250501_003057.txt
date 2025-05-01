@@ -1,0 +1,4 @@
+2025-05-01 00:30:57,934 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 00:30:58,219 - MainProcess - INFO - >>> Running Hyperparameter Set 1: {'batch_size': 128, 'epochs': 5, 'walkforward_retrain_step': 200}
+2025-05-01 00:30:58,219 - MainProcess - INFO - Starting parallel processing for 25 stocks with 8 workers (Hyperparameter Set 1)
+2025-05-01 00:36:17,568 - MainProcess - INFO - Completed parallel processing for 25 stocks (Hyperparameter Set 1)

@@ -1,0 +1,52 @@
+2025-05-01 13:17:52,677 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 13:17:52,677 - MainProcess - INFO - Loading input CSV
+2025-05-01 13:17:52,936 - MainProcess - INFO - Processing 25 stocks
+2025-05-01 13:17:52,936 - MainProcess - INFO - Created saliency directory: saliency_outputs/transformer_lstm_set_2
+2025-05-01 13:17:52,936 - MainProcess - INFO - Starting parallel processing for 25 stocks with 8 workers (Hyperparameter Set 2)
+2025-05-01 13:30:13,604 - MainProcess - INFO - Completed parallel processing for 25 stocks (Hyperparameter Set 2)
+2025-05-01 13:30:13,605 - MainProcess - INFO - Processing results for hyperparameter set 2
+2025-05-01 13:30:13,605 - MainProcess - INFO - Saving saliency data to CSV for hyperparameter set 2
+2025-05-01 13:30:13,611 - MainProcess - INFO - Saved saliency data CSV to saliency_outputs/transformer_lstm_set_2/transformer_lstm_set_2_saliency.csv (Hyperparameter Set 2)
+2025-05-01 13:30:13,611 - MainProcess - INFO - Generating combined saliency plot for hyperparameter set 2
+2025-05-01 13:30:13,808 - MainProcess - INFO - Generated combined saliency map image for all stocks (Hyperparameter Set 2)
+2025-05-01 13:30:13,809 - MainProcess - INFO - Saved combined saliency map CSV to saliency_outputs/transformer_lstm_set_2/saliency_combined_set_2.csv (Hyperparameter Set 2)
+2025-05-01 13:30:13,809 - MainProcess - INFO - Saving metrics to CSV for hyperparameter set 2
+2025-05-01 13:30:13,810 - MainProcess - INFO - Saved metrics CSV to saliency_outputs/transformer_lstm_set_2/transformer_lstm_set_2_metrics.csv (Hyperparameter Set 2)
+2025-05-01 13:30:13,810 - MainProcess - INFO - Saving epoch metrics to CSV for hyperparameter set 2
+2025-05-01 13:30:13,815 - MainProcess - INFO - Saved epoch metrics CSV to saliency_outputs/transformer_lstm_set_2/transformer_lstm_set_2_epoch_metrics.csv (Hyperparameter Set 2)
+2025-05-01 13:30:13,815 - MainProcess - INFO - Saving summary to CSV for hyperparameter set 2
+2025-05-01 13:30:13,817 - MainProcess - INFO - Saved summary CSV to saliency_outputs/transformer_lstm_set_2/transformer_lstm_set_2_summary.csv (Hyperparameter Set 2)
+2025-05-01 13:30:13,817 - MainProcess - INFO - Performance Summary:
+2025-05-01 13:30:13,818 - MainProcess - INFO - 
+|    MSE |    RMSE |     MAE |       R2 |   hyperparam_set |   batch_size |   epochs |   walkforward_retrain_step |
+|--------|---------|---------|----------|------------------|--------------|----------|----------------------------|
+| 4366.1 | 50.7678 | 38.9474 | 0.149553 |                2 |          256 |       10 |                        100 |
+2025-05-01 13:30:13,818 - MainProcess - INFO - Clearing memory after hyperparameter set 2
+2025-05-01 13:30:13,993 - MainProcess - INFO - Evaluation complete.
+2025-05-01 13:30:13,996 - MainProcess - INFO - 
+    Stock           MSE        RMSE         MAE        R2  batch_size  epochs  walkforward_retrain_step  hyperparam_set
+0    AAPL    847.021729   29.103638   22.962845  0.267830         256      10                       100               2
+1    MSFT   3385.579590   58.185734   44.274296  0.331441         256      10                       100               2
+2    NVDA    824.033081   28.705976   19.837786  0.555980         256      10                       100               2
+3    AMZN   1168.005005   34.176086   26.564739  0.050465         256      10                       100               2
+4    GOOG    369.739655   19.228615   15.947629  0.513374         256      10                       100               2
+5    META  28925.765625  170.075760  127.201462 -0.252000         256      10                       100               2
+6   BRK-B   3447.396729   58.714535   42.743332  0.354773         256      10                       100               2
+7   GOOGL    657.791809   25.647451   22.055054  0.114087         256      10                       100               2
+8    AVGO   1091.408813   33.036476   29.031092  0.628522         256      10                       100               2
+9    TSLA  10864.481445  104.232826   76.883865 -1.658355         256      10                       100               2
+10    LLY   8638.170898   92.941757   79.774269  0.860227         256      10                       100               2
+11    JPM    837.898804   28.946482   23.908756  0.524901         256      10                       100               2
+12    WMT     99.699097    9.984943    7.657621  0.604599         256      10                       100               2
+13      V    970.743408   31.156755   24.640173  0.416983         256      10                       100               2
+14    XOM    859.840149   29.323030   19.837536 -0.461275         256      10                       100               2
+15     MA   4225.497559   65.003830   52.427845  0.104683         256      10                       100               2
+16    UNH   3755.254883   61.280136   47.892311  0.078070         256      10                       100               2
+17   ORCL    475.340363   21.802301   16.739216  0.574682         256      10                       100               2
+18   NFLX  11425.062500  106.888084   74.853119  0.735208         256      10                       100               2
+19   COST  22570.591797  150.235123  111.798935  0.415588         256      10                       100               2
+20    JNJ    107.699593   10.377841    8.675245 -1.203661         256      10                       100               2
+21     PG    215.123199   14.667079   12.044758  0.130133         256      10                       100               2
+22   ABBV   1519.531494   38.981167   29.582258 -0.659837         256      10                       100               2
+23     HD   1859.304688   43.119656   33.540283  0.063761         256      10                       100               2
+24    BAC     11.419754    3.379313    2.811654  0.648644         256      10                       100               2

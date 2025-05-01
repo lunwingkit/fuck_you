@@ -1,0 +1,9 @@
+2025-05-01 12:34:28,440 - MainProcess - INFO - Starting CNN-Transformer hybrid model training and evaluation...
+2025-05-01 12:34:28,440 - MainProcess - INFO - Loading input CSV
+2025-05-01 12:34:28,705 - MainProcess - INFO - Processing 25 stocks
+2025-05-01 12:35:24,553 - MainProcess - INFO - Performance Summary:
+2025-05-01 12:35:24,554 - MainProcess - INFO - 
+|    MSE |     RMSE |      MAE |       R2 |   hyperparam_set |
+|--------|----------|----------|----------|------------------|
+| 0.1033 | 0.248892 | 0.206218 | -3.33358 |                1 |
+2025-05-01 12:35:24,910 - MainProcess - INFO - Evaluation complete.

@@ -1,0 +1,5 @@
+2025-05-01 16:47:02,553 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 16:47:02,554 - MainProcess - INFO - Loading input CSV
+2025-05-01 16:47:02,969 - MainProcess - INFO - Processing 25 stocks
+2025-05-01 16:47:02,969 - MainProcess - INFO - Created saliency directory: saliency_outputs/transformer_lstm_set_5
+2025-05-01 16:47:02,969 - MainProcess - INFO - Starting parallel processing for 25 stocks with 8 workers (Hyperparameter Set 5)

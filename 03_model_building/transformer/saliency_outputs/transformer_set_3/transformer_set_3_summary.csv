@@ -1,0 +1,2 @@
+MSE,RMSE,MAE,R2,hyperparam_set,batch_size,epochs,walkforward_retrain_step
+3341.8359375,46.402198791503906,35.72378158569336,-0.005612750053405762,3,256,15,50

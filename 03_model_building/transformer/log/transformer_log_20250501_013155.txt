@@ -1,0 +1,19 @@
+2025-05-01 01:31:55,170 - MainProcess - INFO - Starting Transformer model training and evaluation...
+2025-05-01 01:32:04,380 - MainProcess - WARNING - 5 out of the last 6 calls to <function TensorFlowTrainer._make_function.<locals>.multi_step_on_iterator at 0x17fb06af0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-05-01 01:32:04,481 - MainProcess - WARNING - 6 out of the last 7 calls to <function TensorFlowTrainer._make_function.<locals>.multi_step_on_iterator at 0x17fb06550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-05-01 01:32:31,181 - MainProcess - WARNING - 5 out of the last 16 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x490d3a4c0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-05-01 01:32:42,421 - MainProcess - ERROR - NVDA failed: Cannot assign value to variable ' loss/total:0': Shape mismatch.The variable shape (32,), and the assigned value shape () are incompatible.
+2025-05-01 01:32:42,828 - MainProcess - ERROR - AMZN failed: Exception encountered when calling EinsumDense.call().
+
+[1mDimensions must be equal, but are 16 and 21 for '{{node functional_1_1/multi_head_attention_1_1/value_1/add}} = AddV2[T=DT_FLOAT](functional_1_1/multi_head_attention_1_1/value_1/Reshape_1, functional_1_1/multi_head_attention_1_1/value_1/add/ReadVariableOp)' with input shapes: [?,60,2,16], [21].[0m
+
+Arguments received by EinsumDense.call():
+  • inputs=tf.Tensor(shape=(None, 60, 21), dtype=float32)
+  • training=True
+2025-05-01 01:32:42,964 - MainProcess - ERROR - BRK-B failed: Exception encountered when calling Dense.call().
+
+[1mShape must be rank 1 but is rank 0 for '{{node functional_1_1/dense_3_1/BiasAdd}} = BiasAdd[T=DT_FLOAT, data_format="NHWC"](functional_1_1/dense_3_1/MatMul, functional_1_1/dense_3_1/BiasAdd/ReadVariableOp)' with input shapes: [?,60,32], [].[0m
+
+Arguments received by Dense.call():
+  • inputs=tf.Tensor(shape=(None, 60, 21), dtype=float32)
+  • training=True
