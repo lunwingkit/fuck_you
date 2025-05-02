@@ -1,4 +1,4 @@
 data/daily_stock_price/sp500_daily_data_yfinance.csv
 03_model_building/transformer/old/*
 03_model_building/rnn_lstm/stock_models/*
-03_model_building/random_forest/rf_stock_models/*
+*.pkl
